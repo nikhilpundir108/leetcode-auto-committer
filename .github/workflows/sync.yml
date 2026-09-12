@@ -1,0 +1,39 @@
+name: Auto-Sync LeetCode Solutions
+
+on:
+  schedule:
+    # Run every 6 hours automatically (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    name: Sync LeetCode Solves
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Execute LeetCode Sync
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT || secrets.GH_TOKEN || secrets.PAT || secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          SYNC_LIMIT: 30
+        run: node sync.js

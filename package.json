@@ -1,0 +1,26 @@
+{
+  "name": "auto-sync-leetcode",
+  "version": "1.0.0",
+  "description": "Auto-sync accepted LeetCode solutions to GitHub with zero manual copy-pasting",
+  "type": "module",
+  "main": "sync.js",
+  "scripts": {
+    "start": "node sync.js",
+    "sync": "node sync.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "leetcode",
+    "github",
+    "automation",
+    "sync",
+    "octokit",
+    "graphql"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.1.1",
+    "dotenv": "^16.4.5"
+  }
+}

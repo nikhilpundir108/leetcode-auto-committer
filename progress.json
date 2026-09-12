@@ -1,0 +1,408 @@
+{
+  "lastSyncedAt": "2026-09-12T23:27:55.088Z",
+  "totalSolved": 20,
+  "solvedProblems": {
+    "1399": {
+      "frontendId": "1399",
+      "title": "Count Largest Group",
+      "titleSlug": "count-largest-group",
+      "difficulty": "Easy",
+      "directory": "1399-count-largest-group",
+      "submissions": [
+        {
+          "submissionId": "2140020800",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "54.15%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "10.70%",
+          "timestamp": 1789249074
+        }
+      ]
+    },
+    "1431": {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "titleSlug": "kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "directory": "1431-kids-with-the-greatest-number-of-candies",
+      "submissions": [
+        {
+          "submissionId": "2138432327",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "95.60%",
+          "memory": "44 MB",
+          "memoryPercentile": "25.14%",
+          "timestamp": 1789121353
+        }
+      ]
+    },
+    "1436": {
+      "frontendId": "1436",
+      "title": "Destination City",
+      "titleSlug": "destination-city",
+      "difficulty": "Easy",
+      "directory": "1436-destination-city",
+      "submissions": [
+        {
+          "submissionId": "2138248234",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.69%",
+          "memory": "44.9 MB",
+          "memoryPercentile": "62.12%",
+          "timestamp": 1789107882
+        }
+      ]
+    },
+    "1748": {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "titleSlug": "sum-of-unique-elements",
+      "difficulty": "Easy",
+      "directory": "1748-sum-of-unique-elements",
+      "submissions": [
+        {
+          "submissionId": "2138275176",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "71.07%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "36.57%",
+          "timestamp": 1789109446
+        }
+      ]
+    },
+    "1935": {
+      "frontendId": "1935",
+      "title": "Maximum Number of Words You Can Type",
+      "titleSlug": "maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "directory": "1935-maximum-number-of-words-you-can-type",
+      "submissions": [
+        {
+          "submissionId": "2139951721",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "45.60%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "69.46%",
+          "timestamp": 1789240948
+        }
+      ]
+    },
+    "2085": {
+      "frontendId": "2085",
+      "title": "Count Common Words With One Occurrence",
+      "titleSlug": "count-common-words-with-one-occurrence",
+      "difficulty": "Easy",
+      "directory": "2085-count-common-words-with-one-occurrence",
+      "submissions": [
+        {
+          "submissionId": "2139966676",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "71.12%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "44.23%",
+          "timestamp": 1789242329
+        }
+      ]
+    },
+    "2190": {
+      "frontendId": "2190",
+      "title": "Most Frequent Number Following Key In an Array",
+      "titleSlug": "most-frequent-number-following-key-in-an-array",
+      "difficulty": "Easy",
+      "directory": "2190-most-frequent-number-following-key-in-an-array",
+      "submissions": [
+        {
+          "submissionId": "2140009515",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "65.34%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "59.53%",
+          "timestamp": 1789247353
+        }
+      ]
+    },
+    "2215": {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "titleSlug": "find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "directory": "2215-find-the-difference-of-two-arrays",
+      "submissions": [
+        {
+          "submissionId": "2139997452",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "98.21%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "96.30%",
+          "timestamp": 1789245747
+        }
+      ]
+    },
+    "2351": {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "titleSlug": "first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "directory": "2351-first-letter-to-appear-twice",
+      "submissions": [
+        {
+          "submissionId": "2139981723",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "17.31%",
+          "timestamp": 1789243876
+        }
+      ]
+    },
+    "2367": {
+      "frontendId": "2367",
+      "title": "Number of Arithmetic Triplets",
+      "titleSlug": "number-of-arithmetic-triplets",
+      "difficulty": "Easy",
+      "directory": "2367-number-of-arithmetic-triplets",
+      "submissions": [
+        {
+          "submissionId": "2139977980",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "92.81%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "31.24%",
+          "timestamp": 1789243470
+        }
+      ]
+    },
+    "2441": {
+      "frontendId": "2441",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "titleSlug": "largest-positive-integer-that-exists-with-its-negative",
+      "difficulty": "Easy",
+      "directory": "2441-largest-positive-integer-that-exists-with-its-negative",
+      "submissions": [
+        {
+          "submissionId": "2139989684",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "82.86%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "69.11%",
+          "timestamp": 1789244773
+        }
+      ]
+    },
+    "3483": {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "titleSlug": "unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "directory": "3483-unique-3-digit-even-numbers",
+      "submissions": [
+        {
+          "submissionId": "2139933161",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "69.24%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "30.34%",
+          "timestamp": 1789239436
+        }
+      ]
+    },
+    "0118": {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "titleSlug": "pascals-triangle",
+      "difficulty": "Easy",
+      "directory": "0118-pascals-triangle",
+      "submissions": [
+        {
+          "submissionId": "2138355891",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "95.37%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "34.40%",
+          "timestamp": 1789115931
+        }
+      ]
+    },
+    "0006": {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "directory": "0006-zigzag-conversion",
+      "submissions": [
+        {
+          "submissionId": "2138392212",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "15.68%",
+          "memory": "47.2 MB",
+          "memoryPercentile": "16.41%",
+          "timestamp": 1789118481
+        }
+      ]
+    },
+    "0119": {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "titleSlug": "pascals-triangle-ii",
+      "difficulty": "Easy",
+      "directory": "0119-pascals-triangle-ii",
+      "submissions": [
+        {
+          "submissionId": "2138402553",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "23.60%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "35.70%",
+          "timestamp": 1789119199
+        }
+      ]
+    },
+    "0728": {
+      "frontendId": "728",
+      "title": "Self Dividing Numbers",
+      "titleSlug": "self-dividing-numbers",
+      "difficulty": "Easy",
+      "directory": "0728-self-dividing-numbers",
+      "submissions": [
+        {
+          "submissionId": "2138418770",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "98.72%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "64.71%",
+          "timestamp": 1789120390
+        }
+      ]
+    },
+    "0075": {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "titleSlug": "sort-colors",
+      "difficulty": "Medium",
+      "directory": "0075-sort-colors",
+      "submissions": [
+        {
+          "submissionId": "2138434337",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.8 MB",
+          "memoryPercentile": "8.20%",
+          "timestamp": 1789121490
+        }
+      ]
+    },
+    "0042": {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "titleSlug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "directory": "0042-trapping-rain-water",
+      "submissions": [
+        {
+          "submissionId": "2138445702",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "56.17%",
+          "memory": "48.9 MB",
+          "memoryPercentile": "8.72%",
+          "timestamp": 1789122287
+        }
+      ]
+    },
+    "0498": {
+      "frontendId": "498",
+      "title": "Diagonal Traverse",
+      "titleSlug": "diagonal-traverse",
+      "difficulty": "Medium",
+      "directory": "0498-diagonal-traverse",
+      "submissions": [
+        {
+          "submissionId": "2139611910",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "13 ms",
+          "runtimePercentile": "13.77%",
+          "memory": "48.2 MB",
+          "memoryPercentile": "48.36%",
+          "timestamp": 1789224418
+        }
+      ]
+    },
+    "0448": {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "titleSlug": "find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "directory": "0448-find-all-numbers-disappeared-in-an-array",
+      "submissions": [
+        {
+          "submissionId": "2140026670",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "19 ms",
+          "runtimePercentile": "36.92%",
+          "memory": "73.8 MB",
+          "memoryPercentile": "32.95%",
+          "timestamp": 1789250019
+        }
+      ]
+    }
+  },
+  "syncedSubmissionIds": [
+    "2138248234",
+    "2138275176",
+    "2138355891",
+    "2138392212",
+    "2138402553",
+    "2138418770",
+    "2138432327",
+    "2138434337",
+    "2138445702",
+    "2139611910",
+    "2139933161",
+    "2139951721",
+    "2139966676",
+    "2139977980",
+    "2139981723",
+    "2139989684",
+    "2139997452",
+    "2140009515",
+    "2140020800",
+    "2140026670"
+  ]
+}
