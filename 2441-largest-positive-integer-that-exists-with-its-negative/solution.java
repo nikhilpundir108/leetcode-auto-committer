@@ -3,23 +3,22 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 6 ms (Beats 82.86%)
- * Memory: 46.9 MB (Beats 69.11%)
- * Solved At: 2026-09-12 20:26:13
+ * Memory: 47.1 MB (Beats 41.54%)
+ * Solved At: 2026-09-12 20:25:58
  * Link: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
  */
 
 class Solution {
     public int findMaxK(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
         int max = -1;
-        for (int i = 0; i < nums.length; i++) {
-            if (set.contains(-nums[i])) {
-                if (nums[i] < 0) {
-                    nums[i] = -nums[i];
-                }
-                max = Math.max(max, nums[i]);
+        for (int num : nums) {
+            if (num > 0 && set.contains(-num)) {
+                max = Math.max(max, num);
             }
-            set.add(nums[i]);
         }
         return max;
     }

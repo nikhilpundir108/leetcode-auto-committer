@@ -43,7 +43,7 @@ Output: [1,2,3,4]
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 13 ms (Beats 13.77%)
-- **Memory:** 48.2 MB (Beats 48.36%)
-- **Submission Date:** 2026-09-12 14:46:58
+- **Runtime:** 14 ms (Beats 12.30%)
+- **Memory:** 48.3 MB (Beats 17.63%)
+- **Submission Date:** 2026-09-11 11:01:00
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/diagonal-traverse/)

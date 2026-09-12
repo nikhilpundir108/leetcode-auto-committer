@@ -191,6 +191,27 @@ const QUERY_USER_STATUS = `
   }
 `;
 
+const QUERY_SUBMISSION_LIST = `
+  query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String) {
+    submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {
+      lastKey
+      hasNext
+      submissions {
+        id
+        statusDisplay
+        lang
+        runtime
+        timestamp
+        url
+        isPending
+        title
+        memory
+        titleSlug
+      }
+    }
+  }
+`;
+
 const QUERY_RECENT_AC = `
   query recentAcSubmissions($username: String!, $limit: Int!) {
     recentAcSubmissionList(username: $username, limit: $limit) {
@@ -251,6 +272,9 @@ const QUERY_QUESTION_DATA = `
   }
 `;
 
+// Helper sleep utility for polite rate-limiting
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 // ==============================================================================
 // State & Storage Manager (Local Filesystem + Octokit Remote Sync)
 // ==============================================================================
@@ -260,6 +284,7 @@ class StorageManager {
     this.repoOwner = repoOwner;
     this.repoName = repoName;
     this.fileShas = new Map();
+    this.octokitDisabled = false;
   }
 
   async readProgress() {
@@ -272,7 +297,7 @@ class StorageManager {
       }
     }
 
-    if (this.octokit && this.repoOwner && this.repoName) {
+    if (this.octokit && this.repoOwner && this.repoName && !this.octokitDisabled) {
       try {
         const { data } = await this.octokit.rest.repos.getContent({
           owner: this.repoOwner,
@@ -314,7 +339,7 @@ class StorageManager {
     }
 
     // 2. Commit to GitHub API if Octokit is configured
-    if (this.octokit && this.repoOwner && this.repoName) {
+    if (this.octokit && this.repoOwner && this.repoName && !this.octokitDisabled) {
       try {
         let sha = this.fileShas.get(normalizedPath);
         if (!sha) {
@@ -345,7 +370,12 @@ class StorageManager {
           this.fileShas.set(normalizedPath, res.data.content.sha);
         }
       } catch (err) {
-        console.error(`❌ GitHub API commit failed for ${normalizedPath}: ${err.message}`);
+        if (err.status === 401 || err.status === 403 || err.message?.includes('Resource not accessible')) {
+          console.warn(`⚠️  GitHub API access denied (${err.message}). Continuing in Local Filesystem Mode.`);
+          this.octokitDisabled = true;
+        } else {
+          console.error(`❌ GitHub API commit failed for ${normalizedPath}: ${err.message}`);
+        }
       }
     }
   }
@@ -377,11 +407,20 @@ export function generateRootReadme(progress) {
   for (const prob of problems) {
     const paddedId = padNumber(prob.frontendId);
     const probLink = `https://leetcode.com/problems/${prob.titleSlug}/`;
-    const solLinks = (prob.submissions || []).map(s => {
-      const solPath = `./${prob.directory}/${s.file || 'solution.js'}`;
-      const langName = LANG_MAP[s.language]?.name || s.language || 'Code';
-      return `[${langName}](${solPath})`;
-    }).join(', ');
+    
+    // Deduplicate solution links by language
+    const seenLangs = new Set();
+    const solLinksList = [];
+    for (const s of (prob.submissions || [])) {
+      const langKey = (s.language || 'code').toLowerCase();
+      if (!seenLangs.has(langKey)) {
+        seenLangs.add(langKey);
+        const solPath = `./${prob.directory}/${s.file || 'solution.js'}`;
+        const langName = LANG_MAP[s.language]?.name || s.language || 'Code';
+        solLinksList.push(`[${langName}](${solPath})`);
+      }
+    }
+    const solLinks = solLinksList.join(', ');
 
     const latestSub = prob.submissions?.[prob.submissions.length - 1] || {};
     const runtime = latestSub.runtime || 'N/A';
@@ -460,6 +499,72 @@ ${cleanDescription}
 }
 
 // ==============================================================================
+// Submission Fetcher with Pagination Support
+// ==============================================================================
+async function fetchAllAcceptedSubmissions({ username, syncedIdsSet, forceSync }) {
+  const pageSize = 20;
+  let offset = 0;
+  let hasNext = true;
+  let lastKey = null;
+  const acceptedSubmissions = [];
+
+  console.log(`📥 Fetching submissions with pagination from LeetCode...`);
+
+  while (hasNext) {
+    try {
+      const res = await leetcodeGraphQL(QUERY_SUBMISSION_LIST, { offset, limit: pageSize, lastKey });
+      const data = res?.submissionList;
+
+      if (!data || !data.submissions || data.submissions.length === 0) {
+        break;
+      }
+
+      const submissions = data.submissions;
+      let newAcceptedInPage = 0;
+
+      for (const sub of submissions) {
+        if (sub.statusDisplay === 'Accepted') {
+          acceptedSubmissions.push(sub);
+          if (!syncedIdsSet.has(String(sub.id))) {
+            newAcceptedInPage++;
+          }
+        }
+      }
+
+      console.log(`   Page (offset ${offset}): Retrieved ${submissions.length} submissions (${newAcceptedInPage} new accepted).`);
+
+      hasNext = data.hasNext;
+      lastKey = data.lastKey;
+      offset += pageSize;
+
+      // Incremental optimization: If not force syncing and all accepted submissions in this page are already synced, we can stop pagination early
+      if (!forceSync && syncedIdsSet.size > 0 && newAcceptedInPage === 0 && offset > 40) {
+        console.log(`   ⏹️ Reached previously synced submissions. Stopping pagination.`);
+        break;
+      }
+
+      // Small pause between pages
+      await sleep(200);
+    } catch (err) {
+      console.warn(`⚠️  Paginated query failed at offset ${offset}: ${err.message}`);
+      // Fallback to recent submissions query if submissionList query encounters an issue
+      if (acceptedSubmissions.length === 0) {
+        console.log('   Falling back to recentAcSubmissionList query...');
+        try {
+          const fallbackData = await leetcodeGraphQL(QUERY_RECENT_AC, { username, limit: 20 });
+          return fallbackData.recentAcSubmissionList || [];
+        } catch (fbErr) {
+          console.error(`❌ Fallback query also failed: ${fbErr.message}`);
+        }
+      }
+      break;
+    }
+  }
+
+  return acceptedSubmissions;
+}
+
+// ==============================================================================
 // Main Sync Engine
 // ==============================================================================
 export async function runSync() {
@@ -480,14 +585,16 @@ export async function runSync() {
   let repoName = '';
 
   if (GITHUB_TOKEN && GITHUB_REPO) {
-    const parts = GITHUB_REPO.split('/');
-    if (parts.length === 2) {
+    // Sanitize repository input (handles "owner/repo", "https://github.com/owner/repo", "git@github.com:owner/repo.git")
+    let cleanRepo = GITHUB_REPO.replace(/\.git$/i, '').replace(/^https?:\/\/github\.com\//i, '').replace(/^git@github\.com:/i, '').trim();
+    const parts = cleanRepo.split('/');
+    if (parts.length === 2 && parts[0] && parts[1]) {
       repoOwner = parts[0];
       repoName = parts[1];
       octokit = new Octokit({ auth: GITHUB_TOKEN });
-      console.log(`📡 GitHub API Mode enabled for repo: ${GITHUB_REPO}`);
+      console.log(`📡 GitHub API Mode enabled for repo: ${repoOwner}/${repoName}`);
     } else {
-      console.warn(`⚠️  Invalid GITHUB_REPO format "${GITHUB_REPO}". Expected "owner/repo". Using Local Mode.`);
+      console.warn(`⚠️  Invalid GITHUB_REPO format "${GITHUB_REPO}". Expected "username/repo-name". Using Local Mode.`);
     }
   } else {
     console.log('💻 Local Filesystem Mode enabled (No GitHub PAT or Repo configured).');
@@ -515,36 +622,32 @@ export async function runSync() {
   const username = userStatus.username;
   console.log(`✅ Logged in as LeetCode user: @${username}`);
 
-  // 3. Fetch Recent Accepted Submissions
-  console.log(`📥 Fetching last ${SYNC_LIMIT} accepted submissions for @${username}...`);
-  let recentSubmissions = [];
-  try {
-    const data = await leetcodeGraphQL(QUERY_RECENT_AC, { username, limit: SYNC_LIMIT });
-    recentSubmissions = data.recentAcSubmissionList || [];
-  } catch (err) {
-    console.error(`❌ Failed to fetch recent submissions: ${err.message}`);
-    process.exit(1);
-  }
-
-  console.log(`📋 Found ${recentSubmissions.length} recent accepted submission(s).`);
-  if (recentSubmissions.length === 0) {
-    console.log('✨ No accepted submissions found. All done!');
-    return;
-  }
-
-  // 4. Load Progress State
+  // 3. Load Progress State
   const progress = await storage.readProgress();
   if (!progress.syncedSubmissionIds) progress.syncedSubmissionIds = [];
   if (!progress.solvedProblems) progress.solvedProblems = {};
 
   const syncedIdsSet = new Set(progress.syncedSubmissionIds.map(String));
 
+  // 4. Fetch All Accepted Submissions (with pagination)
+  const allAccepted = await fetchAllAcceptedSubmissions({
+    username,
+    syncedIdsSet,
+    forceSync: FORCE_SYNC,
+  });
+
+  console.log(`📋 Found ${allAccepted.length} total accepted submission(s) across all pages.`);
+  if (allAccepted.length === 0) {
+    console.log('✨ No accepted submissions found. All done!');
+    return;
+  }
+
   // 5. Filter Unsynced Submissions
-  const toSync = recentSubmissions.filter(sub => FORCE_SYNC || !syncedIdsSet.has(String(sub.id)));
+  const toSync = allAccepted.filter(sub => FORCE_SYNC || !syncedIdsSet.has(String(sub.id)));
   console.log(`🎯 Found ${toSync.length} new submission(s) to process.`);
 
   if (toSync.length === 0) {
-    console.log('✨ All recent submissions are already synced and up to date!');
+    console.log('✨ All submissions are already synced and up to date!');
     return;
   }
 
@@ -553,10 +656,15 @@ export async function runSync() {
 
   let newlySyncedCount = 0;
 
-  for (const item of toSync) {
+  for (let i = 0; i < toSync.length; i++) {
+    const item = toSync[i];
     const subId = parseInt(item.id, 10);
+    const progressLabel = `[${i + 1}/${toSync.length}]`;
     console.log(`\n------------------------------------------------------------`);
-    console.log(`🔍 Processing submission #${subId} (${item.title || item.titleSlug})...`);
+    console.log(`${progressLabel} 🔍 Processing submission #${subId} (${item.title || item.titleSlug})...`);
+
+    // Polite rate limiting between question fetches
+    await sleep(250);
 
     let subDetails = null;
     try {
@@ -576,6 +684,7 @@ export async function runSync() {
     const titleSlug = item.titleSlug || subDetails.question?.titleSlug;
     let questionData = null;
     try {
+      await sleep(150);
       const qData = await leetcodeGraphQL(QUERY_QUESTION_DATA, { titleSlug });
       questionData = qData.question;
     } catch (err) {
@@ -588,7 +697,7 @@ export async function runSync() {
     const topicTags = questionData?.topicTags || subDetails.topicTags || [];
     const contentHtml = questionData?.content || '';
 
-    const langKey = (subDetails.lang?.name || 'javascript').toLowerCase();
+    const langKey = (subDetails.lang?.name || item.lang || 'javascript').toLowerCase();
     const langInfo = LANG_MAP[langKey] || { ext: 'txt', comment: '//', name: subDetails.lang?.verboseName || langKey };
 
     const paddedId = padNumber(frontendId);
@@ -605,9 +714,9 @@ export async function runSync() {
       frontendId,
       difficulty,
       langName: langInfo.name,
-      runtime: subDetails.runtimeDisplay || subDetails.runtime,
+      runtime: subDetails.runtimeDisplay || subDetails.runtime || item.runtime,
       runtimePercentile: subDetails.runtimePercentile,
-      memory: subDetails.memoryDisplay || subDetails.memory,
+      memory: subDetails.memoryDisplay || subDetails.memory || item.memory,
       memoryPercentile: subDetails.memoryPercentile,
       date: formattedDate,
       link: problemUrl,
@@ -625,9 +734,9 @@ export async function runSync() {
       contentHtml,
       submission: {
         lang: langKey,
-        runtime: subDetails.runtimeDisplay || subDetails.runtime,
+        runtime: subDetails.runtimeDisplay || subDetails.runtime || item.runtime,
         runtimePercentile: subDetails.runtimePercentile,
-        memory: subDetails.memoryDisplay || subDetails.memory,
+        memory: subDetails.memoryDisplay || subDetails.memory || item.memory,
         memoryPercentile: subDetails.memoryPercentile,
         timestamp: subDetails.timestamp || item.timestamp,
       },
@@ -658,9 +767,9 @@ export async function runSync() {
       submissionId: String(subId),
       language: langKey,
       file: solFileName,
-      runtime: subDetails.runtimeDisplay || `${subDetails.runtime} ms`,
+      runtime: subDetails.runtimeDisplay || `${subDetails.runtime || item.runtime || 'N/A'}`,
       runtimePercentile: subDetails.runtimePercentile ? `${Number(subDetails.runtimePercentile).toFixed(2)}%` : null,
-      memory: subDetails.memoryDisplay || `${subDetails.memory} MB`,
+      memory: subDetails.memoryDisplay || `${subDetails.memory || item.memory || 'N/A'}`,
       memoryPercentile: subDetails.memoryPercentile ? `${Number(subDetails.memoryPercentile).toFixed(2)}%` : null,
       timestamp: subDetails.timestamp || item.timestamp,
     };
@@ -706,3 +815,4 @@ if (isMain) {
     process.exit(1);
   });
 }
+

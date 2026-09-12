@@ -54,6 +54,6 @@ The only letter that appears twice is 'd' so we return 'd'.
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43 MB (Beats 17.31%)
-- **Submission Date:** 2026-09-12 20:11:16
+- **Memory:** 43.1 MB (Beats 17.31%)
+- **Submission Date:** 2026-09-12 20:10:31
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/first-letter-to-appear-twice/)

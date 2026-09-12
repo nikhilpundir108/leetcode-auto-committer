@@ -42,6 +42,6 @@ Output: [48,55,66,77]
 
 - **Language:** Java
 - **Runtime:** 2 ms (Beats 98.72%)
-- **Memory:** 42.6 MB (Beats 64.71%)
-- **Submission Date:** 2026-09-11 09:53:10
+- **Memory:** 42.7 MB (Beats 26.85%)
+- **Submission Date:** 2026-09-11 09:51:31
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/self-dividing-numbers/)

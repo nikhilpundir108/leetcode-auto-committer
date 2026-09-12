@@ -55,7 +55,7 @@ Explanation:
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 92.81%)
-- **Memory:** 43.4 MB (Beats 31.24%)
-- **Submission Date:** 2026-09-12 20:04:30
+- **Runtime:** 2 ms (Beats 85.42%)
+- **Memory:** 43.1 MB (Beats 74.84%)
+- **Submission Date:** 2026-09-12 19:59:38
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/number-of-arithmetic-triplets/)

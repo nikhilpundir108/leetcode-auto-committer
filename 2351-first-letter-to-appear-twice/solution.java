@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 43 MB (Beats 17.31%)
- * Solved At: 2026-09-12 20:11:16
+ * Memory: 43.1 MB (Beats 17.31%)
+ * Solved At: 2026-09-12 20:10:31
  * Link: https://leetcode.com/problems/first-letter-to-appear-twice/
  */
 
@@ -17,6 +17,6 @@ class Solution {
             }
             set.add(s.charAt(i));
         }
-        return ' ';
+        return s.charAt(1);
     }
 }

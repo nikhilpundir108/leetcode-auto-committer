@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 2 ms (Beats 98.72%)
- * Memory: 42.6 MB (Beats 64.71%)
- * Solved At: 2026-09-11 09:53:10
+ * Memory: 42.7 MB (Beats 26.85%)
+ * Solved At: 2026-09-11 09:51:31
  * Link: https://leetcode.com/problems/self-dividing-numbers/
  */
 

@@ -2,9 +2,9 @@
  * Problem: Diagonal Traverse (LeetCode #498)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 13 ms (Beats 13.77%)
- * Memory: 48.2 MB (Beats 48.36%)
- * Solved At: 2026-09-12 14:46:58
+ * Runtime: 14 ms (Beats 12.30%)
+ * Memory: 48.3 MB (Beats 17.63%)
+ * Solved At: 2026-09-11 11:01:00
  * Link: https://leetcode.com/problems/diagonal-traverse/
  */
 

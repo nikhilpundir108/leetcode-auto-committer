@@ -52,6 +52,6 @@ Explanation: There is no a single valid k, we return -1.
 
 - **Language:** Java
 - **Runtime:** 6 ms (Beats 82.86%)
-- **Memory:** 46.9 MB (Beats 69.11%)
-- **Submission Date:** 2026-09-12 20:26:13
+- **Memory:** 47.1 MB (Beats 41.54%)
+- **Submission Date:** 2026-09-12 20:25:58
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)

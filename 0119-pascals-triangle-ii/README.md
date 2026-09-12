@@ -49,6 +49,6 @@ Output: [1,1]
 
 - **Language:** Java
 - **Runtime:** 2 ms (Beats 23.60%)
-- **Memory:** 42.7 MB (Beats 35.70%)
-- **Submission Date:** 2026-09-11 09:33:19
+- **Memory:** 42.9 MB (Beats 7.51%)
+- **Submission Date:** 2026-09-11 09:32:50
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/pascals-triangle-ii/)

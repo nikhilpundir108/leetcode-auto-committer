@@ -1,7 +1,160 @@
 {
-  "lastSyncedAt": "2026-09-12T23:27:55.088Z",
-  "totalSolved": 20,
+  "lastSyncedAt": "2026-09-12T23:55:33.281Z",
+  "totalSolved": 150,
   "solvedProblems": {
+    "1011": {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "titleSlug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "directory": "1011-capacity-to-ship-packages-within-d-days",
+      "submissions": [
+        {
+          "submissionId": "1973300719",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "12 ms",
+          "runtimePercentile": "26.49%",
+          "memory": "50.3 MB",
+          "memoryPercentile": "19.97%",
+          "timestamp": 1775718189
+        },
+        {
+          "submissionId": "1973301905",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "10.31%",
+          "memory": "49.9 MB",
+          "memoryPercentile": "87.75%",
+          "timestamp": 1775718283
+        }
+      ]
+    },
+    "1108": {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "titleSlug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "directory": "1108-defanging-an-ip-address",
+      "submissions": [
+        {
+          "submissionId": "2133781018",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "43.97%",
+          "timestamp": 1788777356
+        }
+      ]
+    },
+    "1207": {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "titleSlug": "unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "directory": "1207-unique-number-of-occurrences",
+      "submissions": [
+        {
+          "submissionId": "2138169193",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "35.70%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "52.49%",
+          "timestamp": 1789103111
+        },
+        {
+          "submissionId": "2138174167",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "98.08%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "69.85%",
+          "timestamp": 1789103409
+        }
+      ]
+    },
+    "1281": {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "directory": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "submissions": [
+        {
+          "submissionId": "2133665666",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "27.49%",
+          "timestamp": 1788769596
+        }
+      ]
+    },
+    "1283": {
+      "frontendId": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "directory": "1283-find-the-smallest-divisor-given-a-threshold",
+      "submissions": [
+        {
+          "submissionId": "1973229449",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "99.41%",
+          "memory": "51.1 MB",
+          "memoryPercentile": "54.57%",
+          "timestamp": 1775713030
+        }
+      ]
+    },
+    "1295": {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "titleSlug": "find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "directory": "1295-find-numbers-with-even-number-of-digits",
+      "submissions": [
+        {
+          "submissionId": "2127080240",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.49%",
+          "memory": "44.8 MB",
+          "memoryPercentile": "22.03%",
+          "timestamp": 1788257093
+        }
+      ]
+    },
+    "1380": {
+      "frontendId": "1380",
+      "title": "Lucky Numbers in a Matrix",
+      "titleSlug": "lucky-numbers-in-a-matrix",
+      "difficulty": "Easy",
+      "directory": "1380-lucky-numbers-in-a-matrix",
+      "submissions": [
+        {
+          "submissionId": "2136206019",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "43.69%",
+          "memory": "47 MB",
+          "memoryPercentile": "71.17%",
+          "timestamp": 1788949429
+        }
+      ]
+    },
     "1399": {
       "frontendId": "1399",
       "title": "Count Largest Group",
@@ -59,6 +212,258 @@
         }
       ]
     },
+    "1470": {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "titleSlug": "shuffle-the-array",
+      "difficulty": "Easy",
+      "directory": "1470-shuffle-the-array",
+      "submissions": [
+        {
+          "submissionId": "2127103300",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46 MB",
+          "memoryPercentile": "97.13%",
+          "timestamp": 1788258562
+        },
+        {
+          "submissionId": "2127103527",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "7.40%",
+          "timestamp": 1788258576
+        }
+      ]
+    },
+    "1480": {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "titleSlug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "directory": "1480-running-sum-of-1d-array",
+      "submissions": [
+        {
+          "submissionId": "2127089554",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "96.63%",
+          "timestamp": 1788257689
+        }
+      ]
+    },
+    "1482": {
+      "frontendId": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "directory": "1482-minimum-number-of-days-to-make-m-bouquets",
+      "submissions": [
+        {
+          "submissionId": "1972784588",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "22 ms",
+          "runtimePercentile": "18.22%",
+          "memory": "82.7 MB",
+          "memoryPercentile": "47.77%",
+          "timestamp": 1775666423
+        },
+        {
+          "submissionId": "1972797727",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "30 ms",
+          "runtimePercentile": "6.37%",
+          "memory": "82.5 MB",
+          "memoryPercentile": "67.09%",
+          "timestamp": 1775667137
+        },
+        {
+          "submissionId": "1972806309",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "49.31%",
+          "memory": "82.6 MB",
+          "memoryPercentile": "47.77%",
+          "timestamp": 1775667592
+        },
+        {
+          "submissionId": "1972809672",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "19 ms",
+          "runtimePercentile": "37.77%",
+          "memory": "82.5 MB",
+          "memoryPercentile": "83.15%",
+          "timestamp": 1775667771
+        },
+        {
+          "submissionId": "1972810264",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "49.31%",
+          "memory": "83 MB",
+          "memoryPercentile": "12.81%",
+          "timestamp": 1775667804
+        },
+        {
+          "submissionId": "2129468342",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "16 ms",
+          "runtimePercentile": "91.32%",
+          "memory": "82.6 MB",
+          "memoryPercentile": "67.09%",
+          "timestamp": 1788429336
+        }
+      ]
+    },
+    "1512": {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "titleSlug": "number-of-good-pairs",
+      "difficulty": "Easy",
+      "directory": "1512-number-of-good-pairs",
+      "submissions": [
+        {
+          "submissionId": "2133740333",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "5.80%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "61.92%",
+          "timestamp": 1788774617
+        },
+        {
+          "submissionId": "2133741226",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "84.79%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "43.08%",
+          "timestamp": 1788774676
+        }
+      ]
+    },
+    "1539": {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "titleSlug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "directory": "1539-kth-missing-positive-number",
+      "submissions": [
+        {
+          "submissionId": "1973543458",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.7 MB",
+          "memoryPercentile": "40.52%",
+          "timestamp": 1775739874
+        }
+      ]
+    },
+    "1572": {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "titleSlug": "matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "directory": "1572-matrix-diagonal-sum",
+      "submissions": [
+        {
+          "submissionId": "2136168930",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "29.48%",
+          "memory": "46 MB",
+          "memoryPercentile": "94.34%",
+          "timestamp": 1788947219
+        },
+        {
+          "submissionId": "2136176513",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "52.10%",
+          "timestamp": 1788947679
+        }
+      ]
+    },
+    "1672": {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "titleSlug": "richest-customer-wealth",
+      "difficulty": "Easy",
+      "directory": "1672-richest-customer-wealth",
+      "submissions": [
+        {
+          "submissionId": "2127110683",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "94.10%",
+          "timestamp": 1788259071
+        },
+        {
+          "submissionId": "2127110926",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "94.10%",
+          "timestamp": 1788259088
+        }
+      ]
+    },
+    "1742": {
+      "frontendId": "1742",
+      "title": "Maximum Number of Balls in a Box",
+      "titleSlug": "maximum-number-of-balls-in-a-box",
+      "difficulty": "Easy",
+      "directory": "1742-maximum-number-of-balls-in-a-box",
+      "submissions": [
+        {
+          "submissionId": "2136116700",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "41 ms",
+          "runtimePercentile": "7.16%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "39.76%",
+          "timestamp": 1788944103
+        },
+        {
+          "submissionId": "2136122287",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "16 ms",
+          "runtimePercentile": "54.47%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "76.74%",
+          "timestamp": 1788944434
+        }
+      ]
+    },
     "1748": {
       "frontendId": "1748",
       "title": "Sum of Unique Elements",
@@ -75,6 +480,188 @@
           "memory": "43.2 MB",
           "memoryPercentile": "36.57%",
           "timestamp": 1789109446
+        }
+      ]
+    },
+    "1752": {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "titleSlug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "directory": "1752-check-if-array-is-sorted-and-rotated",
+      "submissions": [
+        {
+          "submissionId": "1962962963",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "81.53%",
+          "timestamp": 1774796865
+        }
+      ]
+    },
+    "1773": {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "titleSlug": "count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "directory": "1773-count-items-matching-a-rule",
+      "submissions": [
+        {
+          "submissionId": "2137058429",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "96.61%",
+          "memory": "49.9 MB",
+          "memoryPercentile": "13.02%",
+          "timestamp": 1789015991
+        }
+      ]
+    },
+    "1812": {
+      "frontendId": "1812",
+      "title": "Determine Color of a Chessboard Square",
+      "titleSlug": "determine-color-of-a-chessboard-square",
+      "difficulty": "Easy",
+      "directory": "1812-determine-color-of-a-chessboard-square",
+      "submissions": [
+        {
+          "submissionId": "2133690985",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "34.49%",
+          "timestamp": 1788771446
+        }
+      ]
+    },
+    "1832": {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "titleSlug": "check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "directory": "1832-check-if-the-sentence-is-pangram",
+      "submissions": [
+        {
+          "submissionId": "2134742782",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "20.22%",
+          "memory": "43 MB",
+          "memoryPercentile": "51.47%",
+          "timestamp": 1788848614
+        }
+      ]
+    },
+    "1848": {
+      "frontendId": "1848",
+      "title": "Minimum Distance to the Target Element",
+      "titleSlug": "minimum-distance-to-the-target-element",
+      "difficulty": "Easy",
+      "directory": "1848-minimum-distance-to-the-target-element",
+      "submissions": [
+        {
+          "submissionId": "2134974487",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "68.59%",
+          "memory": "45.2 MB",
+          "memoryPercentile": "18.21%",
+          "timestamp": 1788862770
+        },
+        {
+          "submissionId": "2134975399",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "68.59%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "38.21%",
+          "timestamp": 1788862823
+        }
+      ]
+    },
+    "1903": {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "titleSlug": "largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "directory": "1903-largest-odd-number-in-string",
+      "submissions": [
+        {
+          "submissionId": "2085997640",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.86%",
+          "memory": "47 MB",
+          "memoryPercentile": "56.27%",
+          "timestamp": 1785321831
+        },
+        {
+          "submissionId": "2087936081",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.86%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "37.75%",
+          "timestamp": 1785435708
+        },
+        {
+          "submissionId": "2137073411",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.86%",
+          "memory": "47 MB",
+          "memoryPercentile": "74.59%",
+          "timestamp": 1789016883
+        }
+      ]
+    },
+    "1910": {
+      "frontendId": "1910",
+      "title": "Remove All Occurrences of a Substring",
+      "titleSlug": "remove-all-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "directory": "1910-remove-all-occurrences-of-a-substring",
+      "submissions": [
+        {
+          "submissionId": "1791758910",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "22.73%",
+          "memory": "44.9 MB",
+          "memoryPercentile": "38.41%",
+          "timestamp": 1759636901
+        }
+      ]
+    },
+    "1929": {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "titleSlug": "concatenation-of-array",
+      "difficulty": "Easy",
+      "directory": "1929-concatenation-of-array",
+      "submissions": [
+        {
+          "submissionId": "2128225439",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "97.71%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "76.07%",
+          "timestamp": 1788339484
         }
       ]
     },
@@ -97,6 +684,83 @@
         }
       ]
     },
+    "1979": {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "titleSlug": "find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "directory": "1979-find-greatest-common-divisor-of-array",
+      "submissions": [
+        {
+          "submissionId": "2129304257",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.3 MB",
+          "memoryPercentile": "18.55%",
+          "timestamp": 1788417991
+        },
+        {
+          "submissionId": "2129308247",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.8 MB",
+          "memoryPercentile": "94.33%",
+          "timestamp": 1788418200
+        }
+      ]
+    },
+    "2000": {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "titleSlug": "reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "directory": "2000-reverse-prefix-of-word",
+      "submissions": [
+        {
+          "submissionId": "2137090497",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "46.64%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "70.38%",
+          "timestamp": 1789017862
+        },
+        {
+          "submissionId": "2137092183",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "46.64%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "37.02%",
+          "timestamp": 1789017961
+        }
+      ]
+    },
+    "2078": {
+      "frontendId": "2078",
+      "title": "Two Furthest Houses With Different Colors",
+      "titleSlug": "two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "directory": "2078-two-furthest-houses-with-different-colors",
+      "submissions": [
+        {
+          "submissionId": "2135002725",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "22.89%",
+          "timestamp": 1788864514
+        }
+      ]
+    },
     "2085": {
       "frontendId": "2085",
       "title": "Count Common Words With One Occurrence",
@@ -113,6 +777,209 @@
           "memory": "46.3 MB",
           "memoryPercentile": "44.23%",
           "timestamp": 1789242329
+        }
+      ]
+    },
+    "2089": {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "titleSlug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "directory": "2089-find-target-indices-after-sorting-array",
+      "submissions": [
+        {
+          "submissionId": "2137099248",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "73.61%",
+          "memory": "50 MB",
+          "memoryPercentile": "21.01%",
+          "timestamp": 1789018386
+        },
+        {
+          "submissionId": "2137099959",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "73.61%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "29.96%",
+          "timestamp": 1789018429
+        }
+      ]
+    },
+    "2095": {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "titleSlug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "directory": "2095-delete-the-middle-node-of-a-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2077916781",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "99.92%",
+          "memory": "202.9 MB",
+          "memoryPercentile": "8.59%",
+          "timestamp": 1784784202
+        }
+      ]
+    },
+    "2108": {
+      "frontendId": "2108",
+      "title": "Find First Palindromic String in the Array",
+      "titleSlug": "find-first-palindromic-string-in-the-array",
+      "difficulty": "Easy",
+      "directory": "2108-find-first-palindromic-string-in-the-array",
+      "submissions": [
+        {
+          "submissionId": "2134888172",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "48.06%",
+          "timestamp": 1788857771
+        }
+      ]
+    },
+    "2119": {
+      "frontendId": "2119",
+      "title": "A Number After a Double Reversal",
+      "titleSlug": "a-number-after-a-double-reversal",
+      "difficulty": "Easy",
+      "directory": "2119-a-number-after-a-double-reversal",
+      "submissions": [
+        {
+          "submissionId": "2135871800",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "11.82%",
+          "timestamp": 1788929755
+        },
+        {
+          "submissionId": "2135875281",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42 MB",
+          "memoryPercentile": "81.38%",
+          "timestamp": 1788929938
+        }
+      ]
+    },
+    "2149": {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "titleSlug": "rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "directory": "2149-rearrange-array-elements-by-sign",
+      "submissions": [
+        {
+          "submissionId": "2093394023",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "40.53%",
+          "memory": "175.3 MB",
+          "memoryPercentile": "75.41%",
+          "timestamp": 1785816048
+        }
+      ]
+    },
+    "2160": {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "titleSlug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "directory": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "submissions": [
+        {
+          "submissionId": "2135905213",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "90.90%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "53.92%",
+          "timestamp": 1788931532
+        },
+        {
+          "submissionId": "2135918791",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "44.65%",
+          "memory": "40.7 MB",
+          "memoryPercentile": "99.92%",
+          "timestamp": 1788932284
+        },
+        {
+          "submissionId": "2135919334",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "44.65%",
+          "memory": "42.5 MB",
+          "memoryPercentile": "6.07%",
+          "timestamp": 1788932311
+        },
+        {
+          "submissionId": "2135920095",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "90.90%",
+          "memory": "42.5 MB",
+          "memoryPercentile": "17.78%",
+          "timestamp": 1788932352
+        }
+      ]
+    },
+    "2180": {
+      "frontendId": "2180",
+      "title": "Count Integers With Even Digit Sum",
+      "titleSlug": "count-integers-with-even-digit-sum",
+      "difficulty": "Easy",
+      "directory": "2180-count-integers-with-even-digit-sum",
+      "submissions": [
+        {
+          "submissionId": "2134852026",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "61.41%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "21.61%",
+          "timestamp": 1788855427
+        },
+        {
+          "submissionId": "2134858841",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "61.41%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "58.99%",
+          "timestamp": 1788855894
+        },
+        {
+          "submissionId": "2134862337",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "84.01%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "21.61%",
+          "timestamp": 1788856126
         }
       ]
     },
@@ -154,6 +1021,25 @@
         }
       ]
     },
+    "2235": {
+      "frontendId": "2235",
+      "title": "Add Two Integers",
+      "titleSlug": "add-two-integers",
+      "difficulty": "Easy",
+      "directory": "2235-add-two-integers",
+      "submissions": [
+        {
+          "submissionId": "2133785250",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "73.24%",
+          "timestamp": 1788777664
+        }
+      ]
+    },
     "2351": {
       "frontendId": "2351",
       "title": "First Letter to Appear Twice",
@@ -170,6 +1056,16 @@
           "memory": "43 MB",
           "memoryPercentile": "17.31%",
           "timestamp": 1789243876
+        },
+        {
+          "submissionId": "2139981287",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "17.31%",
+          "timestamp": 1789243831
         }
       ]
     },
@@ -189,6 +1085,65 @@
           "memory": "43.4 MB",
           "memoryPercentile": "31.24%",
           "timestamp": 1789243470
+        },
+        {
+          "submissionId": "2139973180",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "136 ms",
+          "runtimePercentile": "5.03%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "74.84%",
+          "timestamp": 1789242978
+        },
+        {
+          "submissionId": "2139975200",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "85.42%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "74.84%",
+          "timestamp": 1789243178
+        }
+      ]
+    },
+    "2413": {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "titleSlug": "smallest-even-multiple",
+      "difficulty": "Easy",
+      "directory": "2413-smallest-even-multiple",
+      "submissions": [
+        {
+          "submissionId": "2135927388",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "50.13%",
+          "timestamp": 1788932756
+        },
+        {
+          "submissionId": "2135930257",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42 MB",
+          "memoryPercentile": "68.51%",
+          "timestamp": 1788932911
+        },
+        {
+          "submissionId": "2135930926",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "13.27%",
+          "timestamp": 1788932945
         }
       ]
     },
@@ -208,6 +1163,189 @@
           "memory": "46.9 MB",
           "memoryPercentile": "69.11%",
           "timestamp": 1789244773
+        },
+        {
+          "submissionId": "2139988750",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "82.86%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "55.08%",
+          "timestamp": 1789244663
+        },
+        {
+          "submissionId": "2139989571",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "82.86%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "41.54%",
+          "timestamp": 1789244758
+        }
+      ]
+    },
+    "2469": {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "titleSlug": "convert-the-temperature",
+      "difficulty": "Easy",
+      "directory": "2469-convert-the-temperature",
+      "submissions": [
+        {
+          "submissionId": "2133783939",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.4 MB",
+          "memoryPercentile": "99.53%",
+          "timestamp": 1788777570
+        }
+      ]
+    },
+    "2520": {
+      "frontendId": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "titleSlug": "count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "directory": "2520-count-the-digits-that-divide-a-number",
+      "submissions": [
+        {
+          "submissionId": "2133734036",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "18.01%",
+          "timestamp": 1788774196
+        }
+      ]
+    },
+    "2529": {
+      "frontendId": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
+      "directory": "2529-maximum-count-of-positive-integer-and-negative-integer",
+      "submissions": [
+        {
+          "submissionId": "2134614225",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47 MB",
+          "memoryPercentile": "38.92%",
+          "timestamp": 1788841832
+        },
+        {
+          "submissionId": "2134688857",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47 MB",
+          "memoryPercentile": "58.14%",
+          "timestamp": 1788845977
+        }
+      ]
+    },
+    "2578": {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "titleSlug": "split-with-minimum-sum",
+      "difficulty": "Easy",
+      "directory": "2578-split-with-minimum-sum",
+      "submissions": [
+        {
+          "submissionId": "2135961403",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "38.52%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "37.28%",
+          "timestamp": 1788934445
+        },
+        {
+          "submissionId": "2135966082",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "38.52%",
+          "memory": "42 MB",
+          "memoryPercentile": "88.52%",
+          "timestamp": 1788934673
+        },
+        {
+          "submissionId": "2135968845",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "38.52%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "56.89%",
+          "timestamp": 1788934806
+        }
+      ]
+    },
+    "2639": {
+      "frontendId": "2639",
+      "title": "Find the Width of Columns of a Grid",
+      "titleSlug": "find-the-width-of-columns-of-a-grid",
+      "difficulty": "Easy",
+      "directory": "2639-find-the-width-of-columns-of-a-grid",
+      "submissions": [
+        {
+          "submissionId": "2136000004",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "78.08%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "93.38%",
+          "timestamp": 1788936345
+        }
+      ]
+    },
+    "2965": {
+      "frontendId": "2965",
+      "title": "Find Missing and Repeated Values",
+      "titleSlug": "find-missing-and-repeated-values",
+      "difficulty": "Easy",
+      "directory": "2965-find-missing-and-repeated-values",
+      "submissions": [
+        {
+          "submissionId": "1770632145",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.32%",
+          "memory": "45.5 MB",
+          "memoryPercentile": "99.92%",
+          "timestamp": 1757862623
+        }
+      ]
+    },
+    "3232": {
+      "frontendId": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "titleSlug": "find-if-digit-game-can-be-won",
+      "difficulty": "Easy",
+      "directory": "3232-find-if-digit-game-can-be-won",
+      "submissions": [
+        {
+          "submissionId": "2129281362",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "91.69%",
+          "memory": "45.5 MB",
+          "memoryPercentile": "37.46%",
+          "timestamp": 1788416801
         }
       ]
     },
@@ -227,6 +1365,102 @@
           "memory": "46.5 MB",
           "memoryPercentile": "30.34%",
           "timestamp": 1789239436
+        }
+      ]
+    },
+    "3550": {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "titleSlug": "smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "directory": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "submissions": [
+        {
+          "submissionId": "2127116064",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.71%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "23.56%",
+          "timestamp": 1788259441
+        },
+        {
+          "submissionId": "2127116628",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.71%",
+          "memory": "45.4 MB",
+          "memoryPercentile": "89.05%",
+          "timestamp": 1788259479
+        }
+      ]
+    },
+    "3783": {
+      "frontendId": "3783",
+      "title": "Mirror Distance of an Integer",
+      "titleSlug": "mirror-distance-of-an-integer",
+      "difficulty": "Easy",
+      "directory": "3783-mirror-distance-of-an-integer",
+      "submissions": [
+        {
+          "submissionId": "2134981238",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.86%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "41.69%",
+          "timestamp": 1788863159
+        }
+      ]
+    },
+    "3870": {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "titleSlug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "directory": "3870-count-commas-in-range",
+      "submissions": [
+        {
+          "submissionId": "2134956433",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "85.82%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "21.02%",
+          "timestamp": 1788861712
+        },
+        {
+          "submissionId": "2134958156",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "85.82%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "39.53%",
+          "timestamp": 1788861815
+        }
+      ]
+    },
+    "3871": {
+      "frontendId": "3871",
+      "title": "Count Commas in Range II",
+      "titleSlug": "count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "directory": "3871-count-commas-in-range-ii",
+      "submissions": [
+        {
+          "submissionId": "2135865739",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.76%",
+          "memory": "42 MB",
+          "memoryPercentile": "99.12%",
+          "timestamp": 1788929425
         }
       ]
     },
@@ -284,6 +1518,36 @@
           "memory": "42.7 MB",
           "memoryPercentile": "35.70%",
           "timestamp": 1789119199
+        },
+        {
+          "submissionId": "2138399506",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "69.53%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "19.06%",
+          "timestamp": 1789118985
+        },
+        {
+          "submissionId": "2138401836",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "23.60%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "35.70%",
+          "timestamp": 1789119149
+        },
+        {
+          "submissionId": "2138402142",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "23.60%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "7.51%",
+          "timestamp": 1789119170
         }
       ]
     },
@@ -303,6 +1567,16 @@
           "memory": "42.6 MB",
           "memoryPercentile": "64.71%",
           "timestamp": 1789120390
+        },
+        {
+          "submissionId": "2138417352",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "98.72%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "26.85%",
+          "timestamp": 1789120291
         }
       ]
     },
@@ -322,6 +1596,26 @@
           "memory": "43.8 MB",
           "memoryPercentile": "8.20%",
           "timestamp": 1789121490
+        },
+        {
+          "submissionId": "1946791316",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "76.13%",
+          "timestamp": 1773387397
+        },
+        {
+          "submissionId": "2112240959",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "40.37%",
+          "timestamp": 1787116374
         }
       ]
     },
@@ -360,6 +1654,16 @@
           "memory": "48.2 MB",
           "memoryPercentile": "48.36%",
           "timestamp": 1789224418
+        },
+        {
+          "submissionId": "2138474111",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "12.30%",
+          "memory": "48.3 MB",
+          "memoryPercentile": "17.63%",
+          "timestamp": 1789124460
         }
       ]
     },
@@ -379,6 +1683,2352 @@
           "memory": "73.8 MB",
           "memoryPercentile": "32.95%",
           "timestamp": 1789250019
+        }
+      ]
+    },
+    "0169": {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "directory": "0169-majority-element",
+      "submissions": [
+        {
+          "submissionId": "1765859080",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "51.06%",
+          "memory": "53.1 MB",
+          "memoryPercentile": "72.37%",
+          "timestamp": 1757495677
+        },
+        {
+          "submissionId": "2089270365",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "23.85%",
+          "memory": "52.2 MB",
+          "memoryPercentile": "97.16%",
+          "timestamp": 1785528603
+        },
+        {
+          "submissionId": "2128340622",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "23.85%",
+          "memory": "52.4 MB",
+          "memoryPercentile": "94.97%",
+          "timestamp": 1788346611
+        }
+      ]
+    },
+    "0125": {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "Easy",
+      "directory": "0125-valid-palindrome",
+      "submissions": [
+        {
+          "submissionId": "1789814823",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "13 ms",
+          "runtimePercentile": "31.38%",
+          "memory": "45 MB",
+          "memoryPercentile": "37.68%",
+          "timestamp": 1759467034
+        },
+        {
+          "submissionId": "1789815031",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "28.29%",
+          "memory": "45.2 MB",
+          "memoryPercentile": "35.67%",
+          "timestamp": 1759467053
+        }
+      ]
+    },
+    "0242": {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "Easy",
+      "directory": "0242-valid-anagram",
+      "submissions": [
+        {
+          "submissionId": "1789828223",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "83.71%",
+          "memory": "44.7 MB",
+          "memoryPercentile": "54.27%",
+          "timestamp": 1759468252
+        },
+        {
+          "submissionId": "2088407380",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "44.10%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "24.99%",
+          "timestamp": 1785479520
+        },
+        {
+          "submissionId": "2088418969",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "62.88%",
+          "memory": "44 MB",
+          "memoryPercentile": "94.85%",
+          "timestamp": 1785480010
+        },
+        {
+          "submissionId": "2088423092",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "44.10%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "74.30%",
+          "timestamp": 1785480195
+        },
+        {
+          "submissionId": "2088424351",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "62.88%",
+          "memory": "44.1 MB",
+          "memoryPercentile": "94.85%",
+          "timestamp": 1785480253
+        },
+        {
+          "submissionId": "2088425718",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "62.88%",
+          "memory": "44.6 MB",
+          "memoryPercentile": "59.67%",
+          "timestamp": 1785480316
+        },
+        {
+          "submissionId": "2089330754",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "19 ms",
+          "runtimePercentile": "10.49%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "9.05%",
+          "timestamp": 1785538625
+        },
+        {
+          "submissionId": "2137133558",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "19 ms",
+          "runtimePercentile": "10.49%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "9.05%",
+          "timestamp": 1789020341
+        },
+        {
+          "submissionId": "2137133975",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "13.43%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "9.05%",
+          "timestamp": 1789020364
+        }
+      ]
+    },
+    "0151": {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "titleSlug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "directory": "0151-reverse-words-in-a-string",
+      "submissions": [
+        {
+          "submissionId": "1791672725",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "80.78%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "99.86%",
+          "timestamp": 1759633400
+        },
+        {
+          "submissionId": "1791673834",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "80.78%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "99.94%",
+          "timestamp": 1759633440
+        },
+        {
+          "submissionId": "2088471064",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "62.96%",
+          "memory": "43.8 MB",
+          "memoryPercentile": "96.81%",
+          "timestamp": 1785482748
+        }
+      ]
+    },
+    "0001": {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "directory": "0001-two-sum",
+      "submissions": [
+        {
+          "submissionId": "1814674962",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "44 ms",
+          "runtimePercentile": "34.66%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "99.95%",
+          "timestamp": 1761713149
+        },
+        {
+          "submissionId": "2084817096",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "46.63%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "90.56%",
+          "timestamp": 1785246010
+        },
+        {
+          "submissionId": "2087937972",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "46.04%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "93.65%",
+          "timestamp": 1785435794
+        },
+        {
+          "submissionId": "2133743686",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "46.63%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "95.83%",
+          "timestamp": 1788774842
+        },
+        {
+          "submissionId": "2133752896",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.38%",
+          "memory": "47.4 MB",
+          "memoryPercentile": "11.34%",
+          "timestamp": 1788775462
+        },
+        {
+          "submissionId": "2133760683",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "41.10%",
+          "timestamp": 1788775972
+        }
+      ]
+    },
+    "0004": {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "directory": "0004-median-of-two-sorted-arrays",
+      "submissions": [
+        {
+          "submissionId": "1819624518",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "23.45%",
+          "memory": "48.7 MB",
+          "memoryPercentile": "86.20%",
+          "timestamp": 1762180162
+        }
+      ]
+    },
+    "0283": {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "titleSlug": "move-zeroes",
+      "difficulty": "Easy",
+      "directory": "0283-move-zeroes",
+      "submissions": [
+        {
+          "submissionId": "1819641544",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.70%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "20.31%",
+          "timestamp": 1762181304
+        },
+        {
+          "submissionId": "1819641801",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.89%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "57.42%",
+          "timestamp": 1762181322
+        },
+        {
+          "submissionId": "2112202562",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.89%",
+          "memory": "47.5 MB",
+          "memoryPercentile": "87.89%",
+          "timestamp": 1787114262
+        },
+        {
+          "submissionId": "2112204342",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.89%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "87.89%",
+          "timestamp": 1787114362
+        },
+        {
+          "submissionId": "2112216558",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.70%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "76.07%",
+          "timestamp": 1787115053
+        },
+        {
+          "submissionId": "2128247799",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.70%",
+          "memory": "48.1 MB",
+          "memoryPercentile": "6.95%",
+          "timestamp": 1788340770
+        },
+        {
+          "submissionId": "2128250091",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.70%",
+          "memory": "48 MB",
+          "memoryPercentile": "20.31%",
+          "timestamp": 1788340903
+        }
+      ]
+    },
+    "0011": {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water",
+      "difficulty": "Medium",
+      "directory": "0011-container-with-most-water",
+      "submissions": [
+        {
+          "submissionId": "1834062074",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "82.92%",
+          "memory": "77.5 MB",
+          "memoryPercentile": "12.79%",
+          "timestamp": 1763543119
+        },
+        {
+          "submissionId": "2112309079",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "82.92%",
+          "memory": "77.2 MB",
+          "memoryPercentile": "68.94%",
+          "timestamp": 1787120030
+        }
+      ]
+    },
+    "0058": {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "titleSlug": "length-of-last-word",
+      "difficulty": "Easy",
+      "directory": "0058-length-of-last-word",
+      "submissions": [
+        {
+          "submissionId": "1925190183",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "51.19%",
+          "timestamp": 1771576686
+        },
+        {
+          "submissionId": "2134874211",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "16.10%",
+          "timestamp": 1788856899
+        }
+      ]
+    },
+    "0344": {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "titleSlug": "reverse-string",
+      "difficulty": "Easy",
+      "directory": "0344-reverse-string",
+      "submissions": [
+        {
+          "submissionId": "1925196069",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "48.3 MB",
+          "memoryPercentile": "37.90%",
+          "timestamp": 1771577174
+        }
+      ]
+    },
+    "0141": {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "titleSlug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "directory": "0141-linked-list-cycle",
+      "submissions": [
+        {
+          "submissionId": "1929190878",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "86.77%",
+          "timestamp": 1771906747
+        },
+        {
+          "submissionId": "2078143254",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "72.70%",
+          "timestamp": 1784796384
+        },
+        {
+          "submissionId": "2084729260",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "52.98%",
+          "timestamp": 1785241496
+        }
+      ]
+    },
+    "0088": {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "titleSlug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "directory": "0088-merge-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "1944836748",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "16.34%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "8.94%",
+          "timestamp": 1773221139
+        },
+        {
+          "submissionId": "1945546405",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "95.07%",
+          "timestamp": 1773280397
+        },
+        {
+          "submissionId": "2128294716",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "30.38%",
+          "timestamp": 1788343665
+        }
+      ]
+    },
+    "0136": {
+      "frontendId": "136",
+      "title": "Single Number",
+      "titleSlug": "single-number",
+      "difficulty": "Easy",
+      "directory": "0136-single-number",
+      "submissions": [
+        {
+          "submissionId": "1945557710",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "531 ms",
+          "runtimePercentile": "7.34%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "64.85%",
+          "timestamp": 1773282046
+        },
+        {
+          "submissionId": "1945559937",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.94%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "95.83%",
+          "timestamp": 1773282355
+        },
+        {
+          "submissionId": "2137108829",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.94%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "45.96%",
+          "timestamp": 1789018954
+        }
+      ]
+    },
+    "0121": {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "directory": "0121-best-time-to-buy-and-sell-stock",
+      "submissions": [
+        {
+          "submissionId": "1946687866",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "94.3 MB",
+          "memoryPercentile": "70.88%",
+          "timestamp": 1773380015
+        },
+        {
+          "submissionId": "2084829113",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "94.6 MB",
+          "memoryPercentile": "33.01%",
+          "timestamp": 1785246551
+        },
+        {
+          "submissionId": "2134898263",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "94.4 MB",
+          "memoryPercentile": "51.50%",
+          "timestamp": 1788858355
+        }
+      ]
+    },
+    "0050": {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "titleSlug": "powx-n",
+      "difficulty": "Medium",
+      "directory": "0050-powx-n",
+      "submissions": [
+        {
+          "submissionId": "1946716920",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "70.30%",
+          "timestamp": 1773381956
+        }
+      ]
+    },
+    "0031": {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "titleSlug": "next-permutation",
+      "difficulty": "Medium",
+      "directory": "0031-next-permutation",
+      "submissions": [
+        {
+          "submissionId": "1950719825",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.9 MB",
+          "memoryPercentile": "15.75%",
+          "timestamp": 1773723167
+        }
+      ]
+    },
+    "0704": {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "directory": "0704-binary-search",
+      "submissions": [
+        {
+          "submissionId": "1957337694",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "48.5 MB",
+          "memoryPercentile": "13.94%",
+          "timestamp": 1774325494
+        }
+      ]
+    },
+    "0035": {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "titleSlug": "search-insert-position",
+      "difficulty": "Easy",
+      "directory": "0035-search-insert-position",
+      "submissions": [
+        {
+          "submissionId": "1957357431",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.5 MB",
+          "memoryPercentile": "92.06%",
+          "timestamp": 1774326795
+        },
+        {
+          "submissionId": "2112347548",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45 MB",
+          "memoryPercentile": "12.36%",
+          "timestamp": 1787121970
+        }
+      ]
+    },
+    "0074": {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "titleSlug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "directory": "0074-search-a-2d-matrix",
+      "submissions": [
+        {
+          "submissionId": "1958383715",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "43.56%",
+          "timestamp": 1774409777
+        }
+      ]
+    },
+    "0852": {
+      "frontendId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "titleSlug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "directory": "0852-peak-index-in-a-mountain-array",
+      "submissions": [
+        {
+          "submissionId": "1959009776",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "1.97%",
+          "memory": "80.4 MB",
+          "memoryPercentile": "38.65%",
+          "timestamp": 1774453287
+        },
+        {
+          "submissionId": "1959020288",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "80.2 MB",
+          "memoryPercentile": "57.53%",
+          "timestamp": 1774453894
+        }
+      ]
+    },
+    "0033": {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "directory": "0033-search-in-rotated-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "1959148718",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.7 MB",
+          "memoryPercentile": "65.79%",
+          "timestamp": 1774460365
+        }
+      ]
+    },
+    "0540": {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "titleSlug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "directory": "0540-single-element-in-a-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "1960679863",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "52.6 MB",
+          "memoryPercentile": "89.77%",
+          "timestamp": 1774597402
+        }
+      ]
+    },
+    "0026": {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "titleSlug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "directory": "0026-remove-duplicates-from-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "1962995017",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "76.85%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "81.17%",
+          "timestamp": 1774799263
+        },
+        {
+          "submissionId": "2112285089",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "24.04%",
+          "timestamp": 1787118840
+        },
+        {
+          "submissionId": "2128307646",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "76.85%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "42.79%",
+          "timestamp": 1788344468
+        }
+      ]
+    },
+    "0034": {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "directory": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "1966053890",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "87.17%",
+          "timestamp": 1775062517
+        }
+      ]
+    },
+    "0081": {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "directory": "0081-search-in-rotated-sorted-array-ii",
+      "submissions": [
+        {
+          "submissionId": "1966155229",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "28.69%",
+          "timestamp": 1775067758
+        }
+      ]
+    },
+    "0162": {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "titleSlug": "find-peak-element",
+      "difficulty": "Medium",
+      "directory": "0162-find-peak-element",
+      "submissions": [
+        {
+          "submissionId": "1967093001",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.2 MB",
+          "memoryPercentile": "57.19%",
+          "timestamp": 1775153893
+        }
+      ]
+    },
+    "0053": {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "Medium",
+      "directory": "0053-maximum-subarray",
+      "submissions": [
+        {
+          "submissionId": "1970273490",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.92%",
+          "memory": "77.1 MB",
+          "memoryPercentile": "66.35%",
+          "timestamp": 1775456670
+        },
+        {
+          "submissionId": "2093371511",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.92%",
+          "memory": "77.4 MB",
+          "memoryPercentile": "32.68%",
+          "timestamp": 1785814449
+        }
+      ]
+    },
+    "0240": {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "titleSlug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "directory": "0240-search-a-2d-matrix-ii",
+      "submissions": [
+        {
+          "submissionId": "1970363756",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "85.42%",
+          "memory": "48.2 MB",
+          "memoryPercentile": "45.57%",
+          "timestamp": 1775464700
+        }
+      ]
+    },
+    "0875": {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "titleSlug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "directory": "0875-koko-eating-bananas",
+      "submissions": [
+        {
+          "submissionId": "1972272232",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "99.77%",
+          "memory": "48.2 MB",
+          "memoryPercentile": "18.88%",
+          "timestamp": 1775628005
+        },
+        {
+          "submissionId": "1972273068",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "99.77%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "42.69%",
+          "timestamp": 1775628059
+        }
+      ]
+    },
+    "0410": {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "titleSlug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "directory": "0410-split-array-largest-sum",
+      "submissions": [
+        {
+          "submissionId": "1973624462",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "92.24%",
+          "timestamp": 1775745364
+        }
+      ]
+    },
+    "0643": {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "titleSlug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "directory": "0643-maximum-average-subarray-i",
+      "submissions": [
+        {
+          "submissionId": "1979429734",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "31.83%",
+          "memory": "69.5 MB",
+          "memoryPercentile": "62.59%",
+          "timestamp": 1776275231
+        },
+        {
+          "submissionId": "1979432002",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "31.83%",
+          "memory": "69.7 MB",
+          "memoryPercentile": "25.78%",
+          "timestamp": 1776275359
+        },
+        {
+          "submissionId": "2064162721",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "31.83%",
+          "memory": "69.4 MB",
+          "memoryPercentile": "88.02%",
+          "timestamp": 1783792689
+        }
+      ]
+    },
+    "0167": {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "titleSlug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "directory": "0167-two-sum-ii-input-array-is-sorted",
+      "submissions": [
+        {
+          "submissionId": "2075340879",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "95.88%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "97.19%",
+          "timestamp": 1784611254
+        }
+      ]
+    },
+    "0237": {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "titleSlug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "directory": "0237-delete-node-in-a-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2077590530",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.2 MB",
+          "memoryPercentile": "62.69%",
+          "timestamp": 1784747062
+        }
+      ]
+    },
+    "0206": {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "directory": "0206-reverse-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2077603041",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.5 MB",
+          "memoryPercentile": "14.05%",
+          "timestamp": 1784747951
+        },
+        {
+          "submissionId": "2084725159",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.2 MB",
+          "memoryPercentile": "67.86%",
+          "timestamp": 1785241245
+        }
+      ]
+    },
+    "0876": {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "titleSlug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "directory": "0876-middle-of-the-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2077608500",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "99.05%",
+          "timestamp": 1784748369
+        }
+      ]
+    },
+    "0234": {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "titleSlug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "directory": "0234-palindrome-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2077899199",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "99.80%",
+          "memory": "93.5 MB",
+          "memoryPercentile": "98.47%",
+          "timestamp": 1784783341
+        }
+      ]
+    },
+    "0019": {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "titleSlug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "directory": "0019-remove-nth-node-from-end-of-list",
+      "submissions": [
+        {
+          "submissionId": "2077930464",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "76.67%",
+          "timestamp": 1784784867
+        },
+        {
+          "submissionId": "2084753058",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "76.67%",
+          "timestamp": 1785242871
+        }
+      ]
+    },
+    "0142": {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "titleSlug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "directory": "0142-linked-list-cycle-ii",
+      "submissions": [
+        {
+          "submissionId": "2078163872",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "30.60%",
+          "timestamp": 1784797419
+        },
+        {
+          "submissionId": "2078169628",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47 MB",
+          "memoryPercentile": "13.62%",
+          "timestamp": 1784797714
+        }
+      ]
+    },
+    "0148": {
+      "frontendId": "148",
+      "title": "Sort List",
+      "titleSlug": "sort-list",
+      "difficulty": "Medium",
+      "directory": "0148-sort-list",
+      "submissions": [
+        {
+          "submissionId": "2079354767",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "11 ms",
+          "runtimePercentile": "36.40%",
+          "memory": "59.6 MB",
+          "memoryPercentile": "36.97%",
+          "timestamp": 1784883560
+        },
+        {
+          "submissionId": "2079380023",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "11 ms",
+          "runtimePercentile": "36.40%",
+          "memory": "59.5 MB",
+          "memoryPercentile": "48.38%",
+          "timestamp": 1784884901
+        }
+      ]
+    },
+    "0160": {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "titleSlug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "directory": "0160-intersection-of-two-linked-lists",
+      "submissions": [
+        {
+          "submissionId": "2079446401",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "47.42%",
+          "memory": "53 MB",
+          "memoryPercentile": "12.53%",
+          "timestamp": 1784888599
+        }
+      ]
+    },
+    "0021": {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "directory": "0021-merge-two-sorted-lists",
+      "submissions": [
+        {
+          "submissionId": "2081120085",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "56.90%",
+          "timestamp": 1785003776
+        },
+        {
+          "submissionId": "2084740768",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.4 MB",
+          "memoryPercentile": "19.91%",
+          "timestamp": 1785242175
+        }
+      ]
+    },
+    "0002": {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "directory": "0002-add-two-numbers",
+      "submissions": [
+        {
+          "submissionId": "2081155340",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "6.66%",
+          "timestamp": 1785005811
+        },
+        {
+          "submissionId": "2083795453",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "89.60%",
+          "timestamp": 1785175564
+        }
+      ]
+    },
+    "0143": {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "titleSlug": "reorder-list",
+      "difficulty": "Medium",
+      "directory": "0143-reorder-list",
+      "submissions": [
+        {
+          "submissionId": "2084778723",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "86.77%",
+          "memory": "49.5 MB",
+          "memoryPercentile": "13.94%",
+          "timestamp": 1785244196
+        }
+      ]
+    },
+    "0217": {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "Easy",
+      "directory": "0217-contains-duplicate",
+      "submissions": [
+        {
+          "submissionId": "2084843050",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "25 ms",
+          "runtimePercentile": "17.98%",
+          "memory": "81.2 MB",
+          "memoryPercentile": "96.69%",
+          "timestamp": 1785247158
+        },
+        {
+          "submissionId": "2089332332",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "24 ms",
+          "runtimePercentile": "28.25%",
+          "memory": "93.1 MB",
+          "memoryPercentile": "78.35%",
+          "timestamp": 1785539013
+        },
+        {
+          "submissionId": "2089333102",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "76.75%",
+          "memory": "108.3 MB",
+          "memoryPercentile": "29.35%",
+          "timestamp": 1785539208
+        },
+        {
+          "submissionId": "2089333180",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "76.75%",
+          "memory": "107.2 MB",
+          "memoryPercentile": "71.01%",
+          "timestamp": 1785539228
+        }
+      ]
+    },
+    "0328": {
+      "frontendId": "328",
+      "title": "Odd Even Linked List",
+      "titleSlug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "directory": "0328-odd-even-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2085736007",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "74.98%",
+          "timestamp": 1785308097
+        }
+      ]
+    },
+    "0061": {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "titleSlug": "rotate-list",
+      "difficulty": "Medium",
+      "directory": "0061-rotate-list",
+      "submissions": [
+        {
+          "submissionId": "2085815318",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.5 MB",
+          "memoryPercentile": "10.23%",
+          "timestamp": 1785312994
+        },
+        {
+          "submissionId": "2091692142",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.3 MB",
+          "memoryPercentile": "62.68%",
+          "timestamp": 1785691632
+        }
+      ]
+    },
+    "0796": {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "titleSlug": "rotate-string",
+      "difficulty": "Easy",
+      "directory": "0796-rotate-string",
+      "submissions": [
+        {
+          "submissionId": "2088438682",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "63.58%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "82.23%",
+          "timestamp": 1785480933
+        }
+      ]
+    },
+    "0014": {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "titleSlug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "directory": "0014-longest-common-prefix",
+      "submissions": [
+        {
+          "submissionId": "2088487047",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "59.96%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "82.54%",
+          "timestamp": 1785483922
+        }
+      ]
+    },
+    "0349": {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "titleSlug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "directory": "0349-intersection-of-two-arrays",
+      "submissions": [
+        {
+          "submissionId": "2089291953",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "97.52%",
+          "memory": "45 MB",
+          "memoryPercentile": "56.04%",
+          "timestamp": 1785531277
+        }
+      ]
+    },
+    "0205": {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "titleSlug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "directory": "0205-isomorphic-strings",
+      "submissions": [
+        {
+          "submissionId": "2089323914",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "17 ms",
+          "runtimePercentile": "41.75%",
+          "memory": "44 MB",
+          "memoryPercentile": "41.91%",
+          "timestamp": 1785536975
+        }
+      ]
+    },
+    "0189": {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "titleSlug": "rotate-array",
+      "difficulty": "Medium",
+      "directory": "0189-rotate-array",
+      "submissions": [
+        {
+          "submissionId": "2092965218",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "67.25%",
+          "memory": "61.5 MB",
+          "memoryPercentile": "61.35%",
+          "timestamp": 1785776847
+        }
+      ]
+    },
+    "0485": {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "titleSlug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "directory": "0485-max-consecutive-ones",
+      "submissions": [
+        {
+          "submissionId": "2092994787",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "58.71%",
+          "memory": "52.7 MB",
+          "memoryPercentile": "26.60%",
+          "timestamp": 1785777960
+        }
+      ]
+    },
+    "0128": {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "titleSlug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "directory": "0128-longest-consecutive-sequence",
+      "submissions": [
+        {
+          "submissionId": "2093888969",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "21 ms",
+          "runtimePercentile": "95.91%",
+          "memory": "77.5 MB",
+          "memoryPercentile": "90.90%",
+          "timestamp": 1785842065
+        },
+        {
+          "submissionId": "2093926258",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "33 ms",
+          "runtimePercentile": "26.66%",
+          "memory": "95.7 MB",
+          "memoryPercentile": "39.10%",
+          "timestamp": 1785844427
+        },
+        {
+          "submissionId": "2095750504",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "29 ms",
+          "runtimePercentile": "78.37%",
+          "memory": "95.7 MB",
+          "memoryPercentile": "27.17%",
+          "timestamp": 1785953430
+        }
+      ]
+    },
+    "0054": {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "titleSlug": "spiral-matrix",
+      "difficulty": "Medium",
+      "directory": "0054-spiral-matrix",
+      "submissions": [
+        {
+          "submissionId": "2095852932",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "43.68%",
+          "timestamp": 1785959228
+        }
+      ]
+    },
+    "0059": {
+      "frontendId": "59",
+      "title": "Spiral Matrix II",
+      "titleSlug": "spiral-matrix-ii",
+      "difficulty": "Medium",
+      "directory": "0059-spiral-matrix-ii",
+      "submissions": [
+        {
+          "submissionId": "2095864310",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "9.41%",
+          "timestamp": 1785960204
+        },
+        {
+          "submissionId": "2098275366",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "44.49%",
+          "timestamp": 1786123955
+        },
+        {
+          "submissionId": "2100693575",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "24.81%",
+          "timestamp": 1786298165
+        },
+        {
+          "submissionId": "2101225513",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "62.96%",
+          "timestamp": 1786347143
+        },
+        {
+          "submissionId": "2107875084",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "90.33%",
+          "timestamp": 1786807167
+        },
+        {
+          "submissionId": "2110538847",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "62.96%",
+          "timestamp": 1786990493
+        }
+      ]
+    },
+    "0153": {
+      "frontendId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "titleSlug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "directory": "0153-find-minimum-in-rotated-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "2095880778",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "37.47%",
+          "timestamp": 1785961824
+        }
+      ]
+    },
+    "0027": {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "titleSlug": "remove-element",
+      "difficulty": "Easy",
+      "directory": "0027-remove-element",
+      "submissions": [
+        {
+          "submissionId": "2095893275",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "42.75%",
+          "timestamp": 1785963219
+        },
+        {
+          "submissionId": "2128233724",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "61.06%",
+          "timestamp": 1788339958
+        }
+      ]
+    },
+    "0066": {
+      "frontendId": "66",
+      "title": "Plus One",
+      "titleSlug": "plus-one",
+      "difficulty": "Easy",
+      "directory": "0066-plus-one",
+      "submissions": [
+        {
+          "submissionId": "2095901262",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "95.23%",
+          "timestamp": 1785964237
+        },
+        {
+          "submissionId": "2097114506",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "42.79%",
+          "timestamp": 1786039535
+        }
+      ]
+    },
+    "0268": {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "Easy",
+      "directory": "0268-missing-number",
+      "submissions": [
+        {
+          "submissionId": "2095907081",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "7.75%",
+          "memory": "48.1 MB",
+          "memoryPercentile": "8.16%",
+          "timestamp": 1785965045
+        }
+      ]
+    },
+    "0860": {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "titleSlug": "lemonade-change",
+      "difficulty": "Easy",
+      "directory": "0860-lemonade-change",
+      "submissions": [
+        {
+          "submissionId": "2113603796",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "97.49%",
+          "memory": "72.3 MB",
+          "memoryPercentile": "69.11%",
+          "timestamp": 1787209100
+        },
+        {
+          "submissionId": "2118689235",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "97.49%",
+          "memory": "72.5 MB",
+          "memoryPercentile": "30.63%",
+          "timestamp": 1787589287
+        }
+      ]
+    },
+    "0003": {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "directory": "0003-longest-substring-without-repeating-characters",
+      "submissions": [
+        {
+          "submissionId": "2118658131",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "65 ms",
+          "runtimePercentile": "40.59%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "64.70%",
+          "timestamp": 1787587899
+        }
+      ]
+    },
+    "0747": {
+      "frontendId": "747",
+      "title": "Largest Number At Least Twice of Others",
+      "titleSlug": "largest-number-at-least-twice-of-others",
+      "difficulty": "Easy",
+      "directory": "0747-largest-number-at-least-twice-of-others",
+      "submissions": [
+        {
+          "submissionId": "2127038834",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "71.60%",
+          "timestamp": 1788254482
+        }
+      ]
+    },
+    "0724": {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "titleSlug": "find-pivot-index",
+      "difficulty": "Easy",
+      "directory": "0724-find-pivot-index",
+      "submissions": [
+        {
+          "submissionId": "2128208567",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "96.36%",
+          "memory": "47.2 MB",
+          "memoryPercentile": "77.89%",
+          "timestamp": 1788338452
+        },
+        {
+          "submissionId": "2128208981",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "96.36%",
+          "memory": "47.3 MB",
+          "memoryPercentile": "59.94%",
+          "timestamp": 1788338480
+        }
+      ]
+    },
+    "0977": {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "titleSlug": "squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "directory": "0977-squares-of-a-sorted-array",
+      "submissions": [
+        {
+          "submissionId": "2128324027",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "98.94%",
+          "timestamp": 1788345518
+        },
+        {
+          "submissionId": "2136094767",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "34.05%",
+          "memory": "48 MB",
+          "memoryPercentile": "16.24%",
+          "timestamp": 1788942706
+        },
+        {
+          "submissionId": "2136095221",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "93.88%",
+          "timestamp": 1788942738
+        }
+      ]
+    },
+    "0080": {
+      "frontendId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "titleSlug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "directory": "0080-remove-duplicates-from-sorted-array-ii",
+      "submissions": [
+        {
+          "submissionId": "2129260954",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "48.8 MB",
+          "memoryPercentile": "51.18%",
+          "timestamp": 1788415761
+        }
+      ]
+    },
+    "0015": {
+      "frontendId": "15",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "Medium",
+      "directory": "0015-3sum",
+      "submissions": [
+        {
+          "submissionId": "2129498746",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "29 ms",
+          "runtimePercentile": "92.91%",
+          "memory": "59.2 MB",
+          "memoryPercentile": "45.29%",
+          "timestamp": 1788431326
+        },
+        {
+          "submissionId": "2132049834",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "30 ms",
+          "runtimePercentile": "87.26%",
+          "memory": "59.2 MB",
+          "memoryPercentile": "45.29%",
+          "timestamp": 1788632455
+        }
+      ]
+    },
+    "0881": {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "titleSlug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "directory": "0881-boats-to-save-people",
+      "submissions": [
+        {
+          "submissionId": "2133729483",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "20 ms",
+          "runtimePercentile": "81.71%",
+          "memory": "56.7 MB",
+          "memoryPercentile": "21.04%",
+          "timestamp": 1788773896
+        }
+      ]
+    },
+    "0009": {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "Easy",
+      "directory": "0009-palindrome-number",
+      "submissions": [
+        {
+          "submissionId": "2133770344",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "82.70%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "86.78%",
+          "timestamp": 1788776606
+        },
+        {
+          "submissionId": "2133792389",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "22.21%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "71.78%",
+          "timestamp": 1788778172
+        },
+        {
+          "submissionId": "2133796754",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "10.80%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "52.57%",
+          "timestamp": 1788778488
+        },
+        {
+          "submissionId": "2133797299",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "10.80%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "33.01%",
+          "timestamp": 1788778528
+        }
+      ]
+    },
+    "0258": {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "titleSlug": "add-digits",
+      "difficulty": "Easy",
+      "directory": "0258-add-digits",
+      "submissions": [
+        {
+          "submissionId": "2134761851",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.07%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "90.67%",
+          "timestamp": 1788849533
+        },
+        {
+          "submissionId": "2134765889",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.07%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "95.35%",
+          "timestamp": 1788849731
+        },
+        {
+          "submissionId": "2134771311",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.07%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "44.68%",
+          "timestamp": 1788850003
+        },
+        {
+          "submissionId": "2134771945",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.07%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "80.08%",
+          "timestamp": 1788850036
+        }
+      ]
+    },
+    "0326": {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "titleSlug": "power-of-three",
+      "difficulty": "Easy",
+      "directory": "0326-power-of-three",
+      "submissions": [
+        {
+          "submissionId": "2134927673",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "92.48%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "26.12%",
+          "timestamp": 1788860022
+        },
+        {
+          "submissionId": "2134931802",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "92.48%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "10.54%",
+          "timestamp": 1788860268
+        }
+      ]
+    },
+    "0231": {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "titleSlug": "power-of-two",
+      "difficulty": "Easy",
+      "directory": "0231-power-of-two",
+      "submissions": [
+        {
+          "submissionId": "2134937294",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "96.65%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "86.70%",
+          "timestamp": 1788860581
+        },
+        {
+          "submissionId": "2134937573",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "96.65%",
+          "memory": "41.6 MB",
+          "memoryPercentile": "99.86%",
+          "timestamp": 1788860598
+        }
+      ]
+    },
+    "0342": {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "titleSlug": "power-of-four",
+      "difficulty": "Easy",
+      "directory": "0342-power-of-four",
+      "submissions": [
+        {
+          "submissionId": "2134947336",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "89.97%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "33.28%",
+          "timestamp": 1788861172
+        }
+      ]
+    },
+    "0350": {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "titleSlug": "intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "directory": "0350-intersection-of-two-arrays-ii",
+      "submissions": [
+        {
+          "submissionId": "2135560595",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "94.65%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "35.55%",
+          "timestamp": 1788894181
+        }
+      ]
+    },
+    "0867": {
+      "frontendId": "867",
+      "title": "Transpose Matrix",
+      "titleSlug": "transpose-matrix",
+      "difficulty": "Easy",
+      "directory": "0867-transpose-matrix",
+      "submissions": [
+        {
+          "submissionId": "2136137199",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "85.58%",
+          "timestamp": 1788945314
+        }
+      ]
+    },
+    "0048": {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "titleSlug": "rotate-image",
+      "difficulty": "Medium",
+      "directory": "0048-rotate-image",
+      "submissions": [
+        {
+          "submissionId": "2136155153",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "70.78%",
+          "timestamp": 1788946366
+        }
+      ]
+    },
+    "0832": {
+      "frontendId": "832",
+      "title": "Flipping an Image",
+      "titleSlug": "flipping-an-image",
+      "difficulty": "Easy",
+      "directory": "0832-flipping-an-image",
+      "submissions": [
+        {
+          "submissionId": "2136219953",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "47.01%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "72.72%",
+          "timestamp": 1788950271
+        }
+      ]
+    },
+    "0387": {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "titleSlug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "directory": "0387-first-unique-character-in-a-string",
+      "submissions": [
+        {
+          "submissionId": "2137153163",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "35 ms",
+          "runtimePercentile": "12.87%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "57.81%",
+          "timestamp": 1789021381
+        }
+      ]
+    },
+    "0414": {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "titleSlug": "third-maximum-number",
+      "difficulty": "Easy",
+      "directory": "0414-third-maximum-number",
+      "submissions": [
+        {
+          "submissionId": "2137179224",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "14.05%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "5.48%",
+          "timestamp": 1789022757
+        }
+      ]
+    },
+    "0073": {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "titleSlug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "directory": "0073-set-matrix-zeroes",
+      "submissions": [
+        {
+          "submissionId": "2137274987",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "96.08%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "24.33%",
+          "timestamp": 1789029943
+        }
+      ]
+    },
+    "0661": {
+      "frontendId": "661",
+      "title": "Image Smoother",
+      "titleSlug": "image-smoother",
+      "difficulty": "Easy",
+      "directory": "0661-image-smoother",
+      "submissions": [
+        {
+          "submissionId": "2137351218",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "23.49%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "86.77%",
+          "timestamp": 1789034717
+        }
+      ]
+    },
+    "0771": {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "titleSlug": "jewels-and-stones",
+      "difficulty": "Easy",
+      "directory": "0771-jewels-and-stones",
+      "submissions": [
+        {
+          "submissionId": "2138144375",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "57.90%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "35.80%",
+          "timestamp": 1789101532
+        }
+      ]
+    },
+    "0202": {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "titleSlug": "happy-number",
+      "difficulty": "Easy",
+      "directory": "0202-happy-number",
+      "submissions": [
+        {
+          "submissionId": "2138156300",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "77.40%",
+          "memory": "42.5 MB",
+          "memoryPercentile": "50.69%",
+          "timestamp": 1789102308
+        }
+      ]
+    },
+    "0383": {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "Easy",
+      "directory": "0383-ransom-note",
+      "submissions": [
+        {
+          "submissionId": "2138190579",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "16 ms",
+          "runtimePercentile": "19.28%",
+          "memory": "47.3 MB",
+          "memoryPercentile": "7.35%",
+          "timestamp": 1789104436
+        }
+      ]
+    },
+    "0905": {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "titleSlug": "sort-array-by-parity",
+      "difficulty": "Easy",
+      "directory": "0905-sort-array-by-parity",
+      "submissions": [
+        {
+          "submissionId": "2138219215",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "4.01%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "5.23%",
+          "timestamp": 1789106207
+        },
+        {
+          "submissionId": "2138222128",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "15.07%",
+          "timestamp": 1789106375
         }
       ]
     }
@@ -403,6 +4053,254 @@
     "2139997452",
     "2140009515",
     "2140020800",
-    "2140026670"
+    "2140026670",
+    "1765859080",
+    "1770632145",
+    "1789814823",
+    "1789815031",
+    "1789828223",
+    "1791672725",
+    "1791673834",
+    "1791758910",
+    "1814674962",
+    "1819624518",
+    "1819641544",
+    "1819641801",
+    "1834062074",
+    "1925190183",
+    "1925196069",
+    "1929190878",
+    "1944836748",
+    "1945546405",
+    "1945557710",
+    "1945559937",
+    "1946687866",
+    "1946716920",
+    "1946791316",
+    "1950719825",
+    "1957337694",
+    "1957357431",
+    "1958383715",
+    "1959009776",
+    "1959020288",
+    "1959148718",
+    "1960679863",
+    "1962962963",
+    "1962995017",
+    "1966053890",
+    "1966155229",
+    "1967093001",
+    "1970273490",
+    "1970363756",
+    "1972272232",
+    "1972273068",
+    "1972784588",
+    "1972797727",
+    "1972806309",
+    "1972809672",
+    "1972810264",
+    "1973229449",
+    "1973300719",
+    "1973301905",
+    "1973543458",
+    "1973624462",
+    "1979429734",
+    "1979432002",
+    "2064162721",
+    "2075340879",
+    "2077590530",
+    "2077603041",
+    "2077608500",
+    "2077899199",
+    "2077916781",
+    "2077930464",
+    "2078143254",
+    "2078163872",
+    "2078169628",
+    "2079354767",
+    "2079380023",
+    "2079446401",
+    "2081120085",
+    "2081155340",
+    "2083795453",
+    "2084725159",
+    "2084729260",
+    "2084740768",
+    "2084753058",
+    "2084778723",
+    "2084817096",
+    "2084829113",
+    "2084843050",
+    "2085736007",
+    "2085815318",
+    "2085997640",
+    "2087936081",
+    "2087937972",
+    "2088407380",
+    "2088418969",
+    "2088423092",
+    "2088424351",
+    "2088425718",
+    "2088438682",
+    "2088471064",
+    "2088487047",
+    "2089270365",
+    "2089291953",
+    "2089323914",
+    "2089330754",
+    "2089332332",
+    "2089333102",
+    "2089333180",
+    "2091692142",
+    "2092965218",
+    "2092994787",
+    "2093371511",
+    "2093394023",
+    "2093888969",
+    "2093926258",
+    "2095750504",
+    "2095852932",
+    "2095864310",
+    "2095880778",
+    "2095893275",
+    "2095901262",
+    "2095907081",
+    "2097114506",
+    "2098275366",
+    "2100693575",
+    "2101225513",
+    "2107875084",
+    "2110538847",
+    "2112202562",
+    "2112204342",
+    "2112216558",
+    "2112240959",
+    "2112285089",
+    "2112309079",
+    "2112347548",
+    "2113603796",
+    "2118658131",
+    "2118689235",
+    "2127038834",
+    "2127080240",
+    "2127089554",
+    "2127103300",
+    "2127103527",
+    "2127110683",
+    "2127110926",
+    "2127116064",
+    "2127116628",
+    "2128208567",
+    "2128208981",
+    "2128225439",
+    "2128233724",
+    "2128247799",
+    "2128250091",
+    "2128294716",
+    "2128307646",
+    "2128324027",
+    "2128340622",
+    "2129260954",
+    "2129281362",
+    "2129304257",
+    "2129308247",
+    "2129468342",
+    "2129498746",
+    "2132049834",
+    "2133665666",
+    "2133690985",
+    "2133729483",
+    "2133734036",
+    "2133740333",
+    "2133741226",
+    "2133743686",
+    "2133752896",
+    "2133760683",
+    "2133770344",
+    "2133781018",
+    "2133783939",
+    "2133785250",
+    "2133792389",
+    "2133796754",
+    "2133797299",
+    "2134614225",
+    "2134688857",
+    "2134742782",
+    "2134761851",
+    "2134765889",
+    "2134771311",
+    "2134771945",
+    "2134852026",
+    "2134858841",
+    "2134862337",
+    "2134874211",
+    "2134888172",
+    "2134898263",
+    "2134927673",
+    "2134931802",
+    "2134937294",
+    "2134937573",
+    "2134947336",
+    "2134956433",
+    "2134958156",
+    "2134974487",
+    "2134975399",
+    "2134981238",
+    "2135002725",
+    "2135560595",
+    "2135865739",
+    "2135871800",
+    "2135875281",
+    "2135905213",
+    "2135918791",
+    "2135919334",
+    "2135920095",
+    "2135927388",
+    "2135930257",
+    "2135930926",
+    "2135961403",
+    "2135966082",
+    "2135968845",
+    "2136000004",
+    "2136094767",
+    "2136095221",
+    "2136116700",
+    "2136122287",
+    "2136137199",
+    "2136155153",
+    "2136168930",
+    "2136176513",
+    "2136206019",
+    "2136219953",
+    "2137058429",
+    "2137073411",
+    "2137090497",
+    "2137092183",
+    "2137099248",
+    "2137099959",
+    "2137108829",
+    "2137133558",
+    "2137133975",
+    "2137153163",
+    "2137179224",
+    "2137274987",
+    "2137351218",
+    "2138144375",
+    "2138156300",
+    "2138169193",
+    "2138174167",
+    "2138190579",
+    "2138219215",
+    "2138222128",
+    "2138399506",
+    "2138401836",
+    "2138402142",
+    "2138417352",
+    "2138474111",
+    "2139973180",
+    "2139975200",
+    "2139981287",
+    "2139988750",
+    "2139989571"
   ]
 }
