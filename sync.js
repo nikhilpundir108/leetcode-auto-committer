@@ -50,6 +50,8 @@ const LANG_MAP = {
   racket: { ext: 'rkt', comment: ';', name: 'Racket' },
 };
 
+const TIMEZONE = process.env.TIMEZONE || 'Asia/Kolkata';
+
 // ==============================================================================
 // Helper Utilities
 // ==============================================================================
@@ -58,16 +60,38 @@ export function padNumber(num, size = 4) {
   return str.padStart(size, '0');
 }
 
-export function formatTimestamp(ts) {
-  if (!ts) return new Date().toISOString().split('T')[0];
+export function formatTimestamp(ts, timeZone = TIMEZONE) {
+  if (!ts) return new Date().toISOString();
   const date = typeof ts === 'number' ? (ts > 1e11 ? new Date(ts) : new Date(ts * 1000)) : new Date(ts);
-  return date.toISOString().replace('T', ' ').substring(0, 19);
+  const options = {
+    timeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false,
+  };
+  const parts = new Intl.DateTimeFormat('en-CA', options).formatToParts(date);
+  const partMap = {};
+  for (const p of parts) partMap[p.type] = p.value;
+  return `${partMap.year}-${partMap.month}-${partMap.day} ${partMap.hour}:${partMap.minute}:${partMap.second} IST`;
 }
 
-export function formatDateOnly(ts) {
-  if (!ts) return new Date().toISOString().split('T')[0];
+export function formatDateOnly(ts, timeZone = TIMEZONE) {
+  if (!ts) return '';
   const date = typeof ts === 'number' ? (ts > 1e11 ? new Date(ts) : new Date(ts * 1000)) : new Date(ts);
-  return date.toISOString().split('T')[0];
+  const options = {
+    timeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  };
+  const parts = new Intl.DateTimeFormat('en-CA', options).formatToParts(date);
+  const partMap = {};
+  for (const p of parts) partMap[p.type] = p.value;
+  return `${partMap.year}-${partMap.month}-${partMap.day}`;
 }
 
 export function htmlToMarkdown(html) {

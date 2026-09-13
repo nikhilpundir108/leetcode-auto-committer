@@ -25,7 +25,7 @@ const ts = 1694563200; // 2023-09-13
 const dateStr = formatDateOnly(ts);
 assert.equal(dateStr, '2023-09-13');
 const fullTs = formatTimestamp(ts);
-assert.match(fullTs, /^2023-09-13 \d{2}:\d{2}:\d{2}$/);
+assert.match(fullTs, /^2023-09-13 \d{2}:\d{2}:\d{2} IST$/);
 console.log('✅ Date formatting passed.');
 
 // Test 3: HTML to Markdown conversion
