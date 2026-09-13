@@ -33,7 +33,11 @@ jobs:
         env:
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
           LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          GH_PAT: ${{ secrets.GH_PAT || secrets.GH_TOKEN || secrets.PAT || secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-          SYNC_LIMIT: 30
         run: node sync.js
+
+      - name: Commit and Push Solutions to Repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: add latest solved LeetCode solutions [skip ci]" && git push)

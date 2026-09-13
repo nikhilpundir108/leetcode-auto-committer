@@ -810,9 +810,26 @@ export async function runSync() {
 // Execute when run directly
 const isMain = process.argv[1] && fileURLToPath(import.meta.url).toLowerCase() === path.resolve(process.argv[1]).toLowerCase();
 if (isMain) {
-  runSync().catch(err => {
-    console.error('💥 Fatal sync error:', err);
-    process.exit(1);
-  });
+  const isWatch = process.argv.includes('--watch') || process.argv.includes('-w');
+  const watchIntervalMinutes = parseInt(process.env.WATCH_INTERVAL_MINUTES || '15', 10);
+
+  if (isWatch) {
+    console.log(`👀 Watch mode activated! Checking for new LeetCode submissions every ${watchIntervalMinutes} minute(s)...`);
+    const execute = async () => {
+      try {
+        await runSync();
+      } catch (err) {
+        console.error('💥 Sync error in watch loop:', err.message);
+      }
+      console.log(`\n⏳ Next check in ${watchIntervalMinutes} minute(s)... (Press Ctrl+C to stop)`);
+    };
+    execute();
+    setInterval(execute, watchIntervalMinutes * 60 * 1000);
+  } else {
+    runSync().catch(err => {
+      console.error('💥 Fatal sync error:', err);
+      process.exit(1);
+    });
+  }
 }
 
