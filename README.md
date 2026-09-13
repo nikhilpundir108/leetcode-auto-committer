@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **150** | **103** | **44** | **3** | **2026-09-12 23:55:33** |
+| **151** | **104** | **44** | **3** | **2026-09-13 00:23:41** |
 
 ---
 
@@ -45,6 +45,7 @@
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./0059-spiral-matrix-ii/solution.java) | `🟡 Medium` | 0 ms | 42.8 MB | 2026-08-17 |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./0061-rotate-list/solution.java) | `🟡 Medium` | 0 ms | 44.3 MB | 2026-08-02 |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](./0066-plus-one/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-08-06 |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./0069-sqrtx/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-13 |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./0073-set-matrix-zeroes/solution.java) | `🟡 Medium` | 1 ms | 47.7 MB | 2026-09-10 |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](./0074-search-a-2d-matrix/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-03-25 |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](./0075-sort-colors/solution.java) | `🟡 Medium` | 0 ms | 43.6 MB | 2026-08-19 |
