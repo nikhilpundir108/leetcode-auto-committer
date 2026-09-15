@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **159** | **109** | **47** | **3** | **2026-09-15 16:12:02 IST** |
+| **160** | **110** | **47** | **3** | **2026-09-16 02:09:17 IST** |
 
 ---
 
@@ -89,6 +89,7 @@
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./0328-odd-even-linked-list/solution.java) | `🟡 Medium` | 0 ms | 46.3 MB | 2026-07-29 |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./0342-power-of-four/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./0344-reverse-string/solution.java) | `🟢 Easy` | 0 ms | 48.3 MB | 2026-02-20 |
+| 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./0345-reverse-vowels-of-a-string/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-16 |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./0349-intersection-of-two-arrays/solution.java) | `🟢 Easy` | 2 ms | 45 MB | 2026-08-01 |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./0350-intersection-of-two-arrays-ii/solution.java) | `🟢 Easy` | 3 ms | 45.1 MB | 2026-09-09 |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./0383-ransom-note/solution.java) | `🟢 Easy` | 16 ms | 47.3 MB | 2026-09-11 |

@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-15T10:42:02.255Z",
-  "totalSolved": 159,
+  "lastSyncedAt": "2026-09-15T20:39:17.736Z",
+  "totalSolved": 160,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4262,6 +4262,25 @@
           "timestamp": 1789468385
         }
       ]
+    },
+    "0345": {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "titleSlug": "reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "directory": "0345-reverse-vowels-of-a-string",
+      "submissions": [
+        {
+          "submissionId": "2142994991",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.03%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "21.59%",
+          "timestamp": 1789498771
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4547,6 +4566,7 @@
     "2142397182",
     "2142397759",
     "2142466756",
-    "2142489308"
+    "2142489308",
+    "2142994991"
   ]
 }
