@@ -2,9 +2,9 @@
  * Problem: Palindrome Linked List (LeetCode #234)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 3 ms (Beats 99.80%)
- * Memory: 93.5 MB (Beats 98.47%)
- * Solved At: 2026-07-23 05:09:01
+ * Runtime: 4 ms (Beats 67.21%)
+ * Memory: 94.6 MB (Beats 42.95%)
+ * Solved At: 2026-09-15 11:38:13 IST
  * Link: https://leetcode.com/problems/palindrome-linked-list/
  */
 
@@ -19,15 +19,21 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-        // ListNode mid = findMid(ListNode head);
+    public ListNode findMid(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
-        while (fast != null && fast.next!=null) {
+        while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode mid = slow;
+        return slow;
+    }
+
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
+        }
+        ListNode mid = findMid(head);
         ListNode prev = null;
         ListNode curr = mid;
         ListNode next;
@@ -37,16 +43,15 @@ class Solution {
             prev = curr;
             curr = next;
         }
-        ListNode left=head;
-        ListNode right=prev;
-        while(right!=null){
-            if(left.val!=right.val){
+        ListNode right = prev;
+        ListNode left = head;
+        while (right != null) {
+            if (left.val != right.val) {
                 return false;
             }
-            left=left.next;
-            right=right.next;
+            left = left.next;
+            right = right.next;
         }
         return true;
-
     }
 }

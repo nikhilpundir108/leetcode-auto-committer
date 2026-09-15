@@ -66,6 +66,6 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 45.2 MB (Beats 62.69%)
-- **Submission Date:** 2026-07-22 19:04:22
+- **Memory:** 45.1 MB (Beats 62.52%)
+- **Submission Date:** 2026-09-15 11:57:29 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/)

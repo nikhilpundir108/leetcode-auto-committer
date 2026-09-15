@@ -3,8 +3,8 @@
  * Difficulty: Medium
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 47 MB (Beats 13.62%)
- * Solved At: 2026-07-23 09:08:34
+ * Memory: 46.9 MB (Beats 13.58%)
+ * Solved At: 2026-09-15 11:11:34 IST
  * Link: https://leetcode.com/problems/linked-list-cycle-ii/
  */
 
@@ -35,7 +35,7 @@ public class Solution {
                     slow=slow.next;
                     fast=fast.next;
                 }
-                return fast;
+                return slow;
             }            
         }
             return null;

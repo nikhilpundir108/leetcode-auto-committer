@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-13T00:23:41.186Z",
-  "totalSolved": 151,
+  "lastSyncedAt": "2026-09-15T10:42:02.255Z",
+  "totalSolved": 159,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -133,6 +133,44 @@
           "memory": "44.8 MB",
           "memoryPercentile": "22.03%",
           "timestamp": 1788257093
+        }
+      ]
+    },
+    "1351": {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "directory": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "submissions": [
+        {
+          "submissionId": "2142280468",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "54.62%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "43.53%",
+          "timestamp": 1789453101
+        }
+      ]
+    },
+    "1365": {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "directory": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "submissions": [
+        {
+          "submissionId": "2142226599",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "83.53%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "19.18%",
+          "timestamp": 1789449818
         }
       ]
     },
@@ -2730,6 +2768,16 @@
           "memory": "45.2 MB",
           "memoryPercentile": "62.69%",
           "timestamp": 1784747062
+        },
+        {
+          "submissionId": "2142290371",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "62.52%",
+          "timestamp": 1789453649
         }
       ]
     },
@@ -2797,6 +2845,16 @@
           "memory": "93.5 MB",
           "memoryPercentile": "98.47%",
           "timestamp": 1784783341
+        },
+        {
+          "submissionId": "2142269690",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "67.21%",
+          "memory": "94.6 MB",
+          "memoryPercentile": "42.95%",
+          "timestamp": 1789452493
         }
       ]
     },
@@ -2855,6 +2913,16 @@
           "memory": "47 MB",
           "memoryPercentile": "13.62%",
           "timestamp": 1784797714
+        },
+        {
+          "submissionId": "2142242929",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "13.58%",
+          "timestamp": 1789450894
         }
       ]
     },
@@ -4050,6 +4118,150 @@
           "timestamp": 1789258577
         }
       ]
+    },
+    "0904": {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "titleSlug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "directory": "0904-fruit-into-baskets",
+      "submissions": [
+        {
+          "submissionId": "2142220756",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "54 ms",
+          "runtimePercentile": "64.35%",
+          "memory": "68.7 MB",
+          "memoryPercentile": "83.22%",
+          "timestamp": 1789449454
+        }
+      ]
+    },
+    "0028": {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "directory": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "submissions": [
+        {
+          "submissionId": "2142231345",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "81.75%",
+          "timestamp": 1789450127
+        }
+      ]
+    },
+    "0083": {
+      "frontendId": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "titleSlug": "remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "directory": "0083-remove-duplicates-from-sorted-list",
+      "submissions": [
+        {
+          "submissionId": "2142301568",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.5 MB",
+          "memoryPercentile": "51.40%",
+          "timestamp": 1789454326
+        }
+      ]
+    },
+    "0389": {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "titleSlug": "find-the-difference",
+      "difficulty": "Easy",
+      "directory": "0389-find-the-difference",
+      "submissions": [
+        {
+          "submissionId": "2142389661",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "7.16%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "92.78%",
+          "timestamp": 1789461161
+        },
+        {
+          "submissionId": "2142396603",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.78%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "84.67%",
+          "timestamp": 1789461701
+        },
+        {
+          "submissionId": "2142397182",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.78%",
+          "memory": "43 MB",
+          "memoryPercentile": "84.67%",
+          "timestamp": 1789461742
+        },
+        {
+          "submissionId": "2142397759",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.78%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "36.82%",
+          "timestamp": 1789461784
+        }
+      ]
+    },
+    "0229": {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "titleSlug": "majority-element-ii",
+      "difficulty": "Medium",
+      "directory": "0229-majority-element-ii",
+      "submissions": [
+        {
+          "submissionId": "2142466756",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "43.79%",
+          "memory": "53 MB",
+          "memoryPercentile": "17.20%",
+          "timestamp": 1789466767
+        }
+      ]
+    },
+    "0152": {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "directory": "0152-maximum-product-subarray",
+      "submissions": [
+        {
+          "submissionId": "2142489308",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "298 ms",
+          "runtimePercentile": "5.07%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "72.84%",
+          "timestamp": 1789468385
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4321,6 +4533,20 @@
     "2139981287",
     "2139988750",
     "2139989571",
-    "2140066631"
+    "2140066631",
+    "2142220756",
+    "2142226599",
+    "2142231345",
+    "2142242929",
+    "2142269690",
+    "2142280468",
+    "2142290371",
+    "2142301568",
+    "2142389661",
+    "2142396603",
+    "2142397182",
+    "2142397759",
+    "2142466756",
+    "2142489308"
   ]
 }

@@ -41,7 +41,7 @@ Output: false
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 3 ms (Beats 99.80%)
-- **Memory:** 93.5 MB (Beats 98.47%)
-- **Submission Date:** 2026-07-23 05:09:01
+- **Runtime:** 4 ms (Beats 67.21%)
+- **Memory:** 94.6 MB (Beats 42.95%)
+- **Submission Date:** 2026-09-15 11:38:13 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/palindrome-linked-list/)

@@ -58,6 +58,6 @@ Explanation: There is no cycle in the linked list.
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 47 MB (Beats 13.62%)
-- **Submission Date:** 2026-07-23 09:08:34
+- **Memory:** 46.9 MB (Beats 13.58%)
+- **Submission Date:** 2026-09-15 11:11:34 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/)
