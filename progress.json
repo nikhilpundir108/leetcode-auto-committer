@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-16T15:46:44.128Z",
-  "totalSolved": 163,
+  "lastSyncedAt": "2026-09-16T20:39:12.261Z",
+  "totalSolved": 167,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4358,6 +4358,82 @@
           "timestamp": 1789553012
         }
       ]
+    },
+    "0094": {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "titleSlug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "directory": "0094-binary-tree-inorder-traversal",
+      "submissions": [
+        {
+          "submissionId": "2144077844",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "15.11%",
+          "timestamp": 1789588042
+        }
+      ]
+    },
+    "0144": {
+      "frontendId": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "titleSlug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "directory": "0144-binary-tree-preorder-traversal",
+      "submissions": [
+        {
+          "submissionId": "2144082183",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "32.79%",
+          "timestamp": 1789588477
+        }
+      ]
+    },
+    "0145": {
+      "frontendId": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "titleSlug": "binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "directory": "0145-binary-tree-postorder-traversal",
+      "submissions": [
+        {
+          "submissionId": "2144082687",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "85.40%",
+          "timestamp": 1789588522
+        }
+      ]
+    },
+    "0102": {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "titleSlug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "directory": "0102-binary-tree-level-order-traversal",
+      "submissions": [
+        {
+          "submissionId": "2144093435",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "95.89%",
+          "memory": "47 MB",
+          "memoryPercentile": "22.07%",
+          "timestamp": 1789589644
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4649,6 +4725,10 @@
     "2143527270",
     "2143529452",
     "2143529688",
-    "2143558574"
+    "2143558574",
+    "2144077844",
+    "2144082183",
+    "2144082687",
+    "2144093435"
   ]
 }
