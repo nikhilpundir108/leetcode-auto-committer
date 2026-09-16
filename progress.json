@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-16T10:29:43.218Z",
-  "totalSolved": 162,
+  "lastSyncedAt": "2026-09-16T15:46:44.128Z",
+  "totalSolved": 163,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -537,6 +537,25 @@
           "memory": "42.8 MB",
           "memoryPercentile": "81.53%",
           "timestamp": 1774796865
+        }
+      ]
+    },
+    "1763": {
+      "frontendId": "1763",
+      "title": "Longest Nice Substring",
+      "titleSlug": "longest-nice-substring",
+      "difficulty": "Easy",
+      "directory": "1763-longest-nice-substring",
+      "submissions": [
+        {
+          "submissionId": "2143558574",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "26 ms",
+          "runtimePercentile": "25.88%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "27.31%",
+          "timestamp": 1789555203
         }
       ]
     },
@@ -4629,6 +4648,7 @@
     "2143496519",
     "2143527270",
     "2143529452",
-    "2143529688"
+    "2143529688",
+    "2143558574"
   ]
 }
