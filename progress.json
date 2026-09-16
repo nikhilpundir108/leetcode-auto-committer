@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-15T20:39:17.736Z",
-  "totalSolved": 160,
+  "lastSyncedAt": "2026-09-16T10:29:43.218Z",
+  "totalSolved": 162,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4281,6 +4281,64 @@
           "timestamp": 1789498771
         }
       ]
+    },
+    "0594": {
+      "frontendId": "594",
+      "title": "Longest Harmonious Subsequence",
+      "titleSlug": "longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "directory": "0594-longest-harmonious-subsequence",
+      "submissions": [
+        {
+          "submissionId": "2143496519",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "99.00%",
+          "memory": "48.4 MB",
+          "memoryPercentile": "23.95%",
+          "timestamp": 1789550484
+        }
+      ]
+    },
+    "0219": {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "titleSlug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "directory": "0219-contains-duplicate-ii",
+      "submissions": [
+        {
+          "submissionId": "2143527270",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "32 ms",
+          "runtimePercentile": "29.76%",
+          "memory": "104.5 MB",
+          "memoryPercentile": "78.60%",
+          "timestamp": 1789552826
+        },
+        {
+          "submissionId": "2143529452",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "37 ms",
+          "runtimePercentile": "6.26%",
+          "memory": "104.8 MB",
+          "memoryPercentile": "70.19%",
+          "timestamp": 1789552994
+        },
+        {
+          "submissionId": "2143529688",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "32 ms",
+          "runtimePercentile": "29.76%",
+          "memory": "104.6 MB",
+          "memoryPercentile": "75.12%",
+          "timestamp": 1789553012
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4567,6 +4625,10 @@
     "2142397759",
     "2142466756",
     "2142489308",
-    "2142994991"
+    "2142994991",
+    "2143496519",
+    "2143527270",
+    "2143529452",
+    "2143529688"
   ]
 }
