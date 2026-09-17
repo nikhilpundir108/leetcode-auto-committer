@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-17T15:53:23.807Z",
-  "totalSolved": 177,
+  "lastSyncedAt": "2026-09-17T20:45:22.387Z",
+  "totalSolved": 179,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4684,6 +4684,44 @@
           "timestamp": 1789641932
         }
       ]
+    },
+    "0104": {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0104-maximum-depth-of-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2145146991",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "45.87%",
+          "timestamp": 1789675986
+        }
+      ]
+    },
+    "0110": {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "titleSlug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0110-balanced-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2145159356",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.6 MB",
+          "memoryPercentile": "59.89%",
+          "timestamp": 1789677540
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4995,6 +5033,8 @@
     "2144574654",
     "2144574871",
     "2144615208",
-    "2144623540"
+    "2144623540",
+    "2145146991",
+    "2145159356"
   ]
 }

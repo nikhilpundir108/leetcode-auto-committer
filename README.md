@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **177** | **124** | **50** | **3** | **2026-09-17 21:23:23 IST** |
+| **179** | **126** | **50** | **3** | **2026-09-18 02:15:22 IST** |
 
 ---
 
@@ -56,6 +56,8 @@
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-02 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./0102-binary-tree-level-order-traversal/solution.java) | `🟡 Medium` | 1 ms | 47 MB | 2026-09-17 |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./0104-maximum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./0110-balanced-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 45.6 MB | 2026-09-18 |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./0118-pascals-triangle/solution.java) | `🟢 Easy` | 1 ms | 43.6 MB | 2026-09-11 |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./0119-pascals-triangle-ii/solution.java) | `🟢 Easy` | 2 ms | 42.9 MB | 2026-09-11 |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./0121-best-time-to-buy-and-sell-stock/solution.java) | `🟢 Easy` | 1 ms | 94.4 MB | 2026-09-08 |
