@@ -56,6 +56,6 @@ Given the `root` of a binary tree, return *the preorder traversal of its nodes' 
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43.2 MB (Beats 32.79%)
-- **Submission Date:** 2026-09-17 01:24:37 IST
+- **Memory:** 43 MB (Beats 85.22%)
+- **Submission Date:** 2026-09-17 02:39:46 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/)

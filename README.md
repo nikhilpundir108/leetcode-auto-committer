@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **167** | **116** | **48** | **3** | **2026-09-17 02:09:12 IST** |
+| **167** | **116** | **48** | **3** | **2026-09-17 07:57:55 IST** |
 
 ---
 
@@ -65,7 +65,7 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./0141-linked-list-cycle/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-07-28 |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./0142-linked-list-cycle-ii/solution.java) | `🟡 Medium` | 0 ms | 46.9 MB | 2026-09-15 |
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./0143-reorder-list/solution.java) | `🟡 Medium` | 2 ms | 49.5 MB | 2026-07-28 |
-| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./0144-binary-tree-preorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-17 |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./0144-binary-tree-preorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./0145-binary-tree-postorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](./0148-sort-list/solution.java) | `🟡 Medium` | 11 ms | 59.5 MB | 2026-07-24 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
