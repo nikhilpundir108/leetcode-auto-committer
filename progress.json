@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-17T10:39:55.555Z",
-  "totalSolved": 176,
+  "lastSyncedAt": "2026-09-17T15:53:23.807Z",
+  "totalSolved": 177,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4665,6 +4665,25 @@
           "timestamp": 1789633928
         }
       ]
+    },
+    "0713": {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "titleSlug": "subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "directory": "0713-subarray-product-less-than-k",
+      "submissions": [
+        {
+          "submissionId": "2144623540",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.96%",
+          "memory": "48.7 MB",
+          "memoryPercentile": "87.25%",
+          "timestamp": 1789641932
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4975,6 +4994,7 @@
     "2144573139",
     "2144574654",
     "2144574871",
-    "2144615208"
+    "2144615208",
+    "2144623540"
   ]
 }
