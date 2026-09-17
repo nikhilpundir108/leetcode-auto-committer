@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **167** | **116** | **48** | **3** | **2026-09-17 07:57:55 IST** |
+| **176** | **124** | **49** | **3** | **2026-09-17 16:09:55 IST** |
 
 ---
 
@@ -79,6 +79,7 @@
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./0202-happy-number/solution.java) | `🟢 Easy` | 1 ms | 42.5 MB | 2026-09-11 |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](./0205-isomorphic-strings/solution.java) | `🟢 Easy` | 17 ms | 44 MB | 2026-08-01 |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./0206-reverse-linked-list/solution.java) | `🟢 Easy` | 0 ms | 44.2 MB | 2026-07-28 |
+| 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./0209-minimum-size-subarray-sum/solution.java) | `🟡 Medium` | 1 ms | 69.3 MB | 2026-09-17 |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./0217-contains-duplicate/solution.java) | `🟢 Easy` | 18 ms | 107.2 MB | 2026-08-01 |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./0219-contains-duplicate-ii/solution.java) | `🟢 Easy` | 32 ms | 104.6 MB | 2026-09-16 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./0229-majority-element-ii/solution.java) | `🟡 Medium` | 14 ms | 53 MB | 2026-09-15 |
@@ -110,6 +111,7 @@
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./0724-find-pivot-index/solution.java) | `🟢 Easy` | 1 ms | 47.3 MB | 2026-09-02 |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./0728-self-dividing-numbers/solution.java) | `🟢 Easy` | 2 ms | 42.7 MB | 2026-09-11 |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./0747-largest-number-at-least-twice-of-others/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-01 |
@@ -122,6 +124,7 @@
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Java](./0875-koko-eating-bananas/solution.java) | `🟡 Medium` | 6 ms | 47.9 MB | 2026-04-08 |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./0876-middle-of-the-linked-list/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-07-23 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Java](./0881-boats-to-save-people/solution.java) | `🟡 Medium` | 20 ms | 56.7 MB | 2026-09-07 |
+| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](./0896-monotonic-array/solution.java) | `🟢 Easy` | 3 ms | 85.1 MB | 2026-09-17 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Java](./0904-fruit-into-baskets/solution.java) | `🟡 Medium` | 54 ms | 68.7 MB | 2026-09-15 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./0905-sort-array-by-parity/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-11 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
@@ -140,9 +143,11 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-09-01 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./1480-running-sum-of-1d-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-01 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Java](./1482-minimum-number-of-days-to-make-m-bouquets/solution.java) | `🟡 Medium` | 16 ms | 82.6 MB | 2026-09-03 |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](./1502-can-make-arithmetic-progression-from-sequence/solution.java) | `🟢 Easy` | 5 ms | 44.1 MB | 2026-09-17 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./1512-number-of-good-pairs/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-07 |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](./1539-kth-missing-positive-number/solution.java) | `🟢 Easy` | 0 ms | 44.7 MB | 2026-04-09 |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Java](./1572-matrix-diagonal-sum/solution.java) | `🟢 Easy` | 0 ms | 46.3 MB | 2026-09-09 |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./1672-richest-customer-wealth/solution.java) | `🟢 Easy` | 0 ms | 44.3 MB | 2026-09-01 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](./1742-maximum-number-of-balls-in-a-box/solution.java) | `🟢 Easy` | 16 ms | 42.1 MB | 2026-09-09 |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](./1748-sum-of-unique-elements/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-11 |
@@ -150,6 +155,7 @@
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Java](./1763-longest-nice-substring/solution.java) | `🟢 Easy` | 26 ms | 46.5 MB | 2026-09-16 |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./1773-count-items-matching-a-rule/solution.java) | `🟢 Easy` | 4 ms | 49.9 MB | 2026-09-10 |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Java](./1812-determine-color-of-a-chessboard-square/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](./1822-sign-of-the-product-of-an-array/solution.java) | `🟢 Easy` | 0 ms | 44.9 MB | 2026-09-17 |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](./1832-check-if-the-sentence-is-pangram/solution.java) | `🟢 Easy` | 4 ms | 43 MB | 2026-09-08 |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Java](./1848-minimum-distance-to-the-target-element/solution.java) | `🟢 Easy` | 1 ms | 45.1 MB | 2026-09-08 |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Java](./1903-largest-odd-number-in-string/solution.java) | `🟢 Easy` | 1 ms | 47 MB | 2026-09-10 |
@@ -157,6 +163,7 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./1929-concatenation-of-array/solution.java) | `🟢 Easy` | 1 ms | 47.1 MB | 2026-09-02 |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Java](./1935-maximum-number-of-words-you-can-type/solution.java) | `🟢 Easy` | 3 ms | 43.4 MB | 2026-09-13 |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Java](./1979-find-greatest-common-divisor-of-array/solution.java) | `🟢 Easy` | 0 ms | 44.8 MB | 2026-09-03 |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Java](./1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) | `🟢 Easy` | 8 ms | 47.1 MB | 2026-09-17 |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Java](./2000-reverse-prefix-of-word/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-10 |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Java](./2078-two-furthest-houses-with-different-colors/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-08 |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Java](./2085-count-common-words-with-one-occurrence/solution.java) | `🟢 Easy` | 7 ms | 46.3 MB | 2026-09-13 |
@@ -170,6 +177,7 @@
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [Java](./2190-most-frequent-number-following-key-in-an-array/solution.java) | `🟢 Easy` | 3 ms | 46.3 MB | 2026-09-13 |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](./2215-find-the-difference-of-two-arrays/solution.java) | `🟢 Easy` | 9 ms | 47.1 MB | 2026-09-13 |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Java](./2235-add-two-integers/solution.java) | `🟢 Easy` | 0 ms | 42.1 MB | 2026-09-07 |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Java](./2269-find-the-k-beauty-of-a-number/solution.java) | `🟢 Easy` | 1 ms | 42.2 MB | 2026-09-17 |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Java](./2351-first-letter-to-appear-twice/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-13 |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Java](./2367-number-of-arithmetic-triplets/solution.java) | `🟢 Easy` | 2 ms | 43.1 MB | 2026-09-13 |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Java](./2413-smallest-even-multiple/solution.java) | `🟢 Easy` | 0 ms | 42.4 MB | 2026-09-09 |
@@ -180,6 +188,7 @@
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Java](./2639-find-the-width-of-columns-of-a-grid/solution.java) | `🟢 Easy` | 4 ms | 46.9 MB | 2026-09-09 |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
+| 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Java](./3483-unique-3-digit-even-numbers/solution.java) | `🟢 Easy` | 5 ms | 46.5 MB | 2026-09-13 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Java](./3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | `🟢 Easy` | 1 ms | 45.4 MB | 2026-09-01 |

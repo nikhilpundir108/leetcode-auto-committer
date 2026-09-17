@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-17T02:27:55.577Z",
-  "totalSolved": 167,
+  "lastSyncedAt": "2026-09-17T10:39:55.555Z",
+  "totalSolved": 176,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -367,6 +367,25 @@
         }
       ]
     },
+    "1502": {
+      "frontendId": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "titleSlug": "can-make-arithmetic-progression-from-sequence",
+      "difficulty": "Easy",
+      "directory": "1502-can-make-arithmetic-progression-from-sequence",
+      "submissions": [
+        {
+          "submissionId": "2144381747",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "83.20%",
+          "memory": "44.1 MB",
+          "memoryPercentile": "57.59%",
+          "timestamp": 1789624907
+        }
+      ]
+    },
     "1512": {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
@@ -441,6 +460,25 @@
           "memory": "46.3 MB",
           "memoryPercentile": "52.10%",
           "timestamp": 1788947679
+        }
+      ]
+    },
+    "1652": {
+      "frontendId": "1652",
+      "title": "Defuse the Bomb",
+      "titleSlug": "defuse-the-bomb",
+      "difficulty": "Easy",
+      "directory": "1652-defuse-the-bomb",
+      "submissions": [
+        {
+          "submissionId": "2144497339",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "91.85%",
+          "timestamp": 1789633096
         }
       ]
     },
@@ -594,6 +632,25 @@
           "memory": "42.8 MB",
           "memoryPercentile": "34.49%",
           "timestamp": 1788771446
+        }
+      ]
+    },
+    "1822": {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "titleSlug": "sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "directory": "1822-sign-of-the-product-of-an-array",
+      "submissions": [
+        {
+          "submissionId": "2144344834",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.9 MB",
+          "memoryPercentile": "96.83%",
+          "timestamp": 1789622691
         }
       ]
     },
@@ -767,6 +824,45 @@
           "memory": "44.8 MB",
           "memoryPercentile": "94.33%",
           "timestamp": 1788418200
+        }
+      ]
+    },
+    "1984": {
+      "frontendId": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "directory": "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "submissions": [
+        {
+          "submissionId": "2144549858",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "90.31%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "74.47%",
+          "timestamp": 1789636753
+        },
+        {
+          "submissionId": "2144550330",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "90.31%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "15.71%",
+          "timestamp": 1789636786
+        },
+        {
+          "submissionId": "2144574654",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "90.31%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "15.71%",
+          "timestamp": 1789638441
         }
       ]
     },
@@ -1097,6 +1193,35 @@
         }
       ]
     },
+    "2269": {
+      "frontendId": "2269",
+      "title": "Find the K-Beauty of a Number",
+      "titleSlug": "find-the-k-beauty-of-a-number",
+      "difficulty": "Easy",
+      "directory": "2269-find-the-k-beauty-of-a-number",
+      "submissions": [
+        {
+          "submissionId": "2144573139",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "91.48%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "74.57%",
+          "timestamp": 1789638336
+        },
+        {
+          "submissionId": "2144574871",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "91.48%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "74.57%",
+          "timestamp": 1789638455
+        }
+      ]
+    },
     "2351": {
       "frontendId": "2351",
       "title": "First Letter to Appear Twice",
@@ -1384,6 +1509,25 @@
           "memory": "45.5 MB",
           "memoryPercentile": "99.92%",
           "timestamp": 1757862623
+        }
+      ]
+    },
+    "3206": {
+      "frontendId": "3206",
+      "title": "Alternating Groups I",
+      "titleSlug": "alternating-groups-i",
+      "difficulty": "Easy",
+      "directory": "3206-alternating-groups-i",
+      "submissions": [
+        {
+          "submissionId": "2144615208",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "97.33%",
+          "memory": "45 MB",
+          "memoryPercentile": "14.95%",
+          "timestamp": 1789641299
         }
       ]
     },
@@ -4444,6 +4588,83 @@
           "timestamp": 1789589644
         }
       ]
+    },
+    "0896": {
+      "frontendId": "896",
+      "title": "Monotonic Array",
+      "titleSlug": "monotonic-array",
+      "difficulty": "Easy",
+      "directory": "0896-monotonic-array",
+      "submissions": [
+        {
+          "submissionId": "2144366031",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "68.72%",
+          "memory": "85 MB",
+          "memoryPercentile": "89.57%",
+          "timestamp": 1789624008
+        },
+        {
+          "submissionId": "2144367271",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "68.72%",
+          "memory": "85.1 MB",
+          "memoryPercentile": "58.47%",
+          "timestamp": 1789624083
+        },
+        {
+          "submissionId": "2144367742",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "18.35%",
+          "memory": "85.1 MB",
+          "memoryPercentile": "78.64%",
+          "timestamp": 1789624109
+        }
+      ]
+    },
+    "0709": {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "titleSlug": "to-lower-case",
+      "difficulty": "Easy",
+      "directory": "0709-to-lower-case",
+      "submissions": [
+        {
+          "submissionId": "2144368537",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "51.88%",
+          "timestamp": 1789624161
+        }
+      ]
+    },
+    "0209": {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "titleSlug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "directory": "0209-minimum-size-subarray-sum",
+      "submissions": [
+        {
+          "submissionId": "2144507594",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.81%",
+          "memory": "69.3 MB",
+          "memoryPercentile": "28.09%",
+          "timestamp": 1789633928
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -4740,6 +4961,20 @@
     "2144082183",
     "2144082687",
     "2144093435",
-    "2144119204"
+    "2144119204",
+    "2144344834",
+    "2144366031",
+    "2144367271",
+    "2144367742",
+    "2144368537",
+    "2144381747",
+    "2144497339",
+    "2144507594",
+    "2144549858",
+    "2144550330",
+    "2144573139",
+    "2144574654",
+    "2144574871",
+    "2144615208"
   ]
 }
