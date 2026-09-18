@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-17T20:45:22.387Z",
-  "totalSolved": 179,
+  "lastSyncedAt": "2026-09-18T02:13:31.544Z",
+  "totalSolved": 180,
   "solvedProblems": {
     "1011": {
       "frontendId": "1011",
@@ -4722,6 +4722,25 @@
           "timestamp": 1789677540
         }
       ]
+    },
+    "0543": {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "titleSlug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0543-diameter-of-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2145163938",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "48.79%",
+          "timestamp": 1789678175
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5035,6 +5054,7 @@
     "2144615208",
     "2144623540",
     "2145146991",
-    "2145159356"
+    "2145159356",
+    "2145163938"
   ]
 }

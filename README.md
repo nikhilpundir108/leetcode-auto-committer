@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **179** | **126** | **50** | **3** | **2026-09-18 02:15:22 IST** |
+| **180** | **127** | **50** | **3** | **2026-09-18 07:43:31 IST** |
 
 ---
 
@@ -109,6 +109,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./0543-diameter-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
