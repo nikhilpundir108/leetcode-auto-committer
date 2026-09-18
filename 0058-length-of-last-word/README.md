@@ -52,6 +52,6 @@ Explanation: The last word is "joyboy" with length 6.
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43.3 MB (Beats 16.10%)
-- **Submission Date:** 2026-09-08 08:41:39
+- **Memory:** 43 MB (Beats 68.58%)
+- **Submission Date:** 2026-09-18 10:25:27 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/length-of-last-word/)

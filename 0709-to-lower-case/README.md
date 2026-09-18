@@ -44,7 +44,7 @@ Output: "lovely"
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43 MB (Beats 51.88%)
-- **Submission Date:** 2026-09-17 11:19:21 IST
+- **Runtime:** 1 ms (Beats 26.42%)
+- **Memory:** 43.1 MB (Beats 34.75%)
+- **Submission Date:** 2026-09-18 10:39:57 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/to-lower-case/)

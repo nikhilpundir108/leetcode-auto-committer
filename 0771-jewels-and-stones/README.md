@@ -41,7 +41,7 @@ Output: 0
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 57.90%)
-- **Memory:** 43.3 MB (Beats 35.80%)
-- **Submission Date:** 2026-09-11 04:38:52
+- **Runtime:** 0 ms (Beats 100.00%)
+- **Memory:** 42.9 MB (Beats 83.57%)
+- **Submission Date:** 2026-09-18 10:53:13 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/jewels-and-stones/)

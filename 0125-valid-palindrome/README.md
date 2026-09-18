@@ -50,7 +50,7 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 14 ms (Beats 28.29%)
-- **Memory:** 45.2 MB (Beats 35.67%)
-- **Submission Date:** 2025-10-03 04:50:53
+- **Runtime:** 3 ms (Beats 56.09%)
+- **Memory:** 44.4 MB (Beats 53.27%)
+- **Submission Date:** 2026-09-18 11:15:56 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/valid-palindrome/)

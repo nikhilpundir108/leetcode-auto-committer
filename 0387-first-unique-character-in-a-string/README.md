@@ -45,7 +45,7 @@ The character `'l'` at index 0 is the first character that does not occur at any
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 35 ms (Beats 12.87%)
-- **Memory:** 46.9 MB (Beats 57.81%)
-- **Submission Date:** 2026-09-10 06:23:01
+- **Runtime:** 6 ms (Beats 85.64%)
+- **Memory:** 46.8 MB (Beats 72.56%)
+- **Submission Date:** 2026-09-18 11:29:23 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/first-unique-character-in-a-string/)

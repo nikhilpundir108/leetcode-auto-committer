@@ -2,21 +2,29 @@
  * Problem: Valid Palindrome (LeetCode #125)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 14 ms (Beats 28.29%)
- * Memory: 45.2 MB (Beats 35.67%)
- * Solved At: 2025-10-03 04:50:53
+ * Runtime: 3 ms (Beats 56.09%)
+ * Memory: 44.4 MB (Beats 53.27%)
+ * Solved At: 2026-09-18 11:15:56 IST
  * Link: https://leetcode.com/problems/valid-palindrome/
  */
 
 class Solution {
     public boolean isPalindrome(String s) {
-      s = s.toLowerCase();
-      s= s.replaceAll("[^a-z0-9]","");
-        int n = s.length();
-        for (int i = 0; i < n; i++) {
-            if (s.charAt(i) != s.charAt(n - 1 - i) ){
+        s = s.toLowerCase();
+        int l = 0;
+        int r = s.length() - 1;
+        while (l < r) {
+            while (l < r && !Character.isLetterOrDigit(s.charAt(l))) {
+                l++;
+            }
+            while (l < r && !Character.isLetterOrDigit(s.charAt(r))) {
+                r--;
+            }
+            if (s.charAt(l) != s.charAt(r)) {
                 return false;
             }
+            l++;
+            r--;
         }
         return true;
     }

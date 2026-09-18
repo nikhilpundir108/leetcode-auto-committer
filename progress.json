@@ -1,7 +1,26 @@
 {
-  "lastSyncedAt": "2026-09-18T02:13:31.544Z",
-  "totalSolved": 180,
+  "lastSyncedAt": "2026-09-18T19:29:44.971Z",
+  "totalSolved": 186,
   "solvedProblems": {
+    "1004": {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "titleSlug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "directory": "1004-max-consecutive-ones-iii",
+      "submissions": [
+        {
+          "submissionId": "2145566477",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "95.85%",
+          "memory": "52.4 MB",
+          "memoryPercentile": "6.43%",
+          "timestamp": 1789721908
+        }
+      ]
+    },
     "1011": {
       "frontendId": "1011",
       "title": "Capacity To Ship Packages Within D Days",
@@ -1474,6 +1493,35 @@
         }
       ]
     },
+    "2586": {
+      "frontendId": "2586",
+      "title": "Count the Number of Vowel Strings in Range",
+      "titleSlug": "count-the-number-of-vowel-strings-in-range",
+      "difficulty": "Easy",
+      "directory": "2586-count-the-number-of-vowel-strings-in-range",
+      "submissions": [
+        {
+          "submissionId": "2145460585",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "48.17%",
+          "timestamp": 1789713393
+        },
+        {
+          "submissionId": "2145463843",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "28.80%",
+          "timestamp": 1789713596
+        }
+      ]
+    },
     "2639": {
       "frontendId": "2639",
       "title": "Find the Width of Columns of a Grid",
@@ -1952,6 +2000,16 @@
           "memory": "45.2 MB",
           "memoryPercentile": "35.67%",
           "timestamp": 1759467053
+        },
+        {
+          "submissionId": "2145410551",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "56.09%",
+          "memory": "44.4 MB",
+          "memoryPercentile": "53.27%",
+          "timestamp": 1789710356
         }
       ]
     },
@@ -2315,6 +2373,36 @@
           "memory": "43.3 MB",
           "memoryPercentile": "16.10%",
           "timestamp": 1788856899
+        },
+        {
+          "submissionId": "2145357440",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "99.42%",
+          "timestamp": 1789706821
+        },
+        {
+          "submissionId": "2145364637",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "26.45%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "16.08%",
+          "timestamp": 1789707299
+        },
+        {
+          "submissionId": "2145364996",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "68.58%",
+          "timestamp": 1789707327
         }
       ]
     },
@@ -2334,6 +2422,16 @@
           "memory": "48.3 MB",
           "memoryPercentile": "37.90%",
           "timestamp": 1771577174
+        },
+        {
+          "submissionId": "2145346559",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "48.2 MB",
+          "memoryPercentile": "73.72%",
+          "timestamp": 1789706065
         }
       ]
     },
@@ -4117,6 +4215,16 @@
           "memory": "46.9 MB",
           "memoryPercentile": "57.81%",
           "timestamp": 1789021381
+        },
+        {
+          "submissionId": "2145423407",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "85.64%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "72.56%",
+          "timestamp": 1789711163
         }
       ]
     },
@@ -4193,6 +4301,26 @@
           "memory": "43.3 MB",
           "memoryPercentile": "35.80%",
           "timestamp": 1789101532
+        },
+        {
+          "submissionId": "2145386301",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "57.36%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "8.60%",
+          "timestamp": 1789708757
+        },
+        {
+          "submissionId": "2145390051",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "83.57%",
+          "timestamp": 1789708993
         }
       ]
     },
@@ -4644,6 +4772,16 @@
           "memory": "43 MB",
           "memoryPercentile": "51.88%",
           "timestamp": 1789624161
+        },
+        {
+          "submissionId": "2145377907",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "26.42%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "34.75%",
+          "timestamp": 1789708197
         }
       ]
     },
@@ -4739,6 +4877,92 @@
           "memory": "47.1 MB",
           "memoryPercentile": "48.79%",
           "timestamp": 1789678175
+        }
+      ]
+    },
+    "0409": {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "titleSlug": "longest-palindrome",
+      "difficulty": "Easy",
+      "directory": "0409-longest-palindrome",
+      "submissions": [
+        {
+          "submissionId": "2145434908",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "28.92%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "39.84%",
+          "timestamp": 1789711837
+        },
+        {
+          "submissionId": "2145442015",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.86%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "91.22%",
+          "timestamp": 1789712266
+        }
+      ]
+    },
+    "0049": {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "Medium",
+      "directory": "0049-group-anagrams",
+      "submissions": [
+        {
+          "submissionId": "2145545841",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "28.54%",
+          "memory": "49.6 MB",
+          "memoryPercentile": "72.71%",
+          "timestamp": 1789720425
+        }
+      ]
+    },
+    "0303": {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "titleSlug": "range-sum-query-immutable",
+      "difficulty": "Easy",
+      "directory": "0303-range-sum-query-immutable",
+      "submissions": [
+        {
+          "submissionId": "2145599603",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "62.01%",
+          "timestamp": 1789724216
+        }
+      ]
+    },
+    "0560": {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "titleSlug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "directory": "0560-subarray-sum-equals-k",
+      "submissions": [
+        {
+          "submissionId": "2145651573",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "24 ms",
+          "runtimePercentile": "75.40%",
+          "memory": "49.1 MB",
+          "memoryPercentile": "12.27%",
+          "timestamp": 1789728135
         }
       ]
     }
@@ -5055,6 +5279,23 @@
     "2144623540",
     "2145146991",
     "2145159356",
-    "2145163938"
+    "2145163938",
+    "2145346559",
+    "2145357440",
+    "2145364637",
+    "2145364996",
+    "2145377907",
+    "2145386301",
+    "2145390051",
+    "2145410551",
+    "2145423407",
+    "2145434908",
+    "2145442015",
+    "2145460585",
+    "2145463843",
+    "2145545841",
+    "2145566477",
+    "2145599603",
+    "2145651573"
   ]
 }

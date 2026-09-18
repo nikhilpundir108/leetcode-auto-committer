@@ -2,21 +2,21 @@
  * Problem: Jewels and Stones (LeetCode #771)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 1 ms (Beats 57.90%)
- * Memory: 43.3 MB (Beats 35.80%)
- * Solved At: 2026-09-11 04:38:52
+ * Runtime: 0 ms (Beats 100.00%)
+ * Memory: 42.9 MB (Beats 83.57%)
+ * Solved At: 2026-09-18 10:53:13 IST
  * Link: https://leetcode.com/problems/jewels-and-stones/
  */
 
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        HashSet<Character> set = new HashSet<>();
-        for (int i = 0; i < jewels.length(); i++) {
-            set.add(jewels.charAt(i));
+        boolean[] res = new boolean[128];
+        for (char ch : jewels.toCharArray()) {
+            res[ch] = true;
         }
         int count = 0;
-        for (int i = 0; i < stones.length(); i++) {
-            if (set.contains(stones.charAt(i))) {
+        for (char ch : stones.toCharArray()) {
+            if (res[ch]) {
                 count++;
             }
         }
