@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **188** | **131** | **54** | **3** | **2026-09-19 20:32:46 IST** |
+| **193** | **131** | **59** | **3** | **2026-09-20 01:16:41 IST** |
 
 ---
 
@@ -114,6 +114,7 @@
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./0543-diameter-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./0560-subarray-sum-equals-k/solution.java) | `🟡 Medium` | 24 ms | 49.1 MB | 2026-09-18 |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./0567-permutation-in-string/solution.java) | `🟡 Medium` | 6 ms | 44 MB | 2026-09-19 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
@@ -135,6 +136,7 @@
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](./0896-monotonic-array/solution.java) | `🟢 Easy` | 3 ms | 85.1 MB | 2026-09-17 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Java](./0904-fruit-into-baskets/solution.java) | `🟡 Medium` | 54 ms | 68.7 MB | 2026-09-15 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./0905-sort-array-by-parity/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-11 |
+| 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Java](./0930-binary-subarrays-with-sum/solution.java) | `🟡 Medium` | 1 ms | 51 MB | 2026-09-20 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](./1011-capacity-to-ship-packages-within-d-days/solution.java) | `🟡 Medium` | 14 ms | 49.9 MB | 2026-04-09 |
@@ -143,6 +145,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Java](./1283-find-the-smallest-divisor-given-a-threshold/solution.java) | `🟡 Medium` | 6 ms | 51.1 MB | 2026-04-09 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./1295-find-numbers-with-even-number-of-digits/solution.java) | `🟢 Easy` | 1 ms | 44.8 MB | 2026-09-01 |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) | `🟡 Medium` | 3 ms | 71.7 MB | 2026-09-19 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./1351-count-negative-numbers-in-a-sorted-matrix/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-15 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 45.7 MB | 2026-09-15 |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Java](./1380-lucky-numbers-in-a-matrix/solution.java) | `🟢 Easy` | 3 ms | 47 MB | 2026-09-09 |
@@ -150,6 +153,7 @@
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Java](./1401-circle-and-rectangle-overlapping/solution.java) | `🟡 Medium` | 0 ms | 42 MB | 2026-09-19 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./1431-kids-with-the-greatest-number-of-candies/solution.java) | `🟢 Easy` | 1 ms | 44 MB | 2026-09-11 |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](./1436-destination-city/solution.java) | `🟢 Easy` | 2 ms | 44.9 MB | 2026-09-11 |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Java](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java) | `🟡 Medium` | 12 ms | 46.7 MB | 2026-09-19 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-09-01 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./1480-running-sum-of-1d-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-01 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Java](./1482-minimum-number-of-days-to-make-m-bouquets/solution.java) | `🟡 Medium` | 16 ms | 82.6 MB | 2026-09-03 |
@@ -192,6 +196,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Java](./2367-number-of-arithmetic-triplets/solution.java) | `🟢 Easy` | 2 ms | 43.1 MB | 2026-09-13 |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Java](./2413-smallest-even-multiple/solution.java) | `🟢 Easy` | 0 ms | 42.4 MB | 2026-09-09 |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Java](./2441-largest-positive-integer-that-exists-with-its-negative/solution.java) | `🟢 Easy` | 6 ms | 47.1 MB | 2026-09-13 |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Java](./2461-maximum-sum-of-distinct-subarrays-with-length-k/solution.java) | `🟡 Medium` | 32 ms | 98.5 MB | 2026-09-19 |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./2469-convert-the-temperature/solution.java) | `🟢 Easy` | 0 ms | 45.4 MB | 2026-09-07 |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Java](./2520-count-the-digits-that-divide-a-number/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Java](./2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-09-08 |

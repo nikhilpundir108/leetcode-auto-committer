@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-19T15:02:46.765Z",
-  "totalSolved": 188,
+  "lastSyncedAt": "2026-09-19T19:46:41.627Z",
+  "totalSolved": 193,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -155,6 +155,25 @@
         }
       ]
     },
+    "1343": {
+      "frontendId": "1343",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "directory": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "submissions": [
+        {
+          "submissionId": "2146925256",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "87.71%",
+          "memory": "71.7 MB",
+          "memoryPercentile": "62.94%",
+          "timestamp": 1789840977
+        }
+      ]
+    },
     "1351": {
       "frontendId": "1351",
       "title": "Count Negative Numbers in a Sorted Matrix",
@@ -285,6 +304,25 @@
           "memory": "44.9 MB",
           "memoryPercentile": "62.12%",
           "timestamp": 1789107882
+        }
+      ]
+    },
+    "1456": {
+      "frontendId": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "directory": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "submissions": [
+        {
+          "submissionId": "2146916139",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "12 ms",
+          "runtimePercentile": "81.48%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "17.70%",
+          "timestamp": 1789840454
         }
       ]
     },
@@ -1403,6 +1441,35 @@
           "memory": "47.1 MB",
           "memoryPercentile": "41.54%",
           "timestamp": 1789244758
+        }
+      ]
+    },
+    "2461": {
+      "frontendId": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "directory": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+      "submissions": [
+        {
+          "submissionId": "2146798264",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "35 ms",
+          "runtimePercentile": "76.45%",
+          "memory": "98.7 MB",
+          "memoryPercentile": "66.53%",
+          "timestamp": 1789833164
+        },
+        {
+          "submissionId": "2146798525",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "32 ms",
+          "runtimePercentile": "92.61%",
+          "memory": "98.5 MB",
+          "memoryPercentile": "77.58%",
+          "timestamp": 1789833183
         }
       ]
     },
@@ -5013,6 +5080,44 @@
           "timestamp": 1789728135
         }
       ]
+    },
+    "0567": {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "titleSlug": "permutation-in-string",
+      "difficulty": "Medium",
+      "directory": "0567-permutation-in-string",
+      "submissions": [
+        {
+          "submissionId": "2146950654",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "87.01%",
+          "memory": "44 MB",
+          "memoryPercentile": "73.98%",
+          "timestamp": 1789842430
+        }
+      ]
+    },
+    "0930": {
+      "frontendId": "930",
+      "title": "Binary Subarrays With Sum",
+      "titleSlug": "binary-subarrays-with-sum",
+      "difficulty": "Medium",
+      "directory": "0930-binary-subarrays-with-sum",
+      "submissions": [
+        {
+          "submissionId": "2146971822",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.98%",
+          "memory": "51 MB",
+          "memoryPercentile": "42.97%",
+          "timestamp": 1789843976
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5347,6 +5452,12 @@
     "2145651573",
     "2146586780",
     "2146593452",
-    "2146597940"
+    "2146597940",
+    "2146798264",
+    "2146798525",
+    "2146916139",
+    "2146925256",
+    "2146950654",
+    "2146971822"
   ]
 }
