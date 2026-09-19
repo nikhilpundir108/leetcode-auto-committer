@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-18T19:29:44.971Z",
-  "totalSolved": 186,
+  "lastSyncedAt": "2026-09-19T15:02:46.765Z",
+  "totalSolved": 188,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -228,6 +228,25 @@
           "memory": "43.2 MB",
           "memoryPercentile": "10.70%",
           "timestamp": 1789249074
+        }
+      ]
+    },
+    "1401": {
+      "frontendId": "1401",
+      "title": "Circle and Rectangle Overlapping",
+      "titleSlug": "circle-and-rectangle-overlapping",
+      "difficulty": "Medium",
+      "directory": "1401-circle-and-rectangle-overlapping",
+      "submissions": [
+        {
+          "submissionId": "2146586780",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42 MB",
+          "memoryPercentile": "77.31%",
+          "timestamp": 1789816624
         }
       ]
     },
@@ -1643,6 +1662,35 @@
           "memory": "45.4 MB",
           "memoryPercentile": "89.05%",
           "timestamp": 1788259479
+        }
+      ]
+    },
+    "3731": {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "titleSlug": "find-missing-elements",
+      "difficulty": "Easy",
+      "directory": "3731-find-missing-elements",
+      "submissions": [
+        {
+          "submissionId": "2146593452",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "83.79%",
+          "memory": "47.1 MB",
+          "memoryPercentile": "29.02%",
+          "timestamp": 1789817217
+        },
+        {
+          "submissionId": "2146597940",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.43%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "55.21%",
+          "timestamp": 1789817612
         }
       ]
     },
@@ -5296,6 +5344,9 @@
     "2145545841",
     "2145566477",
     "2145599603",
-    "2145651573"
+    "2145651573",
+    "2146586780",
+    "2146593452",
+    "2146597940"
   ]
 }

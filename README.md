@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **186** | **130** | **53** | **3** | **2026-09-19 24:59:44 IST** |
+| **188** | **131** | **54** | **3** | **2026-09-19 20:32:46 IST** |
 
 ---
 
@@ -147,6 +147,7 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 45.7 MB | 2026-09-15 |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Java](./1380-lucky-numbers-in-a-matrix/solution.java) | `🟢 Easy` | 3 ms | 47 MB | 2026-09-09 |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Java](./1399-count-largest-group/solution.java) | `🟢 Easy` | 8 ms | 43.2 MB | 2026-09-13 |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Java](./1401-circle-and-rectangle-overlapping/solution.java) | `🟡 Medium` | 0 ms | 42 MB | 2026-09-19 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./1431-kids-with-the-greatest-number-of-candies/solution.java) | `🟢 Easy` | 1 ms | 44 MB | 2026-09-11 |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](./1436-destination-city/solution.java) | `🟢 Easy` | 2 ms | 44.9 MB | 2026-09-11 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-09-01 |
@@ -202,6 +203,7 @@
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Java](./3483-unique-3-digit-even-numbers/solution.java) | `🟢 Easy` | 5 ms | 46.5 MB | 2026-09-13 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Java](./3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | `🟢 Easy` | 1 ms | 45.4 MB | 2026-09-01 |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Java](./3731-find-missing-elements/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-19 |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Java](./3783-mirror-distance-of-an-integer/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [Java](./3870-count-commas-in-range/solution.java) | `🟢 Easy` | 1 ms | 42.7 MB | 2026-09-08 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | [Java](./3871-count-commas-in-range-ii/solution.java) | `🟡 Medium` | 1 ms | 42 MB | 2026-09-09 |
