@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-19T19:46:41.627Z",
-  "totalSolved": 193,
+  "lastSyncedAt": "2026-09-20T02:25:13.509Z",
+  "totalSolved": 196,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -152,6 +152,25 @@
           "memory": "44.8 MB",
           "memoryPercentile": "22.03%",
           "timestamp": 1788257093
+        }
+      ]
+    },
+    "1342": {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "directory": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "submissions": [
+        {
+          "submissionId": "2147049026",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "18.38%",
+          "timestamp": 1789852712
         }
       ]
     },
@@ -4109,6 +4128,16 @@
           "memory": "46.1 MB",
           "memoryPercentile": "33.01%",
           "timestamp": 1788778528
+        },
+        {
+          "submissionId": "2147049577",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "22.60%",
+          "memory": "46 MB",
+          "memoryPercentile": "33.33%",
+          "timestamp": 1789852807
         }
       ]
     },
@@ -5118,6 +5147,54 @@
           "timestamp": 1789843976
         }
       ]
+    },
+    "0412": {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "titleSlug": "fizz-buzz",
+      "difficulty": "Easy",
+      "directory": "0412-fizz-buzz",
+      "submissions": [
+        {
+          "submissionId": "2147047923",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.82%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "65.81%",
+          "timestamp": 1789852535
+        }
+      ]
+    },
+    "0007": {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer",
+      "difficulty": "Medium",
+      "directory": "0007-reverse-integer",
+      "submissions": [
+        {
+          "submissionId": "2147054682",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.97%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "90.40%",
+          "timestamp": 1789853711
+        },
+        {
+          "submissionId": "2147054835",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.97%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "26.87%",
+          "timestamp": 1789853740
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5458,6 +5535,11 @@
     "2146916139",
     "2146925256",
     "2146950654",
-    "2146971822"
+    "2146971822",
+    "2147047923",
+    "2147049026",
+    "2147049577",
+    "2147054682",
+    "2147054835"
   ]
 }

@@ -49,7 +49,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 7 ms (Beats 10.80%)
-- **Memory:** 46.1 MB (Beats 33.01%)
-- **Submission Date:** 2026-09-07 10:55:28
+- **Runtime:** 6 ms (Beats 22.60%)
+- **Memory:** 46 MB (Beats 33.33%)
+- **Submission Date:** 2026-09-20 02:50:07 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/palindrome-number/)

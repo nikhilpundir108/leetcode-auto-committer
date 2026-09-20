@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **193** | **131** | **59** | **3** | **2026-09-20 01:16:41 IST** |
+| **196** | **133** | **60** | **3** | **2026-09-20 07:55:13 IST** |
 
 ---
 
@@ -24,7 +24,8 @@
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./0009-palindrome-number/solution.java) | `🟢 Easy` | 7 ms | 46.1 MB | 2026-09-07 |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./0007-reverse-integer/solution.java) | `🟡 Medium` | 1 ms | 42.8 MB | 2026-09-20 |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./0009-palindrome-number/solution.java) | `🟢 Easy` | 6 ms | 46 MB | 2026-09-20 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./0011-container-with-most-water/solution.java) | `🟡 Medium` | 5 ms | 77.2 MB | 2026-08-19 |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./0014-longest-common-prefix/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-07-31 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](./0015-3sum/solution.java) | `🟡 Medium` | 30 ms | 59.2 MB | 2026-09-05 |
@@ -107,6 +108,7 @@
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./0389-find-the-difference/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-15 |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./0409-longest-palindrome/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-18 |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./0410-split-array-largest-sum/solution.java) | `🔴 Hard` | 0 ms | 42.7 MB | 2026-04-09 |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 8 ms | 46.8 MB | 2026-09-10 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
@@ -145,6 +147,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Java](./1283-find-the-smallest-divisor-given-a-threshold/solution.java) | `🟡 Medium` | 6 ms | 51.1 MB | 2026-04-09 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./1295-find-numbers-with-even-number-of-digits/solution.java) | `🟢 Easy` | 1 ms | 44.8 MB | 2026-09-01 |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./1342-number-of-steps-to-reduce-a-number-to-zero/solution.java) | `🟢 Easy` | 0 ms | 42.6 MB | 2026-09-20 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) | `🟡 Medium` | 3 ms | 71.7 MB | 2026-09-19 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./1351-count-negative-numbers-in-a-sorted-matrix/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-15 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 45.7 MB | 2026-09-15 |
