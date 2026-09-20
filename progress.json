@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-20T02:25:13.509Z",
-  "totalSolved": 196,
+  "lastSyncedAt": "2026-09-20T10:18:01.990Z",
+  "totalSolved": 199,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -5195,6 +5195,93 @@
           "timestamp": 1789853740
         }
       ]
+    },
+    "0507": {
+      "frontendId": "507",
+      "title": "Perfect Number",
+      "titleSlug": "perfect-number",
+      "difficulty": "Easy",
+      "directory": "0507-perfect-number",
+      "submissions": [
+        {
+          "submissionId": "2147344551",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "85.16%",
+          "memory": "42 MB",
+          "memoryPercentile": "79.56%",
+          "timestamp": 1789882191
+        },
+        {
+          "submissionId": "2147345509",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2103 ms",
+          "runtimePercentile": "29.46%",
+          "memory": "41.9 MB",
+          "memoryPercentile": "79.56%",
+          "timestamp": 1789882261
+        },
+        {
+          "submissionId": "2147346444",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2095 ms",
+          "runtimePercentile": "40.91%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "9.99%",
+          "timestamp": 1789882330
+        },
+        {
+          "submissionId": "2147346673",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "85.16%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "25.80%",
+          "timestamp": 1789882348
+        }
+      ]
+    },
+    "0263": {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "titleSlug": "ugly-number",
+      "difficulty": "Easy",
+      "directory": "0263-ugly-number",
+      "submissions": [
+        {
+          "submissionId": "2147357647",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.11%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "84.69%",
+          "timestamp": 1789883142
+        }
+      ]
+    },
+    "0171": {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "titleSlug": "excel-sheet-column-number",
+      "difficulty": "Easy",
+      "directory": "0171-excel-sheet-column-number",
+      "submissions": [
+        {
+          "submissionId": "2147377136",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "89.65%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "54.84%",
+          "timestamp": 1789884510
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5540,6 +5627,12 @@
     "2147049026",
     "2147049577",
     "2147054682",
-    "2147054835"
+    "2147054835",
+    "2147344551",
+    "2147345509",
+    "2147346444",
+    "2147346673",
+    "2147357647",
+    "2147377136"
   ]
 }

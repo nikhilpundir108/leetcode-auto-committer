@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **196** | **133** | **60** | **3** | **2026-09-20 07:55:13 IST** |
+| **199** | **136** | **60** | **3** | **2026-09-20 15:48:01 IST** |
 
 ---
 
@@ -79,6 +79,7 @@
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./0162-find-peak-element/solution.java) | `🟡 Medium` | 0 ms | 44.2 MB | 2026-04-02 |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./0167-two-sum-ii-input-array-is-sorted/solution.java) | `🟡 Medium` | 2 ms | 47.9 MB | 2026-07-21 |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./0169-majority-element/solution.java) | `🟢 Easy` | 15 ms | 52.4 MB | 2026-09-02 |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./0171-excel-sheet-column-number/solution.java) | `🟢 Easy` | 1 ms | 43.5 MB | 2026-09-20 |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./0189-rotate-array/solution.java) | `🟡 Medium` | 1 ms | 61.5 MB | 2026-08-03 |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./0202-happy-number/solution.java) | `🟢 Easy` | 1 ms | 42.5 MB | 2026-09-11 |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](./0205-isomorphic-strings/solution.java) | `🟢 Easy` | 17 ms | 44 MB | 2026-08-01 |
@@ -93,6 +94,7 @@
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](./0240-search-a-2d-matrix-ii/solution.java) | `🟡 Medium` | 3 ms | 48.2 MB | 2026-04-06 |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./0242-valid-anagram/solution.java) | `🟢 Easy` | 18 ms | 46.8 MB | 2026-09-10 |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./0258-add-digits/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-09-08 |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./0263-ugly-number/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-09-20 |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./0268-missing-number/solution.java) | `🟢 Easy` | 9 ms | 48.1 MB | 2026-08-06 |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./0283-move-zeroes/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-09-02 |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./0303-range-sum-query-immutable/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-18 |
@@ -113,6 +115,7 @@
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./0507-perfect-number/solution.java) | `🟢 Easy` | 2 ms | 42.3 MB | 2026-09-20 |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./0543-diameter-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./0560-subarray-sum-equals-k/solution.java) | `🟡 Medium` | 24 ms | 49.1 MB | 2026-09-18 |
