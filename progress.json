@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-20T10:18:01.990Z",
-  "totalSolved": 199,
+  "lastSyncedAt": "2026-09-20T19:58:51.156Z",
+  "totalSolved": 202,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1719,6 +1719,25 @@
           "memory": "46.5 MB",
           "memoryPercentile": "30.34%",
           "timestamp": 1789239436
+        }
+      ]
+    },
+    "3498": {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "titleSlug": "reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "directory": "3498-reverse-degree-of-a-string",
+      "submissions": [
+        {
+          "submissionId": "2147829522",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "67.14%",
+          "timestamp": 1789918638
         }
       ]
     },
@@ -5282,6 +5301,44 @@
           "timestamp": 1789884510
         }
       ]
+    },
+    "0415": {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "titleSlug": "add-strings",
+      "difficulty": "Easy",
+      "directory": "0415-add-strings",
+      "submissions": [
+        {
+          "submissionId": "2147876847",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "94.99%",
+          "memory": "44 MB",
+          "memoryPercentile": "43.15%",
+          "timestamp": 1789921736
+        }
+      ]
+    },
+    "0441": {
+      "frontendId": "441",
+      "title": "Arranging Coins",
+      "titleSlug": "arranging-coins",
+      "difficulty": "Easy",
+      "directory": "0441-arranging-coins",
+      "submissions": [
+        {
+          "submissionId": "2147897850",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "10.25%",
+          "timestamp": 1789922959
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5633,6 +5690,9 @@
     "2147346444",
     "2147346673",
     "2147357647",
-    "2147377136"
+    "2147377136",
+    "2147829522",
+    "2147876847",
+    "2147897850"
   ]
 }

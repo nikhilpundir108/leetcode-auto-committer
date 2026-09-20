@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **199** | **136** | **60** | **3** | **2026-09-20 15:48:01 IST** |
+| **202** | **139** | **60** | **3** | **2026-09-21 01:28:51 IST** |
 
 ---
 
@@ -112,6 +112,8 @@
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./0410-split-array-largest-sum/solution.java) | `🔴 Hard` | 0 ms | 42.7 MB | 2026-04-09 |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 8 ms | 46.8 MB | 2026-09-10 |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./0415-add-strings/solution.java) | `🟢 Easy` | 2 ms | 44 MB | 2026-09-20 |
+| 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
@@ -213,6 +215,7 @@
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Java](./3483-unique-3-digit-even-numbers/solution.java) | `🟢 Easy` | 5 ms | 46.5 MB | 2026-09-13 |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Java](./3498-reverse-degree-of-a-string/solution.java) | `🟢 Easy` | 1 ms | 43.9 MB | 2026-09-20 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Java](./3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | `🟢 Easy` | 1 ms | 45.4 MB | 2026-09-01 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Java](./3731-find-missing-elements/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-19 |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Java](./3783-mirror-distance-of-an-integer/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
