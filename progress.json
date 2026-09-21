@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-20T19:58:51.156Z",
-  "totalSolved": 202,
+  "lastSyncedAt": "2026-09-21T17:26:27.404Z",
+  "totalSolved": 205,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -5339,6 +5339,63 @@
           "timestamp": 1789922959
         }
       ]
+    },
+    "0124": {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "titleSlug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "directory": "0124-binary-tree-maximum-path-sum",
+      "submissions": [
+        {
+          "submissionId": "2148762970",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "6.72%",
+          "timestamp": 1790002794
+        }
+      ]
+    },
+    "0100": {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "titleSlug": "same-tree",
+      "difficulty": "Easy",
+      "directory": "0100-same-tree",
+      "submissions": [
+        {
+          "submissionId": "2148773379",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.8 MB",
+          "memoryPercentile": "70.75%",
+          "timestamp": 1790003464
+        }
+      ]
+    },
+    "0101": {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "titleSlug": "symmetric-tree",
+      "difficulty": "Easy",
+      "directory": "0101-symmetric-tree",
+      "submissions": [
+        {
+          "submissionId": "2148786665",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.7 MB",
+          "memoryPercentile": "33.69%",
+          "timestamp": 1790004295
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5693,6 +5750,9 @@
     "2147377136",
     "2147829522",
     "2147876847",
-    "2147897850"
+    "2147897850",
+    "2148762970",
+    "2148773379",
+    "2148786665"
   ]
 }

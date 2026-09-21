@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **202** | **139** | **60** | **3** | **2026-09-21 01:28:51 IST** |
+| **205** | **141** | **60** | **4** | **2026-09-21 22:56:27 IST** |
 
 ---
 
@@ -57,12 +57,15 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-02 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./0100-same-tree/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-21 |
+| 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./0101-symmetric-tree/solution.java) | `🟢 Easy` | 0 ms | 43.7 MB | 2026-09-21 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./0102-binary-tree-level-order-traversal/solution.java) | `🟡 Medium` | 1 ms | 47 MB | 2026-09-17 |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./0104-maximum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./0110-balanced-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 45.6 MB | 2026-09-18 |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./0118-pascals-triangle/solution.java) | `🟢 Easy` | 1 ms | 43.6 MB | 2026-09-11 |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./0119-pascals-triangle-ii/solution.java) | `🟢 Easy` | 2 ms | 42.9 MB | 2026-09-11 |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./0121-best-time-to-buy-and-sell-stock/solution.java) | `🟢 Easy` | 1 ms | 94.4 MB | 2026-09-08 |
+| 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](./0124-binary-tree-maximum-path-sum/solution.java) | `🔴 Hard` | 0 ms | 46.9 MB | 2026-09-21 |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./0125-valid-palindrome/solution.java) | `🟢 Easy` | 3 ms | 44.4 MB | 2026-09-18 |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](./0128-longest-consecutive-sequence/solution.java) | `🟡 Medium` | 29 ms | 95.7 MB | 2026-08-05 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./0136-single-number/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-10 |
