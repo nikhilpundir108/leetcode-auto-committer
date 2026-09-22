@@ -42,6 +42,6 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43.1 MB (Beats 43.68%)
-- **Submission Date:** 2026-08-05 19:47:08
+- **Memory:** 43.1 MB (Beats 43.92%)
+- **Submission Date:** 2026-09-22 12:14:37 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/spiral-matrix/)

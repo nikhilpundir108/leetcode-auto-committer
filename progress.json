@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-21T17:26:27.404Z",
-  "totalSolved": 205,
+  "lastSyncedAt": "2026-09-22T10:35:29.327Z",
+  "totalSolved": 207,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1700,6 +1700,25 @@
           "memory": "45.5 MB",
           "memoryPercentile": "37.46%",
           "timestamp": 1788416801
+        }
+      ]
+    },
+    "3417": {
+      "frontendId": "3417",
+      "title": "Zigzag Grid Traversal With Skip",
+      "titleSlug": "zigzag-grid-traversal-with-skip",
+      "difficulty": "Easy",
+      "directory": "3417-zigzag-grid-traversal-with-skip",
+      "submissions": [
+        {
+          "submissionId": "2149609907",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "5.10%",
+          "timestamp": 1790073229
         }
       ]
     },
@@ -3731,6 +3750,16 @@
           "memory": "43.1 MB",
           "memoryPercentile": "43.68%",
           "timestamp": 1785959228
+        },
+        {
+          "submissionId": "2149423648",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "43.92%",
+          "timestamp": 1790059477
         }
       ]
     },
@@ -5396,6 +5425,35 @@
           "timestamp": 1790004295
         }
       ]
+    },
+    "0374": {
+      "frontendId": "374",
+      "title": "Guess Number Higher or Lower",
+      "titleSlug": "guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "directory": "0374-guess-number-higher-or-lower",
+      "submissions": [
+        {
+          "submissionId": "2149529182",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "17.17%",
+          "timestamp": 1790067769
+        },
+        {
+          "submissionId": "2149530177",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "17.17%",
+          "timestamp": 1790067837
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5753,6 +5811,10 @@
     "2147897850",
     "2148762970",
     "2148773379",
-    "2148786665"
+    "2148786665",
+    "2149423648",
+    "2149529182",
+    "2149530177",
+    "2149609907"
   ]
 }

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **205** | **141** | **60** | **4** | **2026-09-21 22:56:27 IST** |
+| **207** | **143** | **60** | **4** | **2026-09-22 16:05:29 IST** |
 
 ---
 
@@ -43,7 +43,7 @@
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./0049-group-anagrams/solution.java) | `🟡 Medium` | 9 ms | 49.6 MB | 2026-09-18 |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./0050-powx-n/solution.java) | `🟡 Medium` | 0 ms | 47.7 MB | 2026-03-13 |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./0053-maximum-subarray/solution.java) | `🟡 Medium` | 1 ms | 77.4 MB | 2026-08-04 |
-| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./0054-spiral-matrix/solution.java) | `🟡 Medium` | 0 ms | 43.1 MB | 2026-08-06 |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./0054-spiral-matrix/solution.java) | `🟡 Medium` | 0 ms | 43.1 MB | 2026-09-22 |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./0058-length-of-last-word/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-18 |
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./0059-spiral-matrix-ii/solution.java) | `🟡 Medium` | 0 ms | 42.8 MB | 2026-08-17 |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./0061-rotate-list/solution.java) | `🟡 Medium` | 0 ms | 44.3 MB | 2026-08-02 |
@@ -108,6 +108,7 @@
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./0345-reverse-vowels-of-a-string/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-16 |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./0349-intersection-of-two-arrays/solution.java) | `🟢 Easy` | 2 ms | 45 MB | 2026-08-01 |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./0350-intersection-of-two-arrays-ii/solution.java) | `🟢 Easy` | 3 ms | 45.1 MB | 2026-09-09 |
+| 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./0374-guess-number-higher-or-lower/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-22 |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./0383-ransom-note/solution.java) | `🟢 Easy` | 16 ms | 47.3 MB | 2026-09-11 |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./0387-first-unique-character-in-a-string/solution.java) | `🟢 Easy` | 6 ms | 46.8 MB | 2026-09-18 |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./0389-find-the-difference/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-15 |
@@ -217,6 +218,7 @@
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
+| 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Java](./3417-zigzag-grid-traversal-with-skip/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-22 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Java](./3483-unique-3-digit-even-numbers/solution.java) | `🟢 Easy` | 5 ms | 46.5 MB | 2026-09-13 |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Java](./3498-reverse-degree-of-a-string/solution.java) | `🟢 Easy` | 1 ms | 43.9 MB | 2026-09-20 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Java](./3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | `🟢 Easy` | 1 ms | 45.4 MB | 2026-09-01 |
