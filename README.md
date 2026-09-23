@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **209** | **145** | **60** | **4** | **2026-09-23 02:09:41 IST** |
+| **209** | **145** | **60** | **4** | **2026-09-23 15:58:47 IST** |
 
 ---
 
@@ -55,7 +55,7 @@
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](./0080-remove-duplicates-from-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 48.8 MB | 2026-09-03 |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./0081-search-in-rotated-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-04-01 |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
-| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-02 |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.6 MB | 2026-09-23 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./0100-same-tree/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-21 |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./0101-symmetric-tree/solution.java) | `🟢 Easy` | 0 ms | 43.7 MB | 2026-09-21 |
@@ -76,10 +76,10 @@
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./0145-binary-tree-postorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](./0148-sort-list/solution.java) | `🟡 Medium` | 11 ms | 59.5 MB | 2026-07-24 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
-| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./0152-maximum-product-subarray/solution.java) | `🟡 Medium` | 298 ms | 47.1 MB | 2026-09-15 |
+| 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./0152-maximum-product-subarray/solution.java) | `🟡 Medium` | 2 ms | 47.1 MB | 2026-09-23 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./0153-find-minimum-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-08-06 |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./0160-intersection-of-two-linked-lists/solution.java) | `🟢 Easy` | 2 ms | 53 MB | 2026-07-24 |
-| 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./0162-find-peak-element/solution.java) | `🟡 Medium` | 0 ms | 44.2 MB | 2026-04-02 |
+| 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./0162-find-peak-element/solution.java) | `🟡 Medium` | 0 ms | 44.3 MB | 2026-09-23 |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./0167-two-sum-ii-input-array-is-sorted/solution.java) | `🟡 Medium` | 2 ms | 47.9 MB | 2026-07-21 |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./0169-majority-element/solution.java) | `🟢 Easy` | 15 ms | 52.4 MB | 2026-09-02 |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./0171-excel-sheet-column-number/solution.java) | `🟢 Easy` | 1 ms | 43.5 MB | 2026-09-20 |

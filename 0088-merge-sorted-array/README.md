@@ -66,6 +66,6 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43.9 MB (Beats 30.38%)
-- **Submission Date:** 2026-09-02 10:07:45
+- **Memory:** 43.6 MB (Beats 78.24%)
+- **Submission Date:** 2026-09-23 10:51:18 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/merge-sorted-array/)

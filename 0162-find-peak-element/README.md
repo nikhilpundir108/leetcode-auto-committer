@@ -48,6 +48,6 @@ Explanation: Your function can return either index number 1 where the peak eleme
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 44.2 MB (Beats 57.19%)
-- **Submission Date:** 2026-04-02 18:18:13
+- **Memory:** 44.3 MB (Beats 38.57%)
+- **Submission Date:** 2026-09-23 15:29:17 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/find-peak-element/)

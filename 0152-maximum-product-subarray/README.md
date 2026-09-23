@@ -45,7 +45,7 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 298 ms (Beats 5.07%)
-- **Memory:** 47.1 MB (Beats 72.84%)
-- **Submission Date:** 2026-09-15 16:03:05 IST
+- **Runtime:** 2 ms (Beats 71.64%)
+- **Memory:** 47.1 MB (Beats 87.40%)
+- **Submission Date:** 2026-09-23 12:13:09 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/maximum-product-subarray/)
