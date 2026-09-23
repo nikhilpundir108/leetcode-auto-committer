@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **209** | **145** | **60** | **4** | **2026-09-23 15:58:47 IST** |
+| **211** | **145** | **62** | **4** | **2026-09-24 02:21:42 IST** |
 
 ---
 
@@ -60,6 +60,7 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./0100-same-tree/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-21 |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./0101-symmetric-tree/solution.java) | `🟢 Easy` | 0 ms | 43.7 MB | 2026-09-21 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./0102-binary-tree-level-order-traversal/solution.java) | `🟡 Medium` | 1 ms | 47 MB | 2026-09-17 |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./0103-binary-tree-zigzag-level-order-traversal/solution.java) | `🟡 Medium` | 0 ms | 43.5 MB | 2026-09-23 |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./0104-maximum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./0110-balanced-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 45.6 MB | 2026-09-18 |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./0118-pascals-triangle/solution.java) | `🟢 Easy` | 1 ms | 43.6 MB | 2026-09-11 |
@@ -84,6 +85,7 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./0169-majority-element/solution.java) | `🟢 Easy` | 15 ms | 52.4 MB | 2026-09-02 |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./0171-excel-sheet-column-number/solution.java) | `🟢 Easy` | 1 ms | 43.5 MB | 2026-09-20 |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./0189-rotate-array/solution.java) | `🟡 Medium` | 1 ms | 61.5 MB | 2026-08-03 |
+| 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java](./0199-binary-tree-right-side-view/solution.java) | `🟡 Medium` | 0 ms | 43.4 MB | 2026-09-23 |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Java](./0202-happy-number/solution.java) | `🟢 Easy` | 1 ms | 42.5 MB | 2026-09-11 |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](./0205-isomorphic-strings/solution.java) | `🟢 Easy` | 17 ms | 44 MB | 2026-08-01 |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./0206-reverse-linked-list/solution.java) | `🟢 Easy` | 0 ms | 44.2 MB | 2026-07-28 |

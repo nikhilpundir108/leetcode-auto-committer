@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-23T10:28:47.466Z",
-  "totalSolved": 209,
+  "lastSyncedAt": "2026-09-23T20:51:42.650Z",
+  "totalSolved": 211,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -5522,6 +5522,44 @@
           "timestamp": 1790067837
         }
       ]
+    },
+    "0103": {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "titleSlug": "binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "directory": "0103-binary-tree-zigzag-level-order-traversal",
+      "submissions": [
+        {
+          "submissionId": "2151183092",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "79.40%",
+          "timestamp": 1790184170
+        }
+      ]
+    },
+    "0199": {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "titleSlug": "binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "directory": "0199-binary-tree-right-side-view",
+      "submissions": [
+        {
+          "submissionId": "2151212159",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "92.04%",
+          "timestamp": 1790185537
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5888,6 +5926,8 @@
     "2150168039",
     "2150477805",
     "2150567928",
-    "2150742178"
+    "2150742178",
+    "2151183092",
+    "2151212159"
   ]
 }
