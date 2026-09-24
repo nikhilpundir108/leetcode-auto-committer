@@ -2,9 +2,9 @@
  * Problem: Smallest Index With Digit Sum Equal to Index (LeetCode #3550)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 1 ms (Beats 99.71%)
- * Memory: 45.4 MB (Beats 89.05%)
- * Solved At: 2026-09-01 10:44:39
+ * Runtime: 1 ms (Beats 99.69%)
+ * Memory: 45.8 MB (Beats 24.74%)
+ * Solved At: 2026-09-25 24:13:37 IST
  * Link: https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
  */
 

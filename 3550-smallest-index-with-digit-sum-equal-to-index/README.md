@@ -61,7 +61,7 @@ If no such index exists, return `-1`.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 99.71%)
-- **Memory:** 45.4 MB (Beats 89.05%)
-- **Submission Date:** 2026-09-01 10:44:39
+- **Runtime:** 1 ms (Beats 99.69%)
+- **Memory:** 45.8 MB (Beats 24.74%)
+- **Submission Date:** 2026-09-25 24:13:37 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)

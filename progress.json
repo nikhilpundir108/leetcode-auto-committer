@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-23T20:51:42.650Z",
-  "totalSolved": 211,
+  "lastSyncedAt": "2026-09-24T20:56:31.864Z",
+  "totalSolved": 218,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1824,6 +1824,16 @@
           "memory": "45.4 MB",
           "memoryPercentile": "89.05%",
           "timestamp": 1788259479
+        },
+        {
+          "submissionId": "2152355593",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.69%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "24.74%",
+          "timestamp": 1790275417
         }
       ]
     },
@@ -5560,6 +5570,149 @@
           "timestamp": 1790185537
         }
       ]
+    },
+    "0236": {
+      "frontendId": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "directory": "0236-lowest-common-ancestor-of-a-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2152246622",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "17 ms",
+          "runtimePercentile": "23.52%",
+          "memory": "70.1 MB",
+          "memoryPercentile": "8.70%",
+          "timestamp": 1790269694
+        }
+      ]
+    },
+    "0222": {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "titleSlug": "count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "directory": "0222-count-complete-tree-nodes",
+      "submissions": [
+        {
+          "submissionId": "2152271404",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "49.2 MB",
+          "memoryPercentile": "83.17%",
+          "timestamp": 1790270901
+        }
+      ]
+    },
+    "0226": {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "titleSlug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0226-invert-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2152313868",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "11.06%",
+          "timestamp": 1790273053
+        }
+      ]
+    },
+    "0112": {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "titleSlug": "path-sum",
+      "difficulty": "Easy",
+      "directory": "0112-path-sum",
+      "submissions": [
+        {
+          "submissionId": "2152336986",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "31.04%",
+          "timestamp": 1790274263
+        }
+      ]
+    },
+    "0111": {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "titleSlug": "minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0111-minimum-depth-of-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2152348226",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "71.84%",
+          "memory": "82.3 MB",
+          "memoryPercentile": "13.21%",
+          "timestamp": 1790274915
+        }
+      ]
+    },
+    "0107": {
+      "frontendId": "107",
+      "title": "Binary Tree Level Order Traversal II",
+      "titleSlug": "binary-tree-level-order-traversal-ii",
+      "difficulty": "Medium",
+      "directory": "0107-binary-tree-level-order-traversal-ii",
+      "submissions": [
+        {
+          "submissionId": "2152371130",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "3.68%",
+          "memory": "44.7 MB",
+          "memoryPercentile": "7.12%",
+          "timestamp": 1790276580
+        },
+        {
+          "submissionId": "2152372228",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "98.03%",
+          "memory": "43.9 MB",
+          "memoryPercentile": "98.39%",
+          "timestamp": 1790276668
+        }
+      ]
+    },
+    "0278": {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "titleSlug": "first-bad-version",
+      "difficulty": "Easy",
+      "directory": "0278-first-bad-version",
+      "submissions": [
+        {
+          "submissionId": "2152378697",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "13 ms",
+          "runtimePercentile": "99.81%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "54.51%",
+          "timestamp": 1790277201
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -5928,6 +6081,15 @@
     "2150567928",
     "2150742178",
     "2151183092",
-    "2151212159"
+    "2151212159",
+    "2152246622",
+    "2152271404",
+    "2152313868",
+    "2152336986",
+    "2152348226",
+    "2152355593",
+    "2152371130",
+    "2152372228",
+    "2152378697"
   ]
 }
