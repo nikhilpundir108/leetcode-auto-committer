@@ -55,6 +55,6 @@ Explanation: Since the tree is empty, there are no root-to-leaf paths.
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 45.1 MB (Beats 31.04%)
-- **Submission Date:** 2026-09-24 23:54:23 IST
+- **Memory:** 44.5 MB (Beats 95.61%)
+- **Submission Date:** 2026-09-25 11:08:28 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/path-sum/)

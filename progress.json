@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-24T20:56:31.864Z",
-  "totalSolved": 218,
+  "lastSyncedAt": "2026-09-25T10:49:53.718Z",
+  "totalSolved": 220,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -5644,6 +5644,16 @@
           "memory": "45.1 MB",
           "memoryPercentile": "31.04%",
           "timestamp": 1790274263
+        },
+        {
+          "submissionId": "2152659479",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.5 MB",
+          "memoryPercentile": "95.61%",
+          "timestamp": 1790314708
         }
       ]
     },
@@ -5711,6 +5721,44 @@
           "memory": "42.1 MB",
           "memoryPercentile": "54.51%",
           "timestamp": 1790277201
+        }
+      ]
+    },
+    "0292": {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "titleSlug": "nim-game",
+      "difficulty": "Easy",
+      "directory": "0292-nim-game",
+      "submissions": [
+        {
+          "submissionId": "2152648120",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.2 MB",
+          "memoryPercentile": "17.55%",
+          "timestamp": 1790313898
+        }
+      ]
+    },
+    "0509": {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "titleSlug": "fibonacci-number",
+      "difficulty": "Easy",
+      "directory": "0509-fibonacci-number",
+      "submissions": [
+        {
+          "submissionId": "2152896814",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "25.67%",
+          "memory": "41.7 MB",
+          "memoryPercentile": "96.50%",
+          "timestamp": 1790333132
         }
       ]
     }
@@ -6090,6 +6138,9 @@
     "2152355593",
     "2152371130",
     "2152372228",
-    "2152378697"
+    "2152378697",
+    "2152648120",
+    "2152659479",
+    "2152896814"
   ]
 }

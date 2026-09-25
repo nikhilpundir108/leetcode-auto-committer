@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **218** | **149** | **65** | **4** | **2026-09-25 02:26:31 IST** |
+| **220** | **151** | **65** | **4** | **2026-09-25 16:19:53 IST** |
 
 ---
 
@@ -65,7 +65,7 @@
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./0107-binary-tree-level-order-traversal-ii/solution.java) | `🟡 Medium` | 1 ms | 43.9 MB | 2026-09-25 |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./0110-balanced-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 45.6 MB | 2026-09-18 |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./0111-minimum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 4 ms | 82.3 MB | 2026-09-25 |
-| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./0112-path-sum/solution.java) | `🟢 Easy` | 0 ms | 45.1 MB | 2026-09-24 |
+| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./0112-path-sum/solution.java) | `🟢 Easy` | 0 ms | 44.5 MB | 2026-09-25 |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./0118-pascals-triangle/solution.java) | `🟢 Easy` | 1 ms | 43.6 MB | 2026-09-11 |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./0119-pascals-triangle-ii/solution.java) | `🟢 Easy` | 2 ms | 42.9 MB | 2026-09-11 |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./0121-best-time-to-buy-and-sell-stock/solution.java) | `🟢 Easy` | 1 ms | 94.4 MB | 2026-09-08 |
@@ -109,6 +109,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./0268-missing-number/solution.java) | `🟢 Easy` | 9 ms | 48.1 MB | 2026-08-06 |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./0278-first-bad-version/solution.java) | `🟢 Easy` | 13 ms | 42.1 MB | 2026-09-25 |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./0283-move-zeroes/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-09-02 |
+| 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./0292-nim-game/solution.java) | `🟢 Easy` | 0 ms | 42.2 MB | 2026-09-25 |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./0303-range-sum-query-immutable/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-18 |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./0326-power-of-three/solution.java) | `🟢 Easy` | 8 ms | 46.3 MB | 2026-09-08 |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./0328-odd-even-linked-list/solution.java) | `🟡 Medium` | 0 ms | 46.3 MB | 2026-07-29 |
@@ -131,6 +132,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./0507-perfect-number/solution.java) | `🟢 Easy` | 2 ms | 42.3 MB | 2026-09-20 |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./0509-fibonacci-number/solution.java) | `🟢 Easy` | 10 ms | 41.7 MB | 2026-09-25 |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./0543-diameter-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./0560-subarray-sum-equals-k/solution.java) | `🟡 Medium` | 24 ms | 49.1 MB | 2026-09-18 |

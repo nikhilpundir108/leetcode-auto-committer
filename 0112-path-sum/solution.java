@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 45.1 MB (Beats 31.04%)
- * Solved At: 2026-09-24 23:54:23 IST
+ * Memory: 44.5 MB (Beats 95.61%)
+ * Solved At: 2026-09-25 11:08:28 IST
  * Link: https://leetcode.com/problems/path-sum/
  */
 
@@ -24,19 +24,19 @@
  * }
  */
 class Solution {
-    public boolean findpath(TreeNode root, int target) {
+    public boolean path(TreeNode root, int target) {
         if (root == null) {
             return false;
         }
         if (root.left == null && root.right == null) {
-            return root.val == target;
+            return target == root.val;
         }
-        return findpath(root.left, target - root.val) ||
-                findpath(root.right, target - root.val);
+        return path(root.left, target - root.val) ||
+                path(root.right, target - root.val);
 
     }
 
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return findpath(root, targetSum);
+        return path(root, targetSum);
     }
 }
