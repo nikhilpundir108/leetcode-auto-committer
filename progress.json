@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-25T10:49:53.718Z",
-  "totalSolved": 220,
+  "lastSyncedAt": "2026-09-25T16:09:14.658Z",
+  "totalSolved": 221,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1285,6 +1285,25 @@
           "memory": "42.1 MB",
           "memoryPercentile": "73.24%",
           "timestamp": 1788777664
+        }
+      ]
+    },
+    "2236": {
+      "frontendId": "2236",
+      "title": "Root Equals Sum of Children",
+      "titleSlug": "root-equals-sum-of-children",
+      "difficulty": "Easy",
+      "directory": "2236-root-equals-sum-of-children",
+      "submissions": [
+        {
+          "submissionId": "2153111603",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43 MB",
+          "memoryPercentile": "68.25%",
+          "timestamp": 1790350427
         }
       ]
     },
@@ -6141,6 +6160,7 @@
     "2152378697",
     "2152648120",
     "2152659479",
-    "2152896814"
+    "2152896814",
+    "2153111603"
   ]
 }

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **220** | **151** | **65** | **4** | **2026-09-25 16:19:53 IST** |
+| **221** | **152** | **65** | **4** | **2026-09-25 21:39:14 IST** |
 
 ---
 
@@ -214,6 +214,7 @@
 | 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [Java](./2190-most-frequent-number-following-key-in-an-array/solution.java) | `🟢 Easy` | 3 ms | 46.3 MB | 2026-09-13 |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](./2215-find-the-difference-of-two-arrays/solution.java) | `🟢 Easy` | 9 ms | 47.1 MB | 2026-09-13 |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Java](./2235-add-two-integers/solution.java) | `🟢 Easy` | 0 ms | 42.1 MB | 2026-09-07 |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Java](./2236-root-equals-sum-of-children/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-25 |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Java](./2269-find-the-k-beauty-of-a-number/solution.java) | `🟢 Easy` | 1 ms | 42.2 MB | 2026-09-17 |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Java](./2351-first-letter-to-appear-twice/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-13 |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Java](./2367-number-of-arithmetic-triplets/solution.java) | `🟢 Easy` | 2 ms | 43.1 MB | 2026-09-13 |
