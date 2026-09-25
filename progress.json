@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-25T16:09:14.658Z",
-  "totalSolved": 221,
+  "lastSyncedAt": "2026-09-25T20:52:36.933Z",
+  "totalSolved": 222,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -5780,6 +5780,25 @@
           "timestamp": 1790333132
         }
       ]
+    },
+    "0114": {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "titleSlug": "flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "directory": "0114-flatten-binary-tree-to-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2153315941",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.1 MB",
+          "memoryPercentile": "33.29%",
+          "timestamp": 1790363617
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6161,6 +6180,7 @@
     "2152648120",
     "2152659479",
     "2152896814",
-    "2153111603"
+    "2153111603",
+    "2153315941"
   ]
 }
