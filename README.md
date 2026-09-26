@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **222** | **152** | **66** | **4** | **2026-09-26 02:22:36 IST** |
+| **223** | **152** | **67** | **4** | **2026-09-26 20:52:56 IST** |
 
 ---
 
@@ -192,6 +192,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Java](./1752-check-if-array-is-sorted-and-rotated/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-03-29 |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Java](./1763-longest-nice-substring/solution.java) | `🟢 Easy` | 26 ms | 46.5 MB | 2026-09-16 |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./1773-count-items-matching-a-rule/solution.java) | `🟢 Easy` | 4 ms | 49.9 MB | 2026-09-10 |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Java](./1807-evaluate-the-bracket-pairs-of-a-string/solution.java) | `🟡 Medium` | 34 ms | 94 MB | 2026-09-26 |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Java](./1812-determine-color-of-a-chessboard-square/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](./1822-sign-of-the-product-of-an-array/solution.java) | `🟢 Easy` | 0 ms | 44.9 MB | 2026-09-17 |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](./1832-check-if-the-sentence-is-pangram/solution.java) | `🟢 Easy` | 4 ms | 43 MB | 2026-09-08 |

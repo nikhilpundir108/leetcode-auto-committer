@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-25T20:52:36.933Z",
-  "totalSolved": 222,
+  "lastSyncedAt": "2026-09-26T15:22:56.605Z",
+  "totalSolved": 223,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -708,6 +708,45 @@
           "memory": "49.9 MB",
           "memoryPercentile": "13.02%",
           "timestamp": 1789015991
+        }
+      ]
+    },
+    "1807": {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "titleSlug": "evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "directory": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "submissions": [
+        {
+          "submissionId": "2154010111",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "35 ms",
+          "runtimePercentile": "72.40%",
+          "memory": "93.4 MB",
+          "memoryPercentile": "52.49%",
+          "timestamp": 1790434570
+        },
+        {
+          "submissionId": "2154010894",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "35 ms",
+          "runtimePercentile": "72.40%",
+          "memory": "93.4 MB",
+          "memoryPercentile": "52.49%",
+          "timestamp": 1790434592
+        },
+        {
+          "submissionId": "2154011128",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "34 ms",
+          "runtimePercentile": "79.64%",
+          "memory": "94 MB",
+          "memoryPercentile": "49.77%",
+          "timestamp": 1790434598
         }
       ]
     },
@@ -6181,6 +6220,9 @@
     "2152659479",
     "2152896814",
     "2153111603",
-    "2153315941"
+    "2153315941",
+    "2154010111",
+    "2154010894",
+    "2154011128"
   ]
 }
