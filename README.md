@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **223** | **152** | **67** | **4** | **2026-09-26 20:52:56 IST** |
+| **226** | **154** | **68** | **4** | **2026-09-27 16:32:39 IST** |
 
 ---
 
@@ -164,6 +164,7 @@
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](./1011-capacity-to-ship-packages-within-d-days/solution.java) | `🟡 Medium` | 14 ms | 49.9 MB | 2026-04-09 |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./1108-defanging-an-ip-address/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Java](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) | `🟡 Medium` | 3 ms | 42.7 MB | 2026-09-27 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Java](./1207-unique-number-of-occurrences/solution.java) | `🟢 Easy` | 2 ms | 43.6 MB | 2026-09-11 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Java](./1283-find-the-smallest-divisor-given-a-threshold/solution.java) | `🟡 Medium` | 6 ms | 51.1 MB | 2026-04-09 |
@@ -242,6 +243,8 @@
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Java](./3783-mirror-distance-of-an-integer/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [Java](./3870-count-commas-in-range/solution.java) | `🟢 Easy` | 1 ms | 42.7 MB | 2026-09-08 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | [Java](./3871-count-commas-in-range-ii/solution.java) | `🟡 Medium` | 1 ms | 42 MB | 2026-09-09 |
+| 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [Java](./4061-minimum-queen-moves-to-reach-target/solution.java) | `🟢 Easy` | 1 ms | 44.2 MB | 2026-09-27 |
+| 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [Java](./4065-rearrange-array-by-removing-distinct-values/solution.java) | `🟢 Easy` | 9 ms | 47.8 MB | 2026-09-27 |
 
 ---
 

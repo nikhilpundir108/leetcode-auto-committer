@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-26T15:22:56.605Z",
-  "totalSolved": 223,
+  "lastSyncedAt": "2026-09-27T11:02:39.261Z",
+  "totalSolved": 226,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -66,6 +66,45 @@
           "memory": "42.8 MB",
           "memoryPercentile": "43.97%",
           "timestamp": 1788777356
+        }
+      ]
+    },
+    "1190": {
+      "frontendId": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "directory": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2154688063",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "33.44%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "26.48%",
+          "timestamp": 1790490719
+        },
+        {
+          "submissionId": "2154698195",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "53.38%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "90.82%",
+          "timestamp": 1790491439
+        },
+        {
+          "submissionId": "2154698393",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "66.67%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "97.78%",
+          "timestamp": 1790491455
         }
       ]
     },
@@ -1988,6 +2027,54 @@
           "memory": "42 MB",
           "memoryPercentile": "99.12%",
           "timestamp": 1788929425
+        }
+      ]
+    },
+    "4061": {
+      "frontendId": "4061",
+      "title": "Minimum Queen Moves to Reach Target",
+      "titleSlug": "minimum-queen-moves-to-reach-target",
+      "difficulty": "Easy",
+      "directory": "4061-minimum-queen-moves-to-reach-target",
+      "submissions": [
+        {
+          "submissionId": "2154736478",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.2 MB",
+          "memoryPercentile": null,
+          "timestamp": 1790494414
+        }
+      ]
+    },
+    "4065": {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "titleSlug": "rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "directory": "4065-rearrange-array-by-removing-distinct-values",
+      "submissions": [
+        {
+          "submissionId": "2154724365",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "38.77%",
+          "memory": "48 MB",
+          "memoryPercentile": "5.90%",
+          "timestamp": 1790493424
+        },
+        {
+          "submissionId": "2154725291",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "38.77%",
+          "memory": "47.8 MB",
+          "memoryPercentile": "9.02%",
+          "timestamp": 1790493491
         }
       ]
     },
@@ -6223,6 +6310,12 @@
     "2153315941",
     "2154010111",
     "2154010894",
-    "2154011128"
+    "2154011128",
+    "2154688063",
+    "2154698195",
+    "2154698393",
+    "2154724365",
+    "2154725291",
+    "2154736478"
   ]
 }
