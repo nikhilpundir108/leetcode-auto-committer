@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **226** | **154** | **68** | **4** | **2026-09-27 16:32:39 IST** |
+| **227** | **155** | **68** | **4** | **2026-09-29 04:15:47 IST** |
 
 ---
 
@@ -186,6 +186,7 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./1512-number-of-good-pairs/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-07 |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](./1539-kth-missing-positive-number/solution.java) | `🟢 Easy` | 0 ms | 44.7 MB | 2026-04-09 |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Java](./1572-matrix-diagonal-sum/solution.java) | `🟢 Easy` | 0 ms | 46.3 MB | 2026-09-09 |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./1614-maximum-nesting-depth-of-the-parentheses/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-28 |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./1672-richest-customer-wealth/solution.java) | `🟢 Easy` | 0 ms | 44.3 MB | 2026-09-01 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](./1742-maximum-number-of-balls-in-a-box/solution.java) | `🟢 Easy` | 16 ms | 42.1 MB | 2026-09-09 |

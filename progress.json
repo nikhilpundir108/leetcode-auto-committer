@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-27T11:02:39.261Z",
-  "totalSolved": 226,
+  "lastSyncedAt": "2026-09-28T22:45:47.440Z",
+  "totalSolved": 227,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -594,6 +594,35 @@
           "memory": "46.3 MB",
           "memoryPercentile": "52.10%",
           "timestamp": 1788947679
+        }
+      ]
+    },
+    "1614": {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "directory": "1614-maximum-nesting-depth-of-the-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2156083389",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "21.26%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "15.79%",
+          "timestamp": 1790606655
+        },
+        {
+          "submissionId": "2156084362",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "51.61%",
+          "timestamp": 1790606705
         }
       ]
     },
@@ -6316,6 +6345,8 @@
     "2154698393",
     "2154724365",
     "2154725291",
-    "2154736478"
+    "2154736478",
+    "2156083389",
+    "2156084362"
   ]
 }
