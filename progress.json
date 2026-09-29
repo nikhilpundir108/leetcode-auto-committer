@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-28T22:45:47.440Z",
-  "totalSolved": 227,
+  "lastSyncedAt": "2026-09-29T11:49:04.943Z",
+  "totalSolved": 231,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -410,6 +410,25 @@
           "memory": "46.8 MB",
           "memoryPercentile": "7.40%",
           "timestamp": 1788258576
+        }
+      ]
+    },
+    "1477": {
+      "frontendId": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "titleSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "difficulty": "Medium",
+      "directory": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "submissions": [
+        {
+          "submissionId": "2156718827",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "99.99%",
+          "memory": "91.3 MB",
+          "memoryPercentile": "27.81%",
+          "timestamp": 1790660743
         }
       ]
     },
@@ -1440,6 +1459,25 @@
           "memory": "42.2 MB",
           "memoryPercentile": "74.57%",
           "timestamp": 1789638455
+        }
+      ]
+    },
+    "2331": {
+      "frontendId": "2331",
+      "title": "Evaluate Boolean Binary Tree",
+      "titleSlug": "evaluate-boolean-binary-tree",
+      "difficulty": "Easy",
+      "directory": "2331-evaluate-boolean-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2156947519",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "64.15%",
+          "timestamp": 1790676138
         }
       ]
     },
@@ -5954,6 +5992,54 @@
           "timestamp": 1790363617
         }
       ]
+    },
+    "0022": {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "difficulty": "Medium",
+      "directory": "0022-generate-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2156682663",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "69.12%",
+          "memory": "45 MB",
+          "memoryPercentile": "21.04%",
+          "timestamp": 1790658585
+        },
+        {
+          "submissionId": "2156704021",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "69.12%",
+          "memory": "44.8 MB",
+          "memoryPercentile": "32.45%",
+          "timestamp": 1790659863
+        }
+      ]
+    },
+    "0404": {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "titleSlug": "sum-of-left-leaves",
+      "difficulty": "Easy",
+      "directory": "0404-sum-of-left-leaves",
+      "submissions": [
+        {
+          "submissionId": "2156925423",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "48.76%",
+          "timestamp": 1790674716
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6347,6 +6433,11 @@
     "2154725291",
     "2154736478",
     "2156083389",
-    "2156084362"
+    "2156084362",
+    "2156682663",
+    "2156704021",
+    "2156718827",
+    "2156925423",
+    "2156947519"
   ]
 }

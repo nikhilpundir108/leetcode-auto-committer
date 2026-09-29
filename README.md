@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **227** | **155** | **68** | **4** | **2026-09-29 04:15:47 IST** |
+| **231** | **157** | **70** | **4** | **2026-09-29 17:19:04 IST** |
 
 ---
 
@@ -31,6 +31,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](./0015-3sum/solution.java) | `🟡 Medium` | 30 ms | 59.2 MB | 2026-09-05 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./0019-remove-nth-node-from-end-of-list/solution.java) | `🟡 Medium` | 0 ms | 43.3 MB | 2026-07-28 |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./0021-merge-two-sorted-lists/solution.java) | `🟢 Easy` | 0 ms | 44.4 MB | 2026-07-28 |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./0022-generate-parentheses/solution.java) | `🟡 Medium` | 2 ms | 44.8 MB | 2026-09-29 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-02 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-15 |
@@ -123,6 +124,7 @@
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./0383-ransom-note/solution.java) | `🟢 Easy` | 16 ms | 47.3 MB | 2026-09-11 |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./0387-first-unique-character-in-a-string/solution.java) | `🟢 Easy` | 6 ms | 46.8 MB | 2026-09-18 |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./0389-find-the-difference/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-15 |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./0404-sum-of-left-leaves/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-29 |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./0409-longest-palindrome/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-18 |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./0410-split-array-largest-sum/solution.java) | `🔴 Hard` | 0 ms | 42.7 MB | 2026-04-09 |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
@@ -180,6 +182,7 @@
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](./1436-destination-city/solution.java) | `🟢 Easy` | 2 ms | 44.9 MB | 2026-09-11 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Java](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java) | `🟡 Medium` | 12 ms | 46.7 MB | 2026-09-19 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-09-01 |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Java](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) | `🟡 Medium` | 5 ms | 91.3 MB | 2026-09-29 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./1480-running-sum-of-1d-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-01 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Java](./1482-minimum-number-of-days-to-make-m-bouquets/solution.java) | `🟡 Medium` | 16 ms | 82.6 MB | 2026-09-03 |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](./1502-can-make-arithmetic-progression-from-sequence/solution.java) | `🟢 Easy` | 5 ms | 44.1 MB | 2026-09-17 |
@@ -220,6 +223,7 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Java](./2235-add-two-integers/solution.java) | `🟢 Easy` | 0 ms | 42.1 MB | 2026-09-07 |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Java](./2236-root-equals-sum-of-children/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-25 |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Java](./2269-find-the-k-beauty-of-a-number/solution.java) | `🟢 Easy` | 1 ms | 42.2 MB | 2026-09-17 |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Java](./2331-evaluate-boolean-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 46.3 MB | 2026-09-29 |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Java](./2351-first-letter-to-appear-twice/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-13 |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Java](./2367-number-of-arithmetic-triplets/solution.java) | `🟢 Easy` | 2 ms | 43.1 MB | 2026-09-13 |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Java](./2413-smallest-even-multiple/solution.java) | `🟢 Easy` | 0 ms | 42.4 MB | 2026-09-09 |
