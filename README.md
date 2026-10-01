@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **231** | **157** | **70** | **4** | **2026-09-29 17:19:04 IST** |
+| **240** | **162** | **72** | **6** | **2026-10-01 21:40:49 IST** |
 
 ---
 
@@ -30,12 +30,14 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./0014-longest-common-prefix/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-07-31 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](./0015-3sum/solution.java) | `🟡 Medium` | 30 ms | 59.2 MB | 2026-09-05 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./0019-remove-nth-node-from-end-of-list/solution.java) | `🟡 Medium` | 0 ms | 43.3 MB | 2026-07-28 |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./0020-valid-parentheses/solution.java) | `🟢 Easy` | 3 ms | 43.2 MB | 2026-10-01 |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./0021-merge-two-sorted-lists/solution.java) | `🟢 Easy` | 0 ms | 44.4 MB | 2026-07-28 |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./0022-generate-parentheses/solution.java) | `🟡 Medium` | 2 ms | 44.8 MB | 2026-09-29 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-02 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-15 |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./0031-next-permutation/solution.java) | `🟡 Medium` | 0 ms | 44.9 MB | 2026-03-17 |
+| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](./0032-longest-valid-parentheses/solution.java) | `🔴 Hard` | 5 ms | 46.6 MB | 2026-09-30 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./0033-search-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.7 MB | 2026-03-25 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./0034-find-first-and-last-position-of-element-in-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 47.9 MB | 2026-04-01 |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./0035-search-insert-position/solution.java) | `🟢 Easy` | 0 ms | 45 MB | 2026-08-19 |
@@ -133,7 +135,9 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
+| 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./0500-keyboard-row/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-30 |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./0507-perfect-number/solution.java) | `🟢 Easy` | 2 ms | 42.3 MB | 2026-09-20 |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./0509-fibonacci-number/solution.java) | `🟢 Easy` | 10 ms | 41.7 MB | 2026-09-25 |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
@@ -143,6 +147,7 @@
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |
@@ -159,13 +164,16 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./0876-middle-of-the-linked-list/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-07-23 |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Java](./0881-boats-to-save-people/solution.java) | `🟡 Medium` | 20 ms | 56.7 MB | 2026-09-07 |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Java](./0896-monotonic-array/solution.java) | `🟢 Easy` | 3 ms | 85.1 MB | 2026-09-17 |
+| 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Java](./0901-online-stock-span/solution.java) | `🟡 Medium` | 41 ms | 57.2 MB | 2026-10-01 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Java](./0904-fruit-into-baskets/solution.java) | `🟡 Medium` | 54 ms | 68.7 MB | 2026-09-15 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./0905-sort-array-by-parity/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-11 |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Java](./0930-binary-subarrays-with-sum/solution.java) | `🟡 Medium` | 1 ms | 51 MB | 2026-09-20 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](./1011-capacity-to-ship-packages-within-d-days/solution.java) | `🟡 Medium` | 14 ms | 49.9 MB | 2026-04-09 |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./1047-remove-all-adjacent-duplicates-in-string/solution.java) | `🟢 Easy` | 35 ms | 47 MB | 2026-09-30 |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./1108-defanging-an-ip-address/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Java](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) | `🟡 Medium` | 1 ms | 45.5 MB | 2026-09-30 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Java](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) | `🟡 Medium` | 3 ms | 42.7 MB | 2026-09-27 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Java](./1207-unique-number-of-occurrences/solution.java) | `🟢 Easy` | 2 ms | 43.6 MB | 2026-09-11 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
@@ -222,6 +230,7 @@
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](./2215-find-the-difference-of-two-arrays/solution.java) | `🟢 Easy` | 9 ms | 47.1 MB | 2026-09-13 |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Java](./2235-add-two-integers/solution.java) | `🟢 Easy` | 0 ms | 42.1 MB | 2026-09-07 |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Java](./2236-root-equals-sum-of-children/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-25 |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Java](./2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) | `🔴 Hard` | 65 ms | 48.8 MB | 2026-09-29 |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Java](./2269-find-the-k-beauty-of-a-number/solution.java) | `🟢 Easy` | 1 ms | 42.2 MB | 2026-09-17 |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Java](./2331-evaluate-boolean-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 46.3 MB | 2026-09-29 |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Java](./2351-first-letter-to-appear-twice/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-13 |

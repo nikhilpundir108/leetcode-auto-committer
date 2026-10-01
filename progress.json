@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-09-29T11:49:04.943Z",
-  "totalSolved": 231,
+  "lastSyncedAt": "2026-10-01T16:10:49.028Z",
+  "totalSolved": 240,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -50,6 +50,25 @@
         }
       ]
     },
+    "1047": {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "titleSlug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "directory": "1047-remove-all-adjacent-duplicates-in-string",
+      "submissions": [
+        {
+          "submissionId": "2157959183",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "35 ms",
+          "runtimePercentile": "41.43%",
+          "memory": "47 MB",
+          "memoryPercentile": "72.15%",
+          "timestamp": 1790756867
+        }
+      ]
+    },
     "1108": {
       "frontendId": "1108",
       "title": "Defanging an IP Address",
@@ -66,6 +85,25 @@
           "memory": "42.8 MB",
           "memoryPercentile": "43.97%",
           "timestamp": 1788777356
+        }
+      ]
+    },
+    "1111": {
+      "frontendId": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "titleSlug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "directory": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "submissions": [
+        {
+          "submissionId": "2158447977",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.5 MB",
+          "memoryPercentile": "53.97%",
+          "timestamp": 1790790046
         }
       ]
     },
@@ -1430,6 +1468,25 @@
           "memory": "43 MB",
           "memoryPercentile": "68.25%",
           "timestamp": 1790350427
+        }
+      ]
+    },
+    "2267": {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "titleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "directory": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "submissions": [
+        {
+          "submissionId": "2157265522",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "65 ms",
+          "runtimePercentile": "30.25%",
+          "memory": "48.8 MB",
+          "memoryPercentile": "83.06%",
+          "timestamp": 1790696750
         }
       ]
     },
@@ -6040,6 +6097,160 @@
           "timestamp": 1790674716
         }
       ]
+    },
+    "0700": {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "titleSlug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "directory": "0700-search-in-a-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2157421091",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "94.25%",
+          "timestamp": 1790704021
+        }
+      ]
+    },
+    "0020": {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "Easy",
+      "directory": "0020-valid-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2157770972",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "36.81%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "25.53%",
+          "timestamp": 1790743403
+        },
+        {
+          "submissionId": "2157772579",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "85.88%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "84.92%",
+          "timestamp": 1790743510
+        },
+        {
+          "submissionId": "2158902869",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "85.88%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "72.17%",
+          "timestamp": 1790835929
+        }
+      ]
+    },
+    "0032": {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "titleSlug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "directory": "0032-longest-valid-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2157791672",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "74.93%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "40.83%",
+          "timestamp": 1790744747
+        }
+      ]
+    },
+    "0496": {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "titleSlug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "directory": "0496-next-greater-element-i",
+      "submissions": [
+        {
+          "submissionId": "2158047608",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "73.17%",
+          "memory": "45.3 MB",
+          "memoryPercentile": "48.88%",
+          "timestamp": 1790763306
+        }
+      ]
+    },
+    "0500": {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "titleSlug": "keyboard-row",
+      "difficulty": "Easy",
+      "directory": "0500-keyboard-row",
+      "submissions": [
+        {
+          "submissionId": "2158485230",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "34.41%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "51.59%",
+          "timestamp": 1790791952
+        }
+      ]
+    },
+    "0901": {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "titleSlug": "online-stock-span",
+      "difficulty": "Medium",
+      "directory": "0901-online-stock-span",
+      "submissions": [
+        {
+          "submissionId": "2158866583",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "38 ms",
+          "runtimePercentile": "10.21%",
+          "memory": "57.2 MB",
+          "memoryPercentile": "11.91%",
+          "timestamp": 1790833915
+        },
+        {
+          "submissionId": "2158878035",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "554 ms",
+          "runtimePercentile": "5.10%",
+          "memory": "53 MB",
+          "memoryPercentile": "93.89%",
+          "timestamp": 1790834559
+        },
+        {
+          "submissionId": "2158879746",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "41 ms",
+          "runtimePercentile": "7.91%",
+          "memory": "57.2 MB",
+          "memoryPercentile": "11.88%",
+          "timestamp": 1790834654
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6438,6 +6649,19 @@
     "2156704021",
     "2156718827",
     "2156925423",
-    "2156947519"
+    "2156947519",
+    "2157265522",
+    "2157421091",
+    "2157770972",
+    "2157772579",
+    "2157791672",
+    "2157959183",
+    "2158047608",
+    "2158447977",
+    "2158485230",
+    "2158866583",
+    "2158878035",
+    "2158879746",
+    "2158902869"
   ]
 }
