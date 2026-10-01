@@ -50,7 +50,7 @@ Output: false
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 96.65%)
-- **Memory:** 41.6 MB (Beats 99.86%)
-- **Submission Date:** 2026-09-08 09:43:18
+- **Runtime:** 1 ms (Beats 96.69%)
+- **Memory:** 42.4 MB (Beats 86.21%)
+- **Submission Date:** 2026-10-01 22:10:10 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/power-of-two/)
