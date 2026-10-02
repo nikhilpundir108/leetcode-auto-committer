@@ -2,9 +2,9 @@
  * Problem: Generate Parentheses (LeetCode #22)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 2 ms (Beats 69.12%)
- * Memory: 44.8 MB (Beats 32.45%)
- * Solved At: 2026-09-29 11:01:03 IST
+ * Runtime: 2 ms (Beats 68.84%)
+ * Memory: 45 MB (Beats 21.06%)
+ * Solved At: 2026-10-02 13:17:01 IST
  * Link: https://leetcode.com/problems/generate-parentheses/
  */
 
