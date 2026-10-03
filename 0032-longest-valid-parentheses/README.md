@@ -46,7 +46,7 @@ Output: 0
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 5 ms (Beats 74.93%)
-- **Memory:** 46.6 MB (Beats 40.83%)
-- **Submission Date:** 2026-09-30 10:35:47 IST
+- **Runtime:** 5 ms (Beats 75.27%)
+- **Memory:** 46.4 MB (Beats 56.24%)
+- **Submission Date:** 2026-10-03 14:06:19 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/longest-valid-parentheses/)

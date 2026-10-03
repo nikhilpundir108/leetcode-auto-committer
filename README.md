@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **240** | **162** | **72** | **6** | **2026-10-02 17:05:38 IST** |
+| **240** | **162** | **72** | **6** | **2026-10-03 16:19:18 IST** |
 
 ---
 
@@ -37,7 +37,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-15 |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./0031-next-permutation/solution.java) | `🟡 Medium` | 0 ms | 44.9 MB | 2026-03-17 |
-| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](./0032-longest-valid-parentheses/solution.java) | `🔴 Hard` | 5 ms | 46.6 MB | 2026-09-30 |
+| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](./0032-longest-valid-parentheses/solution.java) | `🔴 Hard` | 5 ms | 46.4 MB | 2026-10-03 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./0033-search-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.7 MB | 2026-03-25 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./0034-find-first-and-last-position-of-element-in-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 47.9 MB | 2026-04-01 |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./0035-search-insert-position/solution.java) | `🟢 Easy` | 0 ms | 45 MB | 2026-08-19 |
