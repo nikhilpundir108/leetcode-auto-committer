@@ -48,6 +48,6 @@ Output: [0,1]
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 47.1 MB (Beats 41.10%)
-- **Submission Date:** 2026-09-07 10:12:52
+- **Memory:** 47 MB (Beats 59.18%)
+- **Submission Date:** 2026-10-04 22:42:23 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/two-sum/)

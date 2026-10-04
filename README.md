@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **242** | **163** | **73** | **6** | **2026-10-04 17:01:28 IST** |
+| **243** | **164** | **73** | **6** | **2026-10-05 02:09:10 IST** |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | # | Title | Solution | Difficulty | Runtime | Memory | Solved Date |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-07 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-10-04 |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 1 ms | 46.3 MB | 2026-07-27 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
@@ -122,6 +122,7 @@
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./0345-reverse-vowels-of-a-string/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-16 |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./0349-intersection-of-two-arrays/solution.java) | `🟢 Easy` | 2 ms | 45 MB | 2026-08-01 |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./0350-intersection-of-two-arrays-ii/solution.java) | `🟢 Easy` | 3 ms | 45.1 MB | 2026-09-09 |
+| 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](./0367-valid-perfect-square/solution.java) | `🟢 Easy` | 0 ms | 41.8 MB | 2026-10-04 |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./0374-guess-number-higher-or-lower/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-22 |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./0383-ransom-note/solution.java) | `🟢 Easy` | 16 ms | 47.3 MB | 2026-09-11 |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./0387-first-unique-character-in-a-string/solution.java) | `🟢 Easy` | 6 ms | 46.8 MB | 2026-09-18 |

@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-04T11:31:28.662Z",
-  "totalSolved": 242,
+  "lastSyncedAt": "2026-10-04T20:39:10.061Z",
+  "totalSolved": 243,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2735,6 +2735,16 @@
           "memory": "47.1 MB",
           "memoryPercentile": "41.10%",
           "timestamp": 1788775972
+        },
+        {
+          "submissionId": "2162352125",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47 MB",
+          "memoryPercentile": "59.18%",
+          "timestamp": 1791133943
         }
       ]
     },
@@ -6329,6 +6339,25 @@
           "timestamp": 1791110946
         }
       ]
+    },
+    "0367": {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "titleSlug": "valid-perfect-square",
+      "difficulty": "Easy",
+      "directory": "0367-valid-perfect-square",
+      "submissions": [
+        {
+          "submissionId": "2162349472",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "41.8 MB",
+          "memoryPercentile": "87.32%",
+          "timestamp": 1791133798
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6746,6 +6775,8 @@
     "2160889334",
     "2162006299",
     "2162009001",
-    "2162009564"
+    "2162009564",
+    "2162349472",
+    "2162352125"
   ]
 }
