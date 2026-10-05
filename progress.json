@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-04T20:39:10.061Z",
-  "totalSolved": 243,
+  "lastSyncedAt": "2026-10-05T13:02:31.873Z",
+  "totalSolved": 244,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6358,6 +6358,25 @@
           "timestamp": 1791133798
         }
       ]
+    },
+    "0438": {
+      "frontendId": "438",
+      "title": "Find All Anagrams in a String",
+      "titleSlug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "directory": "0438-find-all-anagrams-in-a-string",
+      "submissions": [
+        {
+          "submissionId": "2162856317",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "59 ms",
+          "runtimePercentile": "24.00%",
+          "memory": "48 MB",
+          "memoryPercentile": "10.37%",
+          "timestamp": 1791183937
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6777,6 +6796,7 @@
     "2162009001",
     "2162009564",
     "2162349472",
-    "2162352125"
+    "2162352125",
+    "2162856317"
   ]
 }

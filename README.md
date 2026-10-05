@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **243** | **164** | **73** | **6** | **2026-10-05 02:09:10 IST** |
+| **244** | **164** | **74** | **6** | **2026-10-05 18:32:31 IST** |
 
 ---
 
@@ -133,6 +133,7 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 8 ms | 46.8 MB | 2026-09-10 |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./0415-add-strings/solution.java) | `🟢 Easy` | 2 ms | 44 MB | 2026-09-20 |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 59 ms | 48 MB | 2026-10-05 |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
