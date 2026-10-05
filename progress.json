@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-05T13:02:31.873Z",
-  "totalSolved": 244,
+  "lastSyncedAt": "2026-10-05T23:28:58.999Z",
+  "totalSolved": 245,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6377,6 +6377,25 @@
           "timestamp": 1791183937
         }
       ]
+    },
+    "0856": {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "titleSlug": "score-of-parentheses",
+      "difficulty": "Medium",
+      "directory": "0856-score-of-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2163492925",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "66.26%",
+          "timestamp": 1791224649
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6797,6 +6816,7 @@
     "2162009564",
     "2162349472",
     "2162352125",
-    "2162856317"
+    "2162856317",
+    "2163492925"
   ]
 }

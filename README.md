@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **244** | **164** | **74** | **6** | **2026-10-05 18:32:31 IST** |
+| **245** | **164** | **75** | **6** | **2026-10-06 04:58:58 IST** |
 
 ---
 
@@ -161,6 +161,7 @@
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Java](./0796-rotate-string/solution.java) | `🟢 Easy` | 2 ms | 43.3 MB | 2026-07-31 |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](./0832-flipping-an-image/solution.java) | `🟢 Easy` | 1 ms | 45.7 MB | 2026-09-09 |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java](./0852-peak-index-in-a-mountain-array/solution.java) | `🟡 Medium` | 0 ms | 80.2 MB | 2026-03-25 |
+| 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Java](./0856-score-of-parentheses/solution.java) | `🟡 Medium` | 0 ms | 42.6 MB | 2026-10-05 |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Java](./0860-lemonade-change/solution.java) | `🟢 Easy` | 2 ms | 72.5 MB | 2026-08-24 |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Java](./0867-transpose-matrix/solution.java) | `🟢 Easy` | 0 ms | 46.5 MB | 2026-09-09 |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Java](./0875-koko-eating-bananas/solution.java) | `🟡 Medium` | 6 ms | 47.9 MB | 2026-04-08 |
