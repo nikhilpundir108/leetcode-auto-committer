@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-05T23:28:58.999Z",
-  "totalSolved": 245,
+  "lastSyncedAt": "2026-10-06T12:26:07.569Z",
+  "totalSolved": 248,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -833,6 +833,25 @@
           "memory": "49.9 MB",
           "memoryPercentile": "13.02%",
           "timestamp": 1789015991
+        }
+      ]
+    },
+    "1781": {
+      "frontendId": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "titleSlug": "sum-of-beauty-of-all-substrings",
+      "difficulty": "Medium",
+      "directory": "1781-sum-of-beauty-of-all-substrings",
+      "submissions": [
+        {
+          "submissionId": "2164141535",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "70 ms",
+          "runtimePercentile": "39.59%",
+          "memory": "44.7 MB",
+          "memoryPercentile": "31.06%",
+          "timestamp": 1791283883
         }
       ]
     },
@@ -1950,6 +1969,35 @@
           "memory": "45.5 MB",
           "memoryPercentile": "99.92%",
           "timestamp": 1757862623
+        }
+      ]
+    },
+    "3081": {
+      "frontendId": "3081",
+      "title": "Replace Question Marks in String to Minimize Its Value",
+      "titleSlug": "replace-question-marks-in-string-to-minimize-its-value",
+      "difficulty": "Medium",
+      "directory": "3081-replace-question-marks-in-string-to-minimize-its-value",
+      "submissions": [
+        {
+          "submissionId": "2164055272",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "41 ms",
+          "runtimePercentile": "85.42%",
+          "memory": "48.4 MB",
+          "memoryPercentile": "59.37%",
+          "timestamp": 1791277943
+        },
+        {
+          "submissionId": "2164058081",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "40 ms",
+          "runtimePercentile": "85.42%",
+          "memory": "48.4 MB",
+          "memoryPercentile": "47.92%",
+          "timestamp": 1791278121
         }
       ]
     },
@@ -6396,6 +6444,55 @@
           "timestamp": 1791224649
         }
       ]
+    },
+    "0921": {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "titleSlug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "directory": "0921-minimum-add-to-make-parentheses-valid",
+      "submissions": [
+        {
+          "submissionId": "2164018033",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "70.13%",
+          "memory": "42.5 MB",
+          "memoryPercentile": "94.79%",
+          "timestamp": 1791275391
+        },
+        {
+          "submissionId": "2164018553",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "70.13%",
+          "memory": "42.7 MB",
+          "memoryPercentile": "88.17%",
+          "timestamp": 1791275429
+        },
+        {
+          "submissionId": "2164021167",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "39.71%",
+          "timestamp": 1791275631
+        },
+        {
+          "submissionId": "2164023114",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "42.17%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "39.71%",
+          "timestamp": 1791275775
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6817,6 +6914,13 @@
     "2162349472",
     "2162352125",
     "2162856317",
-    "2163492925"
+    "2163492925",
+    "2164018033",
+    "2164018553",
+    "2164021167",
+    "2164023114",
+    "2164055272",
+    "2164058081",
+    "2164141535"
   ]
 }

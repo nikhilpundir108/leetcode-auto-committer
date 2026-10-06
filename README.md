@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **245** | **164** | **75** | **6** | **2026-10-06 04:58:58 IST** |
+| **248** | **164** | **78** | **6** | **2026-10-06 17:56:07 IST** |
 
 ---
 
@@ -171,6 +171,7 @@
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Java](./0901-online-stock-span/solution.java) | `🟡 Medium` | 41 ms | 57.2 MB | 2026-10-01 |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Java](./0904-fruit-into-baskets/solution.java) | `🟡 Medium` | 54 ms | 68.7 MB | 2026-09-15 |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](./0905-sort-array-by-parity/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-11 |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](./0921-minimum-add-to-make-parentheses-valid/solution.java) | `🟡 Medium` | 2 ms | 42.9 MB | 2026-10-06 |
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Java](./0930-binary-subarrays-with-sum/solution.java) | `🟡 Medium` | 1 ms | 51 MB | 2026-09-20 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
@@ -209,6 +210,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Java](./1752-check-if-array-is-sorted-and-rotated/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-03-29 |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Java](./1763-longest-nice-substring/solution.java) | `🟢 Easy` | 26 ms | 46.5 MB | 2026-09-16 |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./1773-count-items-matching-a-rule/solution.java) | `🟢 Easy` | 4 ms | 49.9 MB | 2026-09-10 |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Java](./1781-sum-of-beauty-of-all-substrings/solution.java) | `🟡 Medium` | 70 ms | 44.7 MB | 2026-10-06 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Java](./1807-evaluate-the-bracket-pairs-of-a-string/solution.java) | `🟡 Medium` | 34 ms | 94 MB | 2026-09-26 |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Java](./1812-determine-color-of-a-chessboard-square/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](./1822-sign-of-the-product-of-an-array/solution.java) | `🟢 Easy` | 0 ms | 44.9 MB | 2026-09-17 |
@@ -252,6 +254,7 @@
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 43 ms | 54.7 MB | 2026-09-23 |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 40 ms | 53.3 MB | 2026-10-04 |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
+| 3081 | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Java](./3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | `🟡 Medium` | 40 ms | 48.4 MB | 2026-10-06 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
 | 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Java](./3417-zigzag-grid-traversal-with-skip/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-22 |
