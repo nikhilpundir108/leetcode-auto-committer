@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **248** | **164** | **78** | **6** | **2026-10-06 17:56:07 IST** |
+| **250** | **165** | **79** | **6** | **2026-10-07 03:31:19 IST** |
 
 ---
 
@@ -51,6 +51,7 @@
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./0059-spiral-matrix-ii/solution.java) | `🟡 Medium` | 0 ms | 42.8 MB | 2026-08-17 |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./0061-rotate-list/solution.java) | `🟡 Medium` | 0 ms | 44.3 MB | 2026-08-02 |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](./0066-plus-one/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-08-06 |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./0067-add-binary/solution.java) | `🟢 Easy` | 1 ms | 43.6 MB | 2026-10-06 |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./0069-sqrtx/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-13 |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./0073-set-matrix-zeroes/solution.java) | `🟡 Medium` | 1 ms | 47.7 MB | 2026-09-10 |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](./0074-search-a-2d-matrix/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-03-25 |
@@ -151,6 +152,7 @@
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Java](./0678-valid-parenthesis-string/solution.java) | `🟡 Medium` | 0 ms | 43 MB | 2026-10-04 |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
+| 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./0701-insert-into-a-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 47.2 MB | 2026-10-06 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |

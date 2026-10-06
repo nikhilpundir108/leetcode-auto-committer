@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-06T12:26:07.569Z",
-  "totalSolved": 248,
+  "lastSyncedAt": "2026-10-06T22:01:19.248Z",
+  "totalSolved": 250,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6493,6 +6493,54 @@
           "timestamp": 1791275775
         }
       ]
+    },
+    "0067": {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "titleSlug": "add-binary",
+      "difficulty": "Easy",
+      "directory": "0067-add-binary",
+      "submissions": [
+        {
+          "submissionId": "2164513131",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "44.72%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "69.43%",
+          "timestamp": 1791306733
+        },
+        {
+          "submissionId": "2164514008",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.97%",
+          "memory": "43.6 MB",
+          "memoryPercentile": "53.40%",
+          "timestamp": 1791306774
+        }
+      ]
+    },
+    "0701": {
+      "frontendId": "701",
+      "title": "Insert into a Binary Search Tree",
+      "titleSlug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "0701-insert-into-a-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2164584807",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.2 MB",
+          "memoryPercentile": "30.11%",
+          "timestamp": 1791310096
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -6921,6 +6969,9 @@
     "2164023114",
     "2164055272",
     "2164058081",
-    "2164141535"
+    "2164141535",
+    "2164513131",
+    "2164514008",
+    "2164584807"
   ]
 }
