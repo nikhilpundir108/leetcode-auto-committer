@@ -51,7 +51,7 @@ Explanation: There is no x where 3x = (-1).
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 8 ms (Beats 92.48%)
-- **Memory:** 46.3 MB (Beats 10.54%)
-- **Submission Date:** 2026-09-08 09:37:48
+- **Runtime:** 8 ms (Beats 92.10%)
+- **Memory:** 45.9 MB (Beats 82.67%)
+- **Submission Date:** 2026-10-07 15:25:25 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/power-of-three/)

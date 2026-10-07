@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **250** | **165** | **79** | **6** | **2026-10-07 03:31:19 IST** |
+| **252** | **165** | **80** | **7** | **2026-10-07 17:49:15 IST** |
 
 ---
 
@@ -77,6 +77,7 @@
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](./0124-binary-tree-maximum-path-sum/solution.java) | `🔴 Hard` | 0 ms | 46.9 MB | 2026-09-21 |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./0125-valid-palindrome/solution.java) | `🟢 Easy` | 3 ms | 44.4 MB | 2026-09-18 |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](./0128-longest-consecutive-sequence/solution.java) | `🟡 Medium` | 29 ms | 95.7 MB | 2026-08-05 |
+| 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](./0129-sum-root-to-leaf-numbers/solution.java) | `🟡 Medium` | 0 ms | 42.6 MB | 2026-10-07 |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./0136-single-number/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-10 |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./0141-linked-list-cycle/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-07-28 |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./0142-linked-list-cycle-ii/solution.java) | `🟡 Medium` | 0 ms | 46.9 MB | 2026-09-15 |
@@ -103,7 +104,7 @@
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](./0222-count-complete-tree-nodes/solution.java) | `🟡 Medium` | 0 ms | 49.2 MB | 2026-09-24 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./0226-invert-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-24 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./0229-majority-element-ii/solution.java) | `🟡 Medium` | 14 ms | 53 MB | 2026-09-15 |
-| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./0231-power-of-two/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-10-01 |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./0231-power-of-two/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-10-07 |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](./0234-palindrome-linked-list/solution.java) | `🟢 Easy` | 4 ms | 94.6 MB | 2026-09-15 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./0236-lowest-common-ancestor-of-a-binary-tree/solution.java) | `🟡 Medium` | 17 ms | 70.1 MB | 2026-09-24 |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./0237-delete-node-in-a-linked-list/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-09-15 |
@@ -115,8 +116,9 @@
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./0278-first-bad-version/solution.java) | `🟢 Easy` | 13 ms | 42.1 MB | 2026-09-25 |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./0283-move-zeroes/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-09-02 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./0292-nim-game/solution.java) | `🟢 Easy` | 0 ms | 42.2 MB | 2026-09-25 |
+| 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./0301-remove-invalid-parentheses/solution.java) | `🔴 Hard` | 688 ms | 53.3 MB | 2026-10-07 |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./0303-range-sum-query-immutable/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-18 |
-| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./0326-power-of-three/solution.java) | `🟢 Easy` | 8 ms | 46.3 MB | 2026-09-08 |
+| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./0326-power-of-three/solution.java) | `🟢 Easy` | 8 ms | 45.9 MB | 2026-10-07 |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./0328-odd-even-linked-list/solution.java) | `🟡 Medium` | 0 ms | 46.3 MB | 2026-07-29 |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./0342-power-of-four/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./0344-reverse-string/solution.java) | `🟢 Easy` | 0 ms | 48.2 MB | 2026-09-18 |
@@ -134,7 +136,7 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 8 ms | 46.8 MB | 2026-09-10 |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./0415-add-strings/solution.java) | `🟢 Easy` | 2 ms | 44 MB | 2026-09-20 |
-| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 59 ms | 48 MB | 2026-10-05 |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 63 ms | 48.1 MB | 2026-10-07 |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |

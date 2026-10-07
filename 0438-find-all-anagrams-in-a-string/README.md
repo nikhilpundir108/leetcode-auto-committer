@@ -44,7 +44,7 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 59 ms (Beats 24.00%)
-- **Memory:** 48 MB (Beats 10.37%)
-- **Submission Date:** 2026-10-05 12:35:37 IST
+- **Runtime:** 63 ms (Beats 21.04%)
+- **Memory:** 48.1 MB (Beats 8.43%)
+- **Submission Date:** 2026-10-07 15:43:57 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
