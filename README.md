@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **252** | **165** | **80** | **7** | **2026-10-07 17:49:15 IST** |
+| **253** | **166** | **80** | **7** | **2026-10-08 17:58:56 IST** |
 
 ---
 
@@ -180,6 +180,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](./1011-capacity-to-ship-packages-within-d-days/solution.java) | `🟡 Medium` | 14 ms | 49.9 MB | 2026-04-09 |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021-remove-outermost-parentheses/solution.java) | `🟢 Easy` | 3 ms | 43.2 MB | 2026-10-08 |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./1047-remove-all-adjacent-duplicates-in-string/solution.java) | `🟢 Easy` | 35 ms | 47 MB | 2026-09-30 |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./1108-defanging-an-ip-address/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Java](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) | `🟡 Medium` | 1 ms | 45.5 MB | 2026-09-30 |

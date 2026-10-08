@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-07T12:19:15.100Z",
-  "totalSolved": 252,
+  "lastSyncedAt": "2026-10-08T12:28:56.375Z",
+  "totalSolved": 253,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -47,6 +47,25 @@
           "memory": "49.9 MB",
           "memoryPercentile": "87.75%",
           "timestamp": 1775718283
+        }
+      ]
+    },
+    "1021": {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "titleSlug": "remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "directory": "1021-remove-outermost-parentheses",
+      "submissions": [
+        {
+          "submissionId": "2165975060",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "64.59%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "96.26%",
+          "timestamp": 1791437115
         }
       ]
     },
@@ -7089,6 +7108,7 @@
     "2165151916",
     "2165167242",
     "2165167330",
-    "2165186155"
+    "2165186155",
+    "2165975060"
   ]
 }
