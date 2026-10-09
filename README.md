@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **253** | **166** | **80** | **7** | **2026-10-08 17:58:56 IST** |
+| **254** | **166** | **81** | **7** | **2026-10-09 17:47:41 IST** |
 
 ---
 
@@ -206,6 +206,7 @@
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](./1502-can-make-arithmetic-progression-from-sequence/solution.java) | `🟢 Easy` | 5 ms | 44.1 MB | 2026-09-17 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./1512-number-of-good-pairs/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-07 |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](./1539-kth-missing-positive-number/solution.java) | `🟢 Easy` | 0 ms | 44.7 MB | 2026-04-09 |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Java](./1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) | `🟡 Medium` | 8 ms | 47.6 MB | 2026-10-09 |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Java](./1572-matrix-diagonal-sum/solution.java) | `🟢 Easy` | 0 ms | 46.3 MB | 2026-09-09 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./1614-maximum-nesting-depth-of-the-parentheses/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-28 |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |

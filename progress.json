@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-08T12:28:56.375Z",
-  "totalSolved": 253,
+  "lastSyncedAt": "2026-10-09T12:17:41.532Z",
+  "totalSolved": 254,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -641,6 +641,25 @@
           "memory": "44.7 MB",
           "memoryPercentile": "40.52%",
           "timestamp": 1775739874
+        }
+      ]
+    },
+    "1541": {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "directory": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "submissions": [
+        {
+          "submissionId": "2167048431",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "99.37%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "59.14%",
+          "timestamp": 1791529192
         }
       ]
     },
@@ -7109,6 +7128,7 @@
     "2165167242",
     "2165167330",
     "2165186155",
-    "2165975060"
+    "2165975060",
+    "2167048431"
   ]
 }
