@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-09T12:17:41.532Z",
-  "totalSolved": 254,
+  "lastSyncedAt": "2026-10-09T22:00:50.642Z",
+  "totalSolved": 258,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6687,6 +6687,82 @@
           "timestamp": 1791369428
         }
       ]
+    },
+    "0450": {
+      "frontendId": "450",
+      "title": "Delete Node in a BST",
+      "titleSlug": "delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "directory": "0450-delete-node-in-a-bst",
+      "submissions": [
+        {
+          "submissionId": "2167470227",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.4 MB",
+          "memoryPercentile": "76.02%",
+          "timestamp": 1791563531
+        }
+      ]
+    },
+    "0230": {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "titleSlug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "directory": "0230-kth-smallest-element-in-a-bst",
+      "submissions": [
+        {
+          "submissionId": "2167510631",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "51.68%",
+          "timestamp": 1791565955
+        }
+      ]
+    },
+    "0098": {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "titleSlug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "0098-validate-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2167537395",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.8 MB",
+          "memoryPercentile": "89.29%",
+          "timestamp": 1791567507
+        }
+      ]
+    },
+    "0235": {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2167568348",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "97.17%",
+          "memory": "47.8 MB",
+          "memoryPercentile": "17.35%",
+          "timestamp": 1791569309
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7129,6 +7205,10 @@
     "2165167330",
     "2165186155",
     "2165975060",
-    "2167048431"
+    "2167048431",
+    "2167470227",
+    "2167510631",
+    "2167537395",
+    "2167568348"
   ]
 }

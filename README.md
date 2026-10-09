@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **254** | **166** | **81** | **7** | **2026-10-09 17:47:41 IST** |
+| **258** | **166** | **85** | **7** | **2026-10-10 03:30:50 IST** |
 
 ---
 
@@ -61,6 +61,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.6 MB | 2026-09-23 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./0098-validate-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 44.8 MB | 2026-10-09 |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./0100-same-tree/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-21 |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./0101-symmetric-tree/solution.java) | `🟢 Easy` | 0 ms | 43.7 MB | 2026-09-21 |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./0102-binary-tree-level-order-traversal/solution.java) | `🟡 Medium` | 1 ms | 47 MB | 2026-09-17 |
@@ -104,8 +105,10 @@
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](./0222-count-complete-tree-nodes/solution.java) | `🟡 Medium` | 0 ms | 49.2 MB | 2026-09-24 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./0226-invert-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-24 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./0229-majority-element-ii/solution.java) | `🟡 Medium` | 14 ms | 53 MB | 2026-09-15 |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./0230-kth-smallest-element-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 46.8 MB | 2026-10-09 |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./0231-power-of-two/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-10-07 |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](./0234-palindrome-linked-list/solution.java) | `🟢 Easy` | 4 ms | 94.6 MB | 2026-09-15 |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) | `🟡 Medium` | 6 ms | 47.8 MB | 2026-10-09 |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./0236-lowest-common-ancestor-of-a-binary-tree/solution.java) | `🟡 Medium` | 17 ms | 70.1 MB | 2026-09-24 |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./0237-delete-node-in-a-linked-list/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-09-15 |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](./0240-search-a-2d-matrix-ii/solution.java) | `🟡 Medium` | 3 ms | 48.2 MB | 2026-04-06 |
@@ -139,6 +142,7 @@
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 63 ms | 48.1 MB | 2026-10-07 |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
+| 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./0450-delete-node-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 47.4 MB | 2026-10-09 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
