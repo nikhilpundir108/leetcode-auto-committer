@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 47 MB (Beats 59.18%)
- * Solved At: 2026-10-04 22:42:23 IST
+ * Memory: 47.2 MB (Beats 24.25%)
+ * Solved At: 2026-10-10 20:02:03 IST
  * Link: https://leetcode.com/problems/two-sum/
  */
 

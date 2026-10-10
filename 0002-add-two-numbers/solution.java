@@ -3,8 +3,8 @@
  * Difficulty: Medium
  * Language: Java
  * Runtime: 1 ms (Beats 100.00%)
- * Memory: 46.3 MB (Beats 89.60%)
- * Solved At: 2026-07-27 18:06:04
+ * Memory: 46.5 MB (Beats 57.45%)
+ * Solved At: 2026-10-10 20:04:02 IST
  * Link: https://leetcode.com/problems/add-two-numbers/
  */
 

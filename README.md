@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **259** | **167** | **85** | **7** | **2026-10-10 17:05:41 IST** |
+| **259** | **167** | **85** | **7** | **2026-10-10 22:06:18 IST** |
 
 ---
 
@@ -19,8 +19,8 @@
 
 | # | Title | Solution | Difficulty | Runtime | Memory | Solved Date |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-10-04 |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 1 ms | 46.3 MB | 2026-07-27 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47.2 MB | 2026-10-10 |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 1 ms | 46.5 MB | 2026-10-10 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |

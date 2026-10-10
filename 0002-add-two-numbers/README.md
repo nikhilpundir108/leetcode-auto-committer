@@ -50,6 +50,6 @@ Output: [8,9,9,9,0,0,0,1]
 
 - **Language:** Java
 - **Runtime:** 1 ms (Beats 100.00%)
-- **Memory:** 46.3 MB (Beats 89.60%)
-- **Submission Date:** 2026-07-27 18:06:04
+- **Memory:** 46.5 MB (Beats 57.45%)
+- **Submission Date:** 2026-10-10 20:04:02 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/add-two-numbers/)
