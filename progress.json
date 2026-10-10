@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-09T22:00:50.642Z",
-  "totalSolved": 258,
+  "lastSyncedAt": "2026-10-10T11:35:41.703Z",
+  "totalSolved": 259,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6763,6 +6763,25 @@
           "timestamp": 1791569309
         }
       ]
+    },
+    "0392": {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "titleSlug": "is-subsequence",
+      "difficulty": "Easy",
+      "directory": "0392-is-subsequence",
+      "submissions": [
+        {
+          "submissionId": "2168003507",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "95.81%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "46.05%",
+          "timestamp": 1791623782
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7209,6 +7228,7 @@
     "2167470227",
     "2167510631",
     "2167537395",
-    "2167568348"
+    "2167568348",
+    "2168003507"
   ]
 }

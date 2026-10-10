@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **258** | **166** | **85** | **7** | **2026-10-10 03:30:50 IST** |
+| **259** | **167** | **85** | **7** | **2026-10-10 17:05:41 IST** |
 
 ---
 
@@ -133,6 +133,7 @@
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./0383-ransom-note/solution.java) | `🟢 Easy` | 16 ms | 47.3 MB | 2026-09-11 |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./0387-first-unique-character-in-a-string/solution.java) | `🟢 Easy` | 6 ms | 46.8 MB | 2026-09-18 |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./0389-find-the-difference/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-15 |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./0392-is-subsequence/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-10-10 |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./0404-sum-of-left-leaves/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-29 |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./0409-longest-palindrome/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-18 |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./0410-split-array-largest-sum/solution.java) | `🔴 Hard` | 0 ms | 42.7 MB | 2026-04-09 |
