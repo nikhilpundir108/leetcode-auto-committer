@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **260** | **167** | **85** | **7** | **2026-10-11 08:26:48 IST** |
+| **261** | **168** | **85** | **7** | **2026-10-11 22:31:43 IST** |
 
 ---
 
@@ -264,6 +264,7 @@
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Java](./2639-find-the-width-of-columns-of-a-grid/solution.java) | `🟢 Easy` | 4 ms | 46.9 MB | 2026-09-09 |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 43 ms | 54.7 MB | 2026-09-23 |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 40 ms | 53.3 MB | 2026-10-04 |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Java](./2778-sum-of-squares-of-special-elements/solution.java) | `🟢 Easy` | 1 ms | 46.6 MB | 2026-10-11 |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Java](./3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | `🟡 Medium` | 40 ms | 48.4 MB | 2026-10-06 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |

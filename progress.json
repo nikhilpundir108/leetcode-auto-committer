@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-11T02:56:48.125Z",
-  "totalSolved": 260,
+  "lastSyncedAt": "2026-10-11T17:01:43.283Z",
+  "totalSolved": 261,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1988,6 +1988,25 @@
           "memory": "53.3 MB",
           "memoryPercentile": "65.08%",
           "timestamp": 1791111186
+        }
+      ]
+    },
+    "2778": {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "titleSlug": "sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "directory": "2778-sum-of-squares-of-special-elements",
+      "submissions": [
+        {
+          "submissionId": "2169278210",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "14.70%",
+          "timestamp": 1791723728
         }
       ]
     },
@@ -7271,6 +7290,7 @@
     "2168003507",
     "2168227484",
     "2168229910",
-    "2168769700"
+    "2168769700",
+    "2169278210"
   ]
 }
