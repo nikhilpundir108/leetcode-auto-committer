@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-11T17:01:43.283Z",
-  "totalSolved": 261,
+  "lastSyncedAt": "2026-10-12T10:36:13.302Z",
+  "totalSolved": 264,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -6840,6 +6840,73 @@
           "timestamp": 1791623782
         }
       ]
+    },
+    "0076": {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "titleSlug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "directory": "0076-minimum-window-substring",
+      "submissions": [
+        {
+          "submissionId": "2169866357",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "62.13%",
+          "memory": "45.4 MB",
+          "memoryPercentile": "88.27%",
+          "timestamp": 1791782841
+        },
+        {
+          "submissionId": "2169869840",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.71%",
+          "memory": "45.4 MB",
+          "memoryPercentile": "81.80%",
+          "timestamp": 1791783133
+        }
+      ]
+    },
+    "0707": {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "titleSlug": "design-linked-list",
+      "difficulty": "Medium",
+      "directory": "0707-design-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2170041063",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "46.69%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "75.73%",
+          "timestamp": 1791797075
+        }
+      ]
+    },
+    "0324": {
+      "frontendId": "324",
+      "title": "Wiggle Sort II",
+      "titleSlug": "wiggle-sort-ii",
+      "difficulty": "Medium",
+      "directory": "0324-wiggle-sort-ii",
+      "submissions": [
+        {
+          "submissionId": "2170087785",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "8 ms",
+          "runtimePercentile": "95.88%",
+          "memory": "48.9 MB",
+          "memoryPercentile": "58.03%",
+          "timestamp": 1791800665
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7291,6 +7358,10 @@
     "2168227484",
     "2168229910",
     "2168769700",
-    "2169278210"
+    "2169278210",
+    "2169866357",
+    "2169869840",
+    "2170041063",
+    "2170087785"
   ]
 }

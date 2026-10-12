@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **261** | **168** | **85** | **7** | **2026-10-11 22:31:43 IST** |
+| **264** | **168** | **87** | **8** | **2026-10-12 16:06:13 IST** |
 
 ---
 
@@ -56,6 +56,7 @@
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./0073-set-matrix-zeroes/solution.java) | `🟡 Medium` | 1 ms | 47.7 MB | 2026-09-10 |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Java](./0074-search-a-2d-matrix/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-03-25 |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](./0075-sort-colors/solution.java) | `🟡 Medium` | 0 ms | 43.6 MB | 2026-08-19 |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](./0076-minimum-window-substring/solution.java) | `🔴 Hard` | 2 ms | 45.4 MB | 2026-10-12 |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](./0080-remove-duplicates-from-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 48.8 MB | 2026-09-03 |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./0081-search-in-rotated-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-04-01 |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
@@ -121,6 +122,7 @@
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./0292-nim-game/solution.java) | `🟢 Easy` | 0 ms | 42.2 MB | 2026-09-25 |
 | 0301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Java](./0301-remove-invalid-parentheses/solution.java) | `🔴 Hard` | 688 ms | 53.3 MB | 2026-10-07 |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./0303-range-sum-query-immutable/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-18 |
+| 0324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Java](./0324-wiggle-sort-ii/solution.java) | `🟡 Medium` | 8 ms | 48.9 MB | 2026-10-12 |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./0326-power-of-three/solution.java) | `🟢 Easy` | 8 ms | 45.9 MB | 2026-10-07 |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./0328-odd-even-linked-list/solution.java) | `🟡 Medium` | 0 ms | 46.3 MB | 2026-07-29 |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./0342-power-of-four/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
@@ -161,6 +163,7 @@
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./0701-insert-into-a-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 47.2 MB | 2026-10-06 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
+| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./0707-design-linked-list/solution.java) | `🟡 Medium` | 10 ms | 46.8 MB | 2026-10-12 |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./0724-find-pivot-index/solution.java) | `🟢 Easy` | 1 ms | 47.3 MB | 2026-09-02 |
