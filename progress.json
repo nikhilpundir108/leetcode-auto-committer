@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-12T10:36:13.302Z",
-  "totalSolved": 264,
+  "lastSyncedAt": "2026-10-12T23:57:37.752Z",
+  "totalSolved": 265,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -18,6 +18,25 @@
           "memory": "52.4 MB",
           "memoryPercentile": "6.43%",
           "timestamp": 1789721908
+        }
+      ]
+    },
+    "1008": {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "directory": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "submissions": [
+        {
+          "submissionId": "2170423100",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "74.55%",
+          "timestamp": 1791824923
         }
       ]
     },
@@ -7362,6 +7381,7 @@
     "2169866357",
     "2169869840",
     "2170041063",
-    "2170087785"
+    "2170087785",
+    "2170423100"
   ]
 }

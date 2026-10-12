@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **264** | **168** | **87** | **8** | **2026-10-12 16:06:13 IST** |
+| **265** | **168** | **88** | **8** | **2026-10-13 05:27:37 IST** |
 
 ---
 
@@ -187,6 +187,7 @@
 | 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Java](./0930-binary-subarrays-with-sum/solution.java) | `🟡 Medium` | 1 ms | 51 MB | 2026-09-20 |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./0977-squares-of-a-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-09 |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Java](./1004-max-consecutive-ones-iii/solution.java) | `🟡 Medium` | 3 ms | 52.4 MB | 2026-09-18 |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Java](./1008-construct-binary-search-tree-from-preorder-traversal/solution.java) | `🟡 Medium` | 0 ms | 43.4 MB | 2026-10-12 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](./1011-capacity-to-ship-packages-within-d-days/solution.java) | `🟡 Medium` | 14 ms | 49.9 MB | 2026-04-09 |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021-remove-outermost-parentheses/solution.java) | `🟢 Easy` | 3 ms | 43.2 MB | 2026-10-08 |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./1047-remove-all-adjacent-duplicates-in-string/solution.java) | `🟢 Easy` | 35 ms | 47 MB | 2026-09-30 |
