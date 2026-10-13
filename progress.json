@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-12T23:57:37.752Z",
-  "totalSolved": 265,
+  "lastSyncedAt": "2026-10-13T13:11:31.160Z",
+  "totalSolved": 268,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2208,6 +2208,25 @@
           "memory": "45.8 MB",
           "memoryPercentile": "24.74%",
           "timestamp": 1790275417
+        }
+      ]
+    },
+    "3727": {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "titleSlug": "maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "directory": "3727-maximum-alternating-sum-of-squares",
+      "submissions": [
+        {
+          "submissionId": "2170991928",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "33 ms",
+          "runtimePercentile": "68.31%",
+          "memory": "138.1 MB",
+          "memoryPercentile": "17.61%",
+          "timestamp": 1791880585
         }
       ]
     },
@@ -6926,6 +6945,44 @@
           "timestamp": 1791800665
         }
       ]
+    },
+    "0024": {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "titleSlug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "directory": "0024-swap-nodes-in-pairs",
+      "submissions": [
+        {
+          "submissionId": "2171041255",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "28.47%",
+          "timestamp": 1791884494
+        }
+      ]
+    },
+    "0108": {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "titleSlug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "directory": "0108-convert-sorted-array-to-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2171078997",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.1 MB",
+          "memoryPercentile": "26.43%",
+          "timestamp": 1791887457
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7382,6 +7439,9 @@
     "2169869840",
     "2170041063",
     "2170087785",
-    "2170423100"
+    "2170423100",
+    "2170991928",
+    "2171041255",
+    "2171078997"
   ]
 }
