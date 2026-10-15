@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **268** | **169** | **90** | **8** | **2026-10-13 18:41:31 IST** |
+| **270** | **170** | **91** | **8** | **2026-10-15 15:01:06 IST** |
 
 ---
 
@@ -20,7 +20,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory | Solved Date |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47.2 MB | 2026-10-10 |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 1 ms | 46.5 MB | 2026-10-10 |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 2 ms | 45.7 MB | 2026-10-14 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
@@ -271,6 +271,7 @@
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 43 ms | 54.7 MB | 2026-09-23 |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 40 ms | 53.3 MB | 2026-10-04 |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Java](./2778-sum-of-squares-of-special-elements/solution.java) | `🟢 Easy` | 1 ms | 46.6 MB | 2026-10-11 |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Java](./2913-subarrays-distinct-element-sum-of-squares-i/solution.java) | `🟢 Easy` | 4 ms | 44.8 MB | 2026-10-15 |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Java](./3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | `🟡 Medium` | 40 ms | 48.4 MB | 2026-10-06 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
@@ -279,6 +280,7 @@
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Java](./3483-unique-3-digit-even-numbers/solution.java) | `🟢 Easy` | 5 ms | 46.5 MB | 2026-09-13 |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Java](./3498-reverse-degree-of-a-string/solution.java) | `🟢 Easy` | 1 ms | 43.9 MB | 2026-09-20 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Java](./3550-smallest-index-with-digit-sum-equal-to-index/solution.java) | `🟢 Easy` | 1 ms | 45.8 MB | 2026-09-25 |
+| 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Java](./3723-maximize-sum-of-squares-of-digits/solution.java) | `🟡 Medium` | 124 ms | 47.7 MB | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Java](./3727-maximum-alternating-sum-of-squares/solution.java) | `🟡 Medium` | 33 ms | 138.1 MB | 2026-10-13 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Java](./3731-find-missing-elements/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-19 |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Java](./3783-mirror-distance-of-an-integer/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |

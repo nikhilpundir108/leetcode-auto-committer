@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-13T13:11:31.160Z",
-  "totalSolved": 268,
+  "lastSyncedAt": "2026-10-15T09:31:06.580Z",
+  "totalSolved": 270,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2029,6 +2029,35 @@
         }
       ]
     },
+    "2913": {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "titleSlug": "subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "directory": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "submissions": [
+        {
+          "submissionId": "2172883547",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "45.25%",
+          "memory": "46.5 MB",
+          "memoryPercentile": "79.47%",
+          "timestamp": 1792056130
+        },
+        {
+          "submissionId": "2172884967",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "88.59%",
+          "memory": "44.8 MB",
+          "memoryPercentile": "99.24%",
+          "timestamp": 1792056257
+        }
+      ]
+    },
     "2965": {
       "frontendId": "2965",
       "title": "Find Missing and Repeated Values",
@@ -2208,6 +2237,35 @@
           "memory": "45.8 MB",
           "memoryPercentile": "24.74%",
           "timestamp": 1790275417
+        }
+      ]
+    },
+    "3723": {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "titleSlug": "maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "directory": "3723-maximize-sum-of-squares-of-digits",
+      "submissions": [
+        {
+          "submissionId": "2171782383",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "124 ms",
+          "runtimePercentile": "39.77%",
+          "memory": "47.4 MB",
+          "memoryPercentile": "94.32%",
+          "timestamp": 1791953133
+        },
+        {
+          "submissionId": "2171783079",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "124 ms",
+          "runtimePercentile": "39.77%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "88.64%",
+          "timestamp": 1791953181
         }
       ]
     },
@@ -4020,6 +4078,36 @@
           "memory": "46.5 MB",
           "memoryPercentile": "57.45%",
           "timestamp": 1791642842
+        },
+        {
+          "submissionId": "2171812929",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "2.09%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "98.29%",
+          "timestamp": 1791955375
+        },
+        {
+          "submissionId": "2171813152",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "2.09%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "89.00%",
+          "timestamp": 1791955393
+        },
+        {
+          "submissionId": "2171813983",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "5.31%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "99.52%",
+          "timestamp": 1791955453
         }
       ]
     },
@@ -7442,6 +7530,13 @@
     "2170423100",
     "2170991928",
     "2171041255",
-    "2171078997"
+    "2171078997",
+    "2171782383",
+    "2171783079",
+    "2171812929",
+    "2171813152",
+    "2171813983",
+    "2172883547",
+    "2172884967"
   ]
 }

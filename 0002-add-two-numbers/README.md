@@ -49,7 +49,7 @@ Output: [8,9,9,9,0,0,0,1]
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 100.00%)
-- **Memory:** 46.5 MB (Beats 57.45%)
-- **Submission Date:** 2026-10-10 20:04:02 IST
+- **Runtime:** 2 ms (Beats 5.31%)
+- **Memory:** 45.7 MB (Beats 99.52%)
+- **Submission Date:** 2026-10-14 10:54:13 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/add-two-numbers/)
