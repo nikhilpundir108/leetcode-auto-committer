@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-15T09:31:06.580Z",
-  "totalSolved": 270,
+  "lastSyncedAt": "2026-10-16T10:21:07.140Z",
+  "totalSolved": 271,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -7071,6 +7071,25 @@
           "timestamp": 1791887457
         }
       ]
+    },
+    "0086": {
+      "frontendId": "86",
+      "title": "Partition List",
+      "titleSlug": "partition-list",
+      "difficulty": "Medium",
+      "directory": "0086-partition-list",
+      "submissions": [
+        {
+          "submissionId": "2173687406",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.1 MB",
+          "memoryPercentile": "99.64%",
+          "timestamp": 1792140100
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7537,6 +7556,7 @@
     "2171813152",
     "2171813983",
     "2172883547",
-    "2172884967"
+    "2172884967",
+    "2173687406"
   ]
 }
