@@ -42,6 +42,6 @@ Output: [1,2]
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 43.1 MB (Beats 99.64%)
-- **Submission Date:** 2026-10-16 14:11:40 IST
+- **Memory:** 43.3 MB (Beats 97.09%)
+- **Submission Date:** 2026-10-17 19:48:02 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/partition-list/)

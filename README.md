@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **271** | **170** | **92** | **8** | **2026-10-16 15:51:07 IST** |
+| **271** | **170** | **92** | **8** | **2026-10-17 20:09:45 IST** |
 
 ---
 
@@ -61,7 +61,7 @@
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](./0080-remove-duplicates-from-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 48.8 MB | 2026-09-03 |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./0081-search-in-rotated-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-04-01 |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
-| 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](./0086-partition-list/solution.java) | `🟡 Medium` | 0 ms | 43.1 MB | 2026-10-16 |
+| 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](./0086-partition-list/solution.java) | `🟡 Medium` | 0 ms | 43.3 MB | 2026-10-17 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.6 MB | 2026-09-23 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./0098-validate-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 44.8 MB | 2026-10-09 |

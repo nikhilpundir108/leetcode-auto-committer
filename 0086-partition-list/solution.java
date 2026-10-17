@@ -3,8 +3,8 @@
  * Difficulty: Medium
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 43.1 MB (Beats 99.64%)
- * Solved At: 2026-10-16 14:11:40 IST
+ * Memory: 43.3 MB (Beats 97.09%)
+ * Solved At: 2026-10-17 19:48:02 IST
  * Link: https://leetcode.com/problems/partition-list/
  */
 
