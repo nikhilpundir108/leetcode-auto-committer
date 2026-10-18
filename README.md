@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **271** | **170** | **92** | **8** | **2026-10-17 20:09:45 IST** |
+| **272** | **171** | **92** | **8** | **2026-10-18 15:36:17 IST** |
 
 ---
 
@@ -20,7 +20,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory | Solved Date |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./0001-two-sum/solution.java) | `🟢 Easy` | 0 ms | 47.2 MB | 2026-10-10 |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 2 ms | 45.7 MB | 2026-10-14 |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 2 ms | 46 MB | 2026-10-18 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
@@ -289,6 +289,7 @@
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | [Java](./3871-count-commas-in-range-ii/solution.java) | `🟡 Medium` | 1 ms | 42 MB | 2026-09-09 |
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [Java](./4061-minimum-queen-moves-to-reach-target/solution.java) | `🟢 Easy` | 1 ms | 44.2 MB | 2026-09-27 |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [Java](./4065-rearrange-array-by-removing-distinct-values/solution.java) | `🟢 Easy` | 9 ms | 47.8 MB | 2026-09-27 |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [Java](./4083-minimum-deletions-to-make-array-sharp/solution.java) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-10-18 |
 | 101210 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Java](./101210-three-fibonacci-sum/solution.java) | `Unknown` | 1 ms | 42.4 MB | 2026-10-11 |
 
 ---

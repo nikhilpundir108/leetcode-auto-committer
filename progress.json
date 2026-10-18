@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-17T14:39:45.568Z",
-  "totalSolved": 271,
+  "lastSyncedAt": "2026-10-18T10:06:17.150Z",
+  "totalSolved": 272,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2432,6 +2432,35 @@
         }
       ]
     },
+    "4083": {
+      "frontendId": "4083",
+      "title": "Minimum Deletions to Make Array Sharp",
+      "titleSlug": "minimum-deletions-to-make-array-sharp",
+      "difficulty": "Easy",
+      "directory": "4083-minimum-deletions-to-make-array-sharp",
+      "submissions": [
+        {
+          "submissionId": "2175287093",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "21.93%",
+          "memory": "46 MB",
+          "memoryPercentile": "9.51%",
+          "timestamp": 1792317691
+        },
+        {
+          "submissionId": "2175288334",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "9.51%",
+          "timestamp": 1792317825
+        }
+      ]
+    },
     "101210": {
       "frontendId": "101210",
       "title": "Three Fibonacci Sum",
@@ -4108,6 +4137,16 @@
           "memory": "45.7 MB",
           "memoryPercentile": "99.52%",
           "timestamp": 1791955453
+        },
+        {
+          "submissionId": "2175283902",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "8.50%",
+          "memory": "46 MB",
+          "memoryPercentile": "95.18%",
+          "timestamp": 1792317366
         }
       ]
     },
@@ -7568,6 +7607,9 @@
     "2172883547",
     "2172884967",
     "2173687406",
-    "2174621903"
+    "2174621903",
+    "2175283902",
+    "2175287093",
+    "2175288334"
   ]
 }

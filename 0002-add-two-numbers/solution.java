@@ -2,9 +2,9 @@
  * Problem: Add Two Numbers (LeetCode #2)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 2 ms (Beats 5.31%)
- * Memory: 45.7 MB (Beats 99.52%)
- * Solved At: 2026-10-14 10:54:13 IST
+ * Runtime: 2 ms (Beats 8.50%)
+ * Memory: 46 MB (Beats 95.18%)
+ * Solved At: 2026-10-18 15:26:06 IST
  * Link: https://leetcode.com/problems/add-two-numbers/
  */
 
@@ -24,20 +24,32 @@ class Solution {
         ListNode temp = dummy;
         int carry = 0;
         while (l1 != null || l2 != null || carry != 0) {
-            int x = (l1 != null) ? l1.val : 0;
-            int y = (l2 != null) ? l2.val : 0;
+            int x = 0;
+            int y = 0;
+            if (l1 != null && l2 != null) {
+                x = l1.val;
+                y = l2.val;
+                l1 = l1.next;
+                l2 = l2.next;
+            } else if (l1 != null && l2 == null) {
+                x = l1.val;
+                y = 0;
+                l1 = l1.next;
+            } else if (l1 == null && l2 != null) {
+                x = 0;
+                y = l2.val;
+                l2 = l2.next;
+            } else if (l1 == null && l2 == null) {
+                x = 0;
+                y = 0;
+            }
+
             int sum = x + y + carry;
             carry = sum / 10;
             temp.next = new ListNode(sum % 10);
             temp = temp.next;
-            if (l1 != null) {
-                l1 = l1.next;
-            }
-            if (l2 != null) {
-                l2 = l2.next;
-            }
+
         }
         return dummy.next;
-
     }
 }
