@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-18T10:06:17.150Z",
-  "totalSolved": 272,
+  "lastSyncedAt": "2026-10-19T11:35:04.222Z",
+  "totalSolved": 275,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -1294,6 +1294,26 @@
           "memory": "47.1 MB",
           "memoryPercentile": "29.96%",
           "timestamp": 1789018429
+        },
+        {
+          "submissionId": "2176014575",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "27.80%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "41.65%",
+          "timestamp": 1792395295
+        },
+        {
+          "submissionId": "2176019610",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "82.77%",
+          "memory": "44 MB",
+          "memoryPercentile": "99.77%",
+          "timestamp": 1792395737
         }
       ]
     },
@@ -2103,6 +2123,84 @@
           "memory": "48.4 MB",
           "memoryPercentile": "47.92%",
           "timestamp": 1791278121
+        }
+      ]
+    },
+    "3120": {
+      "frontendId": "3120",
+      "title": "Count the Number of Special Characters I",
+      "titleSlug": "count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "directory": "3120-count-the-number-of-special-characters-i",
+      "submissions": [
+        {
+          "submissionId": "2176052042",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "43.3 MB",
+          "memoryPercentile": "89.38%",
+          "timestamp": 1792398826
+        },
+        {
+          "submissionId": "2176055024",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "49.15%",
+          "memory": "43 MB",
+          "memoryPercentile": "96.95%",
+          "timestamp": 1792399122
+        }
+      ]
+    },
+    "3121": {
+      "frontendId": "3121",
+      "title": "Count the Number of Special Characters II",
+      "titleSlug": "count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "directory": "3121-count-the-number-of-special-characters-ii",
+      "submissions": [
+        {
+          "submissionId": "2176083294",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "31 ms",
+          "runtimePercentile": "33.64%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "74.12%",
+          "timestamp": 1792401760
+        },
+        {
+          "submissionId": "2176084320",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "78.84%",
+          "memory": "47.6 MB",
+          "memoryPercentile": "92.09%",
+          "timestamp": 1792401858
+        },
+        {
+          "submissionId": "2176084630",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "36 ms",
+          "runtimePercentile": "30.90%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "87.67%",
+          "timestamp": 1792401887
+        },
+        {
+          "submissionId": "2176089052",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "86.00%",
+          "memory": "47.4 MB",
+          "memoryPercentile": "98.48%",
+          "timestamp": 1792402306
         }
       ]
     },
@@ -7139,6 +7237,25 @@
           "timestamp": 1792246682
         }
       ]
+    },
+    "0082": {
+      "frontendId": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "titleSlug": "remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "directory": "0082-remove-duplicates-from-sorted-list-ii",
+      "submissions": [
+        {
+          "submissionId": "2176090068",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "16.14%",
+          "memory": "44.7 MB",
+          "memoryPercentile": "89.72%",
+          "timestamp": 1792402402
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7610,6 +7727,15 @@
     "2174621903",
     "2175283902",
     "2175287093",
-    "2175288334"
+    "2175288334",
+    "2176014575",
+    "2176019610",
+    "2176052042",
+    "2176055024",
+    "2176083294",
+    "2176084320",
+    "2176084630",
+    "2176089052",
+    "2176090068"
   ]
 }

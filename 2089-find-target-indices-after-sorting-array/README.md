@@ -54,7 +54,7 @@ The index where nums[i] == 5 is 4.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 5 ms (Beats 73.61%)
-- **Memory:** 47.1 MB (Beats 29.96%)
-- **Submission Date:** 2026-09-10 05:33:49
+- **Runtime:** 1 ms (Beats 82.77%)
+- **Memory:** 44 MB (Beats 99.77%)
+- **Submission Date:** 2026-10-19 13:12:17 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/)

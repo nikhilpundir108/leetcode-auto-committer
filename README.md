@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **272** | **171** | **92** | **8** | **2026-10-18 15:36:17 IST** |
+| **275** | **172** | **94** | **8** | **2026-10-19 17:05:04 IST** |
 
 ---
 
@@ -60,6 +60,7 @@
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](./0076-minimum-window-substring/solution.java) | `🔴 Hard` | 2 ms | 45.4 MB | 2026-10-12 |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](./0080-remove-duplicates-from-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 48.8 MB | 2026-09-03 |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./0081-search-in-rotated-sorted-array-ii/solution.java) | `🟡 Medium` | 0 ms | 45.1 MB | 2026-04-01 |
+| 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](./0082-remove-duplicates-from-sorted-list-ii/solution.java) | `🟡 Medium` | 1 ms | 44.7 MB | 2026-10-19 |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](./0086-partition-list/solution.java) | `🟡 Medium` | 0 ms | 43.3 MB | 2026-10-17 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.6 MB | 2026-09-23 |
@@ -243,7 +244,7 @@
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Java](./2000-reverse-prefix-of-word/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-10 |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Java](./2078-two-furthest-houses-with-different-colors/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-08 |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Java](./2085-count-common-words-with-one-occurrence/solution.java) | `🟢 Easy` | 7 ms | 46.3 MB | 2026-09-13 |
-| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Java](./2089-find-target-indices-after-sorting-array/solution.java) | `🟢 Easy` | 5 ms | 47.1 MB | 2026-09-10 |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Java](./2089-find-target-indices-after-sorting-array/solution.java) | `🟢 Easy` | 1 ms | 44 MB | 2026-10-19 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](./2095-delete-the-middle-node-of-a-linked-list/solution.java) | `🟡 Medium` | 3 ms | 202.9 MB | 2026-07-23 |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Java](./2108-find-first-palindromic-string-in-the-array/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-08 |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Java](./2119-a-number-after-a-double-reversal/solution.java) | `🟢 Easy` | 0 ms | 42 MB | 2026-09-09 |
@@ -275,6 +276,8 @@
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Java](./2913-subarrays-distinct-element-sum-of-squares-i/solution.java) | `🟢 Easy` | 4 ms | 44.8 MB | 2026-10-15 |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Java](./2965-find-missing-and-repeated-values/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2025-09-14 |
 | 3081 | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Java](./3081-replace-question-marks-in-string-to-minimize-its-value/solution.java) | `🟡 Medium` | 40 ms | 48.4 MB | 2026-10-06 |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Java](./3120-count-the-number-of-special-characters-i/solution.java) | `🟢 Easy` | 2 ms | 43 MB | 2026-10-19 |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Java](./3121-count-the-number-of-special-characters-ii/solution.java) | `🟡 Medium` | 9 ms | 47.4 MB | 2026-10-19 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
 | 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Java](./3417-zigzag-grid-traversal-with-skip/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-22 |
