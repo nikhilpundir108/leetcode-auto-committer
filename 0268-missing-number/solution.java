@@ -2,24 +2,19 @@
  * Problem: Missing Number (LeetCode #268)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 9 ms (Beats 7.75%)
- * Memory: 48.1 MB (Beats 8.16%)
- * Solved At: 2026-08-05 21:24:05
+ * Runtime: 0 ms (Beats 100.00%)
+ * Memory: 46.9 MB (Beats 92.48%)
+ * Solved At: 2026-10-20 15:17:06 IST
  * Link: https://leetcode.com/problems/missing-number/
  */
 
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        if (nums[0] != 0) {
-            return 0;
-        }
         int n = nums.length;
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[i - 1] + 1) {
-                return nums[i] - 1;
-            }
+        int ans = n;
+        for (int i = 0; i < n; i++) {
+            ans ^= i ^ nums[i];
         }
-        return n;
+        return ans;
     }
 }

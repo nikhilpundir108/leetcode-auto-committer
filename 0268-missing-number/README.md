@@ -69,7 +69,7 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 9 ms (Beats 7.75%)
-- **Memory:** 48.1 MB (Beats 8.16%)
-- **Submission Date:** 2026-08-05 21:24:05
+- **Runtime:** 0 ms (Beats 100.00%)
+- **Memory:** 46.9 MB (Beats 92.48%)
+- **Submission Date:** 2026-10-20 15:17:06 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/missing-number/)

@@ -62,7 +62,7 @@ The third distinct maximum is 1.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 8 ms (Beats 14.05%)
-- **Memory:** 46.8 MB (Beats 5.48%)
-- **Submission Date:** 2026-09-10 06:45:57
+- **Runtime:** 1 ms (Beats 98.70%)
+- **Memory:** 44.1 MB (Beats 98.07%)
+- **Submission Date:** 2026-10-20 15:30:17 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/third-maximum-number/)

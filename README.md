@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **275** | **172** | **94** | **8** | **2026-10-19 17:05:04 IST** |
+| **277** | **174** | **94** | **8** | **2026-10-20 16:09:49 IST** |
 
 ---
 
@@ -109,6 +109,7 @@
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./0219-contains-duplicate-ii/solution.java) | `🟢 Easy` | 32 ms | 104.6 MB | 2026-09-16 |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](./0222-count-complete-tree-nodes/solution.java) | `🟡 Medium` | 0 ms | 49.2 MB | 2026-09-24 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./0226-invert-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-24 |
+| 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Java](./0228-summary-ranges/solution.java) | `🟢 Easy` | 3 ms | 42.6 MB | 2026-10-20 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./0229-majority-element-ii/solution.java) | `🟡 Medium` | 14 ms | 53 MB | 2026-09-15 |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./0230-kth-smallest-element-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 46.8 MB | 2026-10-09 |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./0231-power-of-two/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-10-07 |
@@ -120,7 +121,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./0242-valid-anagram/solution.java) | `🟢 Easy` | 18 ms | 46.8 MB | 2026-09-10 |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./0258-add-digits/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-09-08 |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./0263-ugly-number/solution.java) | `🟢 Easy` | 1 ms | 42.4 MB | 2026-09-20 |
-| 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./0268-missing-number/solution.java) | `🟢 Easy` | 9 ms | 48.1 MB | 2026-08-06 |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./0268-missing-number/solution.java) | `🟢 Easy` | 0 ms | 46.9 MB | 2026-10-20 |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./0278-first-bad-version/solution.java) | `🟢 Easy` | 13 ms | 42.1 MB | 2026-09-25 |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./0283-move-zeroes/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-09-02 |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./0292-nim-game/solution.java) | `🟢 Easy` | 0 ms | 42.2 MB | 2026-09-25 |
@@ -144,12 +145,13 @@
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./0409-longest-palindrome/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-18 |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./0410-split-array-largest-sum/solution.java) | `🔴 Hard` | 0 ms | 42.7 MB | 2026-04-09 |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./0412-fizz-buzz/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-20 |
-| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 8 ms | 46.8 MB | 2026-09-10 |
+| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./0414-third-maximum-number/solution.java) | `🟢 Easy` | 1 ms | 44.1 MB | 2026-10-20 |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./0415-add-strings/solution.java) | `🟢 Easy` | 2 ms | 44 MB | 2026-09-20 |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 63 ms | 48.1 MB | 2026-10-07 |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./0450-delete-node-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 47.4 MB | 2026-10-09 |
+| 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./0455-assign-cookies/solution.java) | `🟢 Easy` | 17 ms | 51 MB | 2026-10-20 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
