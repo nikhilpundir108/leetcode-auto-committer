@@ -116,7 +116,7 @@ Reading stops at the first non-digit character 'w'.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 2 ms (Beats 13.87%)
-- **Memory:** 43.5 MB (Beats 90.18%)
-- **Submission Date:** 2026-10-21 03:28:35 IST
+- **Runtime:** 2 ms (Beats 14.81%)
+- **Memory:** 43.4 MB (Beats 89.62%)
+- **Submission Date:** 2026-10-21 22:20:43 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/string-to-integer-atoi/)

@@ -2,9 +2,9 @@
  * Problem: String to Integer (atoi) (LeetCode #8)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 2 ms (Beats 13.87%)
- * Memory: 43.5 MB (Beats 90.18%)
- * Solved At: 2026-10-21 03:28:35 IST
+ * Runtime: 2 ms (Beats 14.81%)
+ * Memory: 43.4 MB (Beats 89.62%)
+ * Solved At: 2026-10-21 22:20:43 IST
  * Link: https://leetcode.com/problems/string-to-integer-atoi/
  */
 
