@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-20T10:39:49.456Z",
-  "totalSolved": 277,
+  "lastSyncedAt": "2026-10-21T02:33:04.029Z",
+  "totalSolved": 278,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -7314,6 +7314,35 @@
           "timestamp": 1792491260
         }
       ]
+    },
+    "0008": {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "titleSlug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "directory": "0008-string-to-integer-atoi",
+      "submissions": [
+        {
+          "submissionId": "2177454275",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "3.23%",
+          "memory": "43.4 MB",
+          "memoryPercentile": "93.96%",
+          "timestamp": 1792533275
+        },
+        {
+          "submissionId": "2177455461",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "13.87%",
+          "memory": "43.5 MB",
+          "memoryPercentile": "90.18%",
+          "timestamp": 1792533515
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7798,6 +7827,8 @@
     "2176943296",
     "2176943679",
     "2176952194",
-    "2176961221"
+    "2176961221",
+    "2177454275",
+    "2177455461"
   ]
 }

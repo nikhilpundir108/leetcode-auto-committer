@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **277** | **174** | **94** | **8** | **2026-10-20 16:09:49 IST** |
+| **278** | **174** | **95** | **8** | **2026-10-21 08:03:04 IST** |
 
 ---
 
@@ -25,6 +25,7 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./0007-reverse-integer/solution.java) | `🟡 Medium` | 1 ms | 42.8 MB | 2026-09-20 |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./0008-string-to-integer-atoi/solution.java) | `🟡 Medium` | 2 ms | 43.5 MB | 2026-10-21 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./0009-palindrome-number/solution.java) | `🟢 Easy` | 6 ms | 46 MB | 2026-09-20 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./0011-container-with-most-water/solution.java) | `🟡 Medium` | 5 ms | 77.2 MB | 2026-08-19 |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./0014-longest-common-prefix/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-07-31 |
