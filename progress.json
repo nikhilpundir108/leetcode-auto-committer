@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-21T21:02:46.294Z",
-  "totalSolved": 278,
+  "lastSyncedAt": "2026-10-22T10:51:50.019Z",
+  "totalSolved": 282,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -785,6 +785,35 @@
           "memory": "44.3 MB",
           "memoryPercentile": "94.10%",
           "timestamp": 1788259088
+        }
+      ]
+    },
+    "1721": {
+      "frontendId": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "titleSlug": "swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "directory": "1721-swapping-nodes-in-a-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2178559561",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "15.45%",
+          "memory": "118.5 MB",
+          "memoryPercentile": "82.25%",
+          "timestamp": 1792649136
+        },
+        {
+          "submissionId": "2178566168",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "118 MB",
+          "memoryPercentile": "96.24%",
+          "timestamp": 1792649654
         }
       ]
     },
@@ -7353,6 +7382,63 @@
           "timestamp": 1792601443
         }
       ]
+    },
+    "0092": {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "titleSlug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "directory": "0092-reverse-linked-list-ii",
+      "submissions": [
+        {
+          "submissionId": "2178524996",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "98.28%",
+          "timestamp": 1792646106
+        }
+      ]
+    },
+    "0109": {
+      "frontendId": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "titleSlug": "convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "directory": "0109-convert-sorted-list-to-binary-search-tree",
+      "submissions": [
+        {
+          "submissionId": "2178595776",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "156 ms",
+          "runtimePercentile": "1.35%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "67.30%",
+          "timestamp": 1792652014
+        }
+      ]
+    },
+    "0563": {
+      "frontendId": "563",
+      "title": "Binary Tree Tilt",
+      "titleSlug": "binary-tree-tilt",
+      "difficulty": "Easy",
+      "directory": "0563-binary-tree-tilt",
+      "submissions": [
+        {
+          "submissionId": "2178680286",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "87.73%",
+          "timestamp": 1792660709
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7840,6 +7926,11 @@
     "2176961221",
     "2177454275",
     "2177455461",
-    "2178153948"
+    "2178153948",
+    "2178524996",
+    "2178559561",
+    "2178566168",
+    "2178595776",
+    "2178680286"
   ]
 }

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **278** | **174** | **95** | **8** | **2026-10-22 02:32:46 IST** |
+| **282** | **175** | **98** | **8** | **2026-10-22 16:21:50 IST** |
 
 ---
 
@@ -65,6 +65,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./0083-remove-duplicates-from-sorted-list/solution.java) | `🟢 Easy` | 0 ms | 45.5 MB | 2026-09-15 |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](./0086-partition-list/solution.java) | `🟡 Medium` | 0 ms | 43.3 MB | 2026-10-17 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./0088-merge-sorted-array/solution.java) | `🟢 Easy` | 0 ms | 43.6 MB | 2026-09-23 |
+| 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](./0092-reverse-linked-list-ii/solution.java) | `🟡 Medium` | 0 ms | 42.4 MB | 2026-10-22 |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./0094-binary-tree-inorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43.3 MB | 2026-09-17 |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./0098-validate-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 44.8 MB | 2026-10-09 |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./0100-same-tree/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-21 |
@@ -74,6 +75,7 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./0104-maximum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./0107-binary-tree-level-order-traversal-ii/solution.java) | `🟡 Medium` | 1 ms | 43.9 MB | 2026-09-25 |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./0108-convert-sorted-array-to-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 45.1 MB | 2026-10-13 |
+| 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./0109-convert-sorted-list-to-binary-search-tree/solution.java) | `🟡 Medium` | 156 ms | 46.7 MB | 2026-10-22 |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./0110-balanced-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 45.6 MB | 2026-09-18 |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./0111-minimum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 4 ms | 82.3 MB | 2026-09-25 |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./0112-path-sum/solution.java) | `🟢 Easy` | 0 ms | 44.5 MB | 2026-09-25 |
@@ -162,6 +164,7 @@
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./0543-diameter-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./0560-subarray-sum-equals-k/solution.java) | `🟡 Medium` | 24 ms | 49.1 MB | 2026-09-18 |
+| 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Java](./0563-binary-tree-tilt/solution.java) | `🟢 Easy` | 0 ms | 46.2 MB | 2026-10-22 |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./0567-permutation-in-string/solution.java) | `🟡 Medium` | 6 ms | 44 MB | 2026-09-19 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
@@ -227,6 +230,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./1614-maximum-nesting-depth-of-the-parentheses/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-28 |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./1672-richest-customer-wealth/solution.java) | `🟢 Easy` | 0 ms | 44.3 MB | 2026-09-01 |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Java](./1721-swapping-nodes-in-a-linked-list/solution.java) | `🟡 Medium` | 1 ms | 118 MB | 2026-10-22 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](./1742-maximum-number-of-balls-in-a-box/solution.java) | `🟢 Easy` | 16 ms | 42.1 MB | 2026-09-09 |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](./1748-sum-of-unique-elements/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-11 |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Java](./1752-check-if-array-is-sorted-and-rotated/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-03-29 |
