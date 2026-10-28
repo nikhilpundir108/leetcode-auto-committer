@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-22T10:51:50.019Z",
-  "totalSolved": 282,
+  "lastSyncedAt": "2026-10-28T17:26:24.420Z",
+  "totalSolved": 293,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -708,6 +708,35 @@
           "memory": "46.3 MB",
           "memoryPercentile": "52.10%",
           "timestamp": 1788947679
+        }
+      ]
+    },
+    "1590": {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "titleSlug": "make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "directory": "1590-make-sum-divisible-by-p",
+      "submissions": [
+        {
+          "submissionId": "2183687618",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "27 ms",
+          "runtimePercentile": "71.95%",
+          "memory": "98.9 MB",
+          "memoryPercentile": "66.55%",
+          "timestamp": 1793169612
+        },
+        {
+          "submissionId": "2183693876",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "34 ms",
+          "runtimePercentile": "11.18%",
+          "memory": "98.7 MB",
+          "memoryPercentile": "72.67%",
+          "timestamp": 1793170152
         }
       ]
     },
@@ -1520,6 +1549,35 @@
         }
       ]
     },
+    "2181": {
+      "frontendId": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "titleSlug": "merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "directory": "2181-merge-nodes-in-between-zeros",
+      "submissions": [
+        {
+          "submissionId": "2179633977",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "67.41%",
+          "memory": "224.9 MB",
+          "memoryPercentile": "93.97%",
+          "timestamp": 1792757727
+        },
+        {
+          "submissionId": "2179636111",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "224.6 MB",
+          "memoryPercentile": "96.93%",
+          "timestamp": 1792757946
+        }
+      ]
+    },
     "2190": {
       "frontendId": "2190",
       "title": "Most Frequent Number Following Key In an Array",
@@ -1728,6 +1786,25 @@
           "memory": "43.1 MB",
           "memoryPercentile": "74.84%",
           "timestamp": 1789243178
+        }
+      ]
+    },
+    "2409": {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "titleSlug": "count-days-spent-together",
+      "difficulty": "Easy",
+      "directory": "2409-count-days-spent-together",
+      "submissions": [
+        {
+          "submissionId": "2180344496",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42 MB",
+          "memoryPercentile": "78.53%",
+          "timestamp": 1792837708
         }
       ]
     },
@@ -2075,6 +2152,84 @@
           "memory": "46.6 MB",
           "memoryPercentile": "14.70%",
           "timestamp": 1791723728
+        }
+      ]
+    },
+    "2807": {
+      "frontendId": "2807",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+      "difficulty": "Medium",
+      "directory": "2807-insert-greatest-common-divisors-in-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2181235479",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "23 ms",
+          "runtimePercentile": "10.93%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "85.96%",
+          "timestamp": 1792917858
+        },
+        {
+          "submissionId": "2181236825",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "51.85%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "80.88%",
+          "timestamp": 1792918007
+        },
+        {
+          "submissionId": "2181237113",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "51.85%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "94.21%",
+          "timestamp": 1792918038
+        }
+      ]
+    },
+    "2816": {
+      "frontendId": "2816",
+      "title": "Double a Number Represented as a Linked List",
+      "titleSlug": "double-a-number-represented-as-a-linked-list",
+      "difficulty": "Medium",
+      "directory": "2816-double-a-number-represented-as-a-linked-list",
+      "submissions": [
+        {
+          "submissionId": "2179612022",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "86.28%",
+          "memory": "48 MB",
+          "memoryPercentile": "85.99%",
+          "timestamp": 1792755479
+        },
+        {
+          "submissionId": "2179613135",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "86.28%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "89.66%",
+          "timestamp": 1792755591
+        },
+        {
+          "submissionId": "2179616058",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "86.28%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "94.83%",
+          "timestamp": 1792755888
         }
       ]
     },
@@ -2511,6 +2666,35 @@
         }
       ]
     },
+    "3979": {
+      "frontendId": "3979",
+      "title": "Maximum Valid Pair Sum",
+      "titleSlug": "maximum-valid-pair-sum",
+      "difficulty": "Medium",
+      "directory": "3979-maximum-valid-pair-sum",
+      "submissions": [
+        {
+          "submissionId": "2183653359",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "51.82%",
+          "memory": "118.6 MB",
+          "memoryPercentile": "74.09%",
+          "timestamp": 1793166859
+        },
+        {
+          "submissionId": "2183654671",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "51.82%",
+          "memory": "118.6 MB",
+          "memoryPercentile": "74.09%",
+          "timestamp": 1793166963
+        }
+      ]
+    },
     "4061": {
       "frontendId": "4061",
       "title": "Minimum Queen Moves to Reach Target",
@@ -2585,6 +2769,44 @@
           "memory": "46.1 MB",
           "memoryPercentile": "9.51%",
           "timestamp": 1792317825
+        }
+      ]
+    },
+    "4088": {
+      "frontendId": "4088",
+      "title": "Difference Between Peaks and Valleys",
+      "titleSlug": "difference-between-peaks-and-valleys",
+      "difficulty": "Easy",
+      "directory": "4088-difference-between-peaks-and-valleys",
+      "submissions": [
+        {
+          "submissionId": "2180514735",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "85.64%",
+          "memory": "45.6 MB",
+          "memoryPercentile": "74.40%",
+          "timestamp": 1792852599
+        }
+      ]
+    },
+    "4089": {
+      "frontendId": "4089",
+      "title": "Count Subarrays With Loose Bounds",
+      "titleSlug": "count-subarrays-with-loose-bounds",
+      "difficulty": "Medium",
+      "directory": "4089-count-subarrays-with-loose-bounds",
+      "submissions": [
+        {
+          "submissionId": "2180525853",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "98.79%",
+          "memory": "196 MB",
+          "memoryPercentile": "78.00%",
+          "timestamp": 1792852867
         }
       ]
     },
@@ -7439,6 +7661,73 @@
           "timestamp": 1792660709
         }
       ]
+    },
+    "0168": {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "titleSlug": "excel-sheet-column-title",
+      "difficulty": "Easy",
+      "directory": "0168-excel-sheet-column-title",
+      "submissions": [
+        {
+          "submissionId": "2182454897",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "41.7 MB",
+          "memoryPercentile": "97.66%",
+          "timestamp": 1793035443
+        },
+        {
+          "submissionId": "2183329906",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "84.02%",
+          "timestamp": 1793123895
+        }
+      ]
+    },
+    "0974": {
+      "frontendId": "974",
+      "title": "Subarray Sums Divisible by K",
+      "titleSlug": "subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "directory": "0974-subarray-sums-divisible-by-k",
+      "submissions": [
+        {
+          "submissionId": "2183629197",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "27 ms",
+          "runtimePercentile": "9.97%",
+          "memory": "51.1 MB",
+          "memoryPercentile": "72.05%",
+          "timestamp": 1793164715
+        }
+      ]
+    },
+    "0260": {
+      "frontendId": "260",
+      "title": "Single Number III",
+      "titleSlug": "single-number-iii",
+      "difficulty": "Medium",
+      "directory": "0260-single-number-iii",
+      "submissions": [
+        {
+          "submissionId": "2183735412",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "36.67%",
+          "memory": "47.8 MB",
+          "memoryPercentile": "76.98%",
+          "timestamp": 1793174414
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -7931,6 +8220,25 @@
     "2178559561",
     "2178566168",
     "2178595776",
-    "2178680286"
+    "2178680286",
+    "2179612022",
+    "2179613135",
+    "2179616058",
+    "2179633977",
+    "2179636111",
+    "2180344496",
+    "2180514735",
+    "2180525853",
+    "2181235479",
+    "2181236825",
+    "2181237113",
+    "2182454897",
+    "2183329906",
+    "2183629197",
+    "2183653359",
+    "2183654671",
+    "2183687618",
+    "2183693876",
+    "2183735412"
   ]
 }
