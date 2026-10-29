@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-10-28T17:26:24.420Z",
-  "totalSolved": 293,
+  "lastSyncedAt": "2026-10-29T11:58:15.463Z",
+  "totalSolved": 299,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -267,6 +267,25 @@
           "memory": "44.8 MB",
           "memoryPercentile": "22.03%",
           "timestamp": 1788257093
+        }
+      ]
+    },
+    "1299": {
+      "frontendId": "1299",
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "titleSlug": "replace-elements-with-greatest-element-on-right-side",
+      "difficulty": "Easy",
+      "directory": "1299-replace-elements-with-greatest-element-on-right-side",
+      "submissions": [
+        {
+          "submissionId": "2184498413",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "66.00%",
+          "memory": "48.5 MB",
+          "memoryPercentile": "91.12%",
+          "timestamp": 1793255908
         }
       ]
     },
@@ -814,6 +833,35 @@
           "memory": "44.3 MB",
           "memoryPercentile": "94.10%",
           "timestamp": 1788259088
+        }
+      ]
+    },
+    "1700": {
+      "frontendId": "1700",
+      "title": "Number of Students Unable to Eat Lunch",
+      "titleSlug": "number-of-students-unable-to-eat-lunch",
+      "difficulty": "Easy",
+      "directory": "1700-number-of-students-unable-to-eat-lunch",
+      "submissions": [
+        {
+          "submissionId": "2184458015",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "12.59%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "96.12%",
+          "timestamp": 1793252302
+        },
+        {
+          "submissionId": "2184458498",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.5 MB",
+          "memoryPercentile": "96.12%",
+          "timestamp": 1793252351
         }
       ]
     },
@@ -1979,6 +2027,25 @@
           "memory": "47 MB",
           "memoryPercentile": "58.14%",
           "timestamp": 1788845977
+        }
+      ]
+    },
+    "2574": {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "titleSlug": "left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "directory": "2574-left-and-right-sum-differences",
+      "submissions": [
+        {
+          "submissionId": "2184488147",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "98.69%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "92.63%",
+          "timestamp": 1793255021
         }
       ]
     },
@@ -7728,6 +7795,93 @@
           "timestamp": 1793174414
         }
       ]
+    },
+    "0225": {
+      "frontendId": "225",
+      "title": "Implement Stack using Queues",
+      "titleSlug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "directory": "0225-implement-stack-using-queues",
+      "submissions": [
+        {
+          "submissionId": "2184419479",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "87.73%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "89.78%",
+          "timestamp": 1793248601
+        },
+        {
+          "submissionId": "2184423058",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42 MB",
+          "memoryPercentile": "98.15%",
+          "timestamp": 1793248968
+        }
+      ]
+    },
+    "0503": {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "titleSlug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "directory": "0503-next-greater-element-ii",
+      "submissions": [
+        {
+          "submissionId": "2184477342",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "169 ms",
+          "runtimePercentile": "6.44%",
+          "memory": "47 MB",
+          "memoryPercentile": "98.05%",
+          "timestamp": 1793254100
+        },
+        {
+          "submissionId": "2184558544",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "178 ms",
+          "runtimePercentile": "6.44%",
+          "memory": "46.9 MB",
+          "memoryPercentile": "99.10%",
+          "timestamp": 1793262240
+        }
+      ]
+    },
+    "0705": {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "titleSlug": "design-hashset",
+      "difficulty": "Easy",
+      "directory": "0705-design-hashset",
+      "submissions": [
+        {
+          "submissionId": "2184607560",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "541 ms",
+          "runtimePercentile": "6.31%",
+          "memory": "50.6 MB",
+          "memoryPercentile": "91.25%",
+          "timestamp": 1793267181
+        },
+        {
+          "submissionId": "2184609374",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "14 ms",
+          "runtimePercentile": "39.56%",
+          "memory": "53.8 MB",
+          "memoryPercentile": "67.53%",
+          "timestamp": 1793267353
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8239,6 +8393,16 @@
     "2183654671",
     "2183687618",
     "2183693876",
-    "2183735412"
+    "2183735412",
+    "2184419479",
+    "2184423058",
+    "2184458015",
+    "2184458498",
+    "2184477342",
+    "2184488147",
+    "2184498413",
+    "2184558544",
+    "2184607560",
+    "2184609374"
   ]
 }

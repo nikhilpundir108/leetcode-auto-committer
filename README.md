@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **293** | **178** | **106** | **8** | **2026-10-28 22:56:24 IST** |
+| **299** | **183** | **107** | **8** | **2026-10-29 17:28:15 IST** |
 
 ---
 
@@ -112,6 +112,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./0217-contains-duplicate/solution.java) | `🟢 Easy` | 18 ms | 107.2 MB | 2026-08-01 |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./0219-contains-duplicate-ii/solution.java) | `🟢 Easy` | 32 ms | 104.6 MB | 2026-09-16 |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](./0222-count-complete-tree-nodes/solution.java) | `🟡 Medium` | 0 ms | 49.2 MB | 2026-09-24 |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./0225-implement-stack-using-queues/solution.java) | `🟢 Easy` | 0 ms | 42 MB | 2026-10-29 |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./0226-invert-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 43.2 MB | 2026-09-24 |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Java](./0228-summary-ranges/solution.java) | `🟢 Easy` | 3 ms | 42.6 MB | 2026-10-20 |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./0229-majority-element-ii/solution.java) | `🟡 Medium` | 14 ms | 53 MB | 2026-09-15 |
@@ -161,6 +162,7 @@
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./0500-keyboard-row/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-30 |
+| 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](./0503-next-greater-element-ii/solution.java) | `🟡 Medium` | 178 ms | 46.9 MB | 2026-10-29 |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./0507-perfect-number/solution.java) | `🟢 Easy` | 2 ms | 42.3 MB | 2026-09-20 |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./0509-fibonacci-number/solution.java) | `🟢 Easy` | 10 ms | 41.7 MB | 2026-09-25 |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./0540-single-element-in-a-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 52.6 MB | 2026-03-27 |
@@ -175,6 +177,7 @@
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./0701-insert-into-a-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 47.2 MB | 2026-10-06 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](./0705-design-hashset/solution.java) | `🟢 Easy` | 14 ms | 53.8 MB | 2026-10-29 |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./0707-design-linked-list/solution.java) | `🟡 Medium` | 10 ms | 46.8 MB | 2026-10-12 |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |
@@ -211,6 +214,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Java](./1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Java](./1283-find-the-smallest-divisor-given-a-threshold/solution.java) | `🟡 Medium` | 6 ms | 51.1 MB | 2026-04-09 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./1295-find-numbers-with-even-number-of-digits/solution.java) | `🟢 Easy` | 1 ms | 44.8 MB | 2026-09-01 |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](./1299-replace-elements-with-greatest-element-on-right-side/solution.java) | `🟢 Easy` | 3 ms | 48.5 MB | 2026-10-29 |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./1342-number-of-steps-to-reduce-a-number-to-zero/solution.java) | `🟢 Easy` | 0 ms | 42.6 MB | 2026-09-20 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) | `🟡 Medium` | 3 ms | 71.7 MB | 2026-09-19 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./1351-count-negative-numbers-in-a-sorted-matrix/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-15 |
@@ -234,6 +238,7 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./1614-maximum-nesting-depth-of-the-parentheses/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-28 |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./1672-richest-customer-wealth/solution.java) | `🟢 Easy` | 0 ms | 44.3 MB | 2026-09-01 |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Java](./1700-number-of-students-unable-to-eat-lunch/solution.java) | `🟢 Easy` | 0 ms | 42.5 MB | 2026-10-29 |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Java](./1721-swapping-nodes-in-a-linked-list/solution.java) | `🟡 Medium` | 1 ms | 118 MB | 2026-10-22 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](./1742-maximum-number-of-balls-in-a-box/solution.java) | `🟢 Easy` | 16 ms | 42.1 MB | 2026-09-09 |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](./1748-sum-of-unique-elements/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-11 |
@@ -279,6 +284,7 @@
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./2469-convert-the-temperature/solution.java) | `🟢 Easy` | 0 ms | 45.4 MB | 2026-09-07 |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Java](./2520-count-the-digits-that-divide-a-number/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Java](./2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-09-08 |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Java](./2574-left-and-right-sum-differences/solution.java) | `🟢 Easy` | 2 ms | 45.9 MB | 2026-10-29 |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Java](./2586-count-the-number-of-vowel-strings-in-range/solution.java) | `🟢 Easy` | 1 ms | 46.5 MB | 2026-09-18 |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./2620-counter/solution.js) | `🟢 Easy` | 42 ms | 52.3 MB | 2026-09-23 |
