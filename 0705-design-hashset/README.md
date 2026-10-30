@@ -52,7 +52,7 @@ myHashSet.contains(2); // return False, (already removed)
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 14 ms (Beats 39.56%)
-- **Memory:** 53.8 MB (Beats 67.53%)
-- **Submission Date:** 2026-10-29 15:19:13 IST
+- **Runtime:** 13 ms (Beats 64.62%)
+- **Memory:** 53.9 MB (Beats 62.97%)
+- **Submission Date:** 2026-10-30 11:49:05 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/design-hashset/)

@@ -2,9 +2,9 @@
  * Problem: Design HashSet (LeetCode #705)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 14 ms (Beats 39.56%)
- * Memory: 53.8 MB (Beats 67.53%)
- * Solved At: 2026-10-29 15:19:13 IST
+ * Runtime: 13 ms (Beats 64.62%)
+ * Memory: 53.9 MB (Beats 62.97%)
+ * Solved At: 2026-10-30 11:49:05 IST
  * Link: https://leetcode.com/problems/design-hashset/
  */
 

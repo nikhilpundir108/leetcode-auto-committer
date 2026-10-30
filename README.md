@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **299** | **183** | **107** | **8** | **2026-10-29 17:28:15 IST** |
+| **299** | **183** | **107** | **8** | **2026-10-30 17:22:20 IST** |
 
 ---
 
@@ -177,7 +177,7 @@
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./0701-insert-into-a-binary-search-tree/solution.java) | `🟡 Medium` | 0 ms | 47.2 MB | 2026-10-06 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./0704-binary-search/solution.java) | `🟢 Easy` | 0 ms | 48.5 MB | 2026-03-24 |
-| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](./0705-design-hashset/solution.java) | `🟢 Easy` | 14 ms | 53.8 MB | 2026-10-29 |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](./0705-design-hashset/solution.java) | `🟢 Easy` | 13 ms | 53.9 MB | 2026-10-30 |
 | 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./0707-design-linked-list/solution.java) | `🟡 Medium` | 10 ms | 46.8 MB | 2026-10-12 |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |
