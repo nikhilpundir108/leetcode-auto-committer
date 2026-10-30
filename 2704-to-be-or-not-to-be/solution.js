@@ -2,9 +2,9 @@
  * Problem: To Be Or Not To Be (LeetCode #2704)
  * Difficulty: Easy
  * Language: JavaScript
- * Runtime: 40 ms (Beats 76.18%)
- * Memory: 53.3 MB (Beats 65.08%)
- * Solved At: 2026-10-04 16:23:06 IST
+ * Runtime: 43 ms (Beats 63.79%)
+ * Memory: 54.3 MB (Beats 24.88%)
+ * Solved At: 2026-10-30 23:57:22 IST
  * Link: https://leetcode.com/problems/to-be-or-not-to-be/
  */
 
@@ -13,20 +13,21 @@
  * @return {Object}
  */
 var expect = function (val) {
-    return {
-        toBe: function (value) {
-            if (val === value) {
+    let obj = {
+        toBe(val1) {
+            if (val1 === val) {
                 return true;
             }
-            throw new Error("Not Equal");
+            throw new Error ("Not Equal");
         },
-        notToBe: function (value) {
-            if (val !== value) {
+        notToBe(val1) {
+            if (val1 !== val) {
                 return true;
             }
-            throw new Error("Equal");
+            throw new Error ("Equal");
         }
     }
+    return obj;
 };
 
 /**

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **299** | **183** | **107** | **8** | **2026-10-30 17:22:20 IST** |
+| **303** | **187** | **107** | **8** | **2026-10-31 03:17:59 IST** |
 
 ---
 
@@ -35,7 +35,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./0021-merge-two-sorted-lists/solution.java) | `🟢 Easy` | 0 ms | 44.4 MB | 2026-07-28 |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./0022-generate-parentheses/solution.java) | `🟡 Medium` | 2 ms | 45 MB | 2026-10-02 |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./0024-swap-nodes-in-pairs/solution.java) | `🟡 Medium` | 0 ms | 43.2 MB | 2026-10-13 |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-09-02 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java), [JavaScript](./0026-remove-duplicates-from-sorted-array/solution.js) | `🟢 Easy` | 0 ms | 56.8 MB | 2026-10-31 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-15 |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./0031-next-permutation/solution.java) | `🟡 Medium` | 0 ms | 44.9 MB | 2026-03-17 |
@@ -287,10 +287,14 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Java](./2574-left-and-right-sum-differences/solution.java) | `🟢 Easy` | 2 ms | 45.9 MB | 2026-10-29 |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Java](./2586-count-the-number-of-vowel-strings-in-range/solution.java) | `🟢 Easy` | 1 ms | 46.5 MB | 2026-09-18 |
-| 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./2620-counter/solution.js) | `🟢 Easy` | 42 ms | 52.3 MB | 2026-09-23 |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./2620-counter/solution.js) | `🟢 Easy` | 49 ms | 54.4 MB | 2026-10-30 |
+| 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [JavaScript](./2626-array-reduce-transformation/solution.js) | `🟢 Easy` | 51 ms | 55 MB | 2026-10-31 |
+| 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [JavaScript](./2634-filter-elements-from-array/solution.js) | `🟢 Easy` | 48 ms | 54.2 MB | 2026-10-31 |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./2635-apply-transform-over-each-element-in-array/solution.js) | `🟢 Easy` | 47 ms | 54.6 MB | 2026-10-31 |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Java](./2639-find-the-width-of-columns-of-a-grid/solution.java) | `🟢 Easy` | 4 ms | 46.9 MB | 2026-09-09 |
-| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 43 ms | 54.7 MB | 2026-09-23 |
-| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 40 ms | 53.3 MB | 2026-10-04 |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [JavaScript](./2665-counter-ii/solution.js) | `🟢 Easy` | 49 ms | 54.5 MB | 2026-10-30 |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 50 ms | 54.4 MB | 2026-10-30 |
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 43 ms | 54.3 MB | 2026-10-30 |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Java](./2778-sum-of-squares-of-special-elements/solution.java) | `🟢 Easy` | 1 ms | 46.6 MB | 2026-10-11 |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Java](./2807-insert-greatest-common-divisors-in-linked-list/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-10-25 |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Java](./2816-double-a-number-represented-as-a-linked-list/solution.java) | `🟡 Medium` | 3 ms | 47.7 MB | 2026-10-23 |

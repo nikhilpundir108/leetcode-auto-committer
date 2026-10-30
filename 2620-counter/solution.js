@@ -2,9 +2,9 @@
  * Problem: Counter (LeetCode #2620)
  * Difficulty: Easy
  * Language: JavaScript
- * Runtime: 42 ms (Beats 59.69%)
- * Memory: 52.3 MB (Beats 94.67%)
- * Solved At: 2026-09-23 24:52:46 IST
+ * Runtime: 49 ms (Beats 17.43%)
+ * Memory: 54.4 MB (Beats 22.14%)
+ * Solved At: 2026-10-30 23:52:29 IST
  * Link: https://leetcode.com/problems/counter/
  */
 
@@ -12,12 +12,15 @@
  * @param {number} n
  * @return {Function} counter
  */
-var createCounter = function(n) {
-    
+
+function createCounter(n) {
     return function() {
         return n++;
-    };
-};
+    }
+    
+}
+
+
 
 /** 
  * const counter = createCounter(10)

@@ -48,7 +48,7 @@ Explanation: counter() initially returns -2. Then increases after each sebsequen
 ## 📈 Submission Details
 
 - **Language:** JavaScript
-- **Runtime:** 42 ms (Beats 59.69%)
-- **Memory:** 52.3 MB (Beats 94.67%)
-- **Submission Date:** 2026-09-23 24:52:46 IST
+- **Runtime:** 49 ms (Beats 17.43%)
+- **Memory:** 54.4 MB (Beats 22.14%)
+- **Submission Date:** 2026-10-30 23:52:29 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/counter/)
