@@ -2,9 +2,9 @@
  * Problem: Remove Duplicates from Sorted Array (LeetCode #26)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 1 ms (Beats 76.85%)
- * Memory: 46.8 MB (Beats 42.79%)
- * Solved At: 2026-09-02 10:21:08
+ * Runtime: 1 ms (Beats 81.53%)
+ * Memory: 45.8 MB (Beats 98.79%)
+ * Solved At: 2026-10-31 18:27:17 IST
  * Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  */
 
