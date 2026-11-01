@@ -65,7 +65,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 81.53%)
-- **Memory:** 45.8 MB (Beats 98.79%)
-- **Submission Date:** 2026-10-31 18:27:17 IST
+- **Runtime:** 1 ms (Beats 82.21%)
+- **Memory:** 46.1 MB (Beats 91.08%)
+- **Submission Date:** 2026-11-02 24:24:09 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)

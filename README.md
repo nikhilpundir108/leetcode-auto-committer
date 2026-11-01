@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **303** | **187** | **107** | **8** | **2026-10-31 22:01:45 IST** |
+| **303** | **187** | **107** | **8** | **2026-11-02 02:59:40 IST** |
 
 ---
 
@@ -35,7 +35,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./0021-merge-two-sorted-lists/solution.java) | `🟢 Easy` | 0 ms | 44.4 MB | 2026-07-28 |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./0022-generate-parentheses/solution.java) | `🟡 Medium` | 2 ms | 45 MB | 2026-10-02 |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./0024-swap-nodes-in-pairs/solution.java) | `🟡 Medium` | 0 ms | 43.2 MB | 2026-10-13 |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java), [JavaScript](./0026-remove-duplicates-from-sorted-array/solution.js) | `🟢 Easy` | 1 ms | 45.8 MB | 2026-10-31 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java), [JavaScript](./0026-remove-duplicates-from-sorted-array/solution.js) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-11-02 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-15 |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./0031-next-permutation/solution.java) | `🟡 Medium` | 0 ms | 44.9 MB | 2026-03-17 |
