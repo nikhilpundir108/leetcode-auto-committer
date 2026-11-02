@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-01T21:29:40.385Z",
-  "totalSolved": 303,
+  "lastSyncedAt": "2026-11-02T14:14:15.210Z",
+  "totalSolved": 305,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -3010,6 +3010,25 @@
           "memory": "196 MB",
           "memoryPercentile": "78.00%",
           "timestamp": 1792852867
+        }
+      ]
+    },
+    "4097": {
+      "frontendId": "4097",
+      "title": "Minimum Value of Merged Integers",
+      "titleSlug": "minimum-value-of-merged-integers",
+      "difficulty": "Easy",
+      "directory": "4097-minimum-value-of-merged-integers",
+      "submissions": [
+        {
+          "submissionId": "2187647936",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "5 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "66.67%",
+          "timestamp": 1793613141
         }
       ]
     },
@@ -8058,6 +8077,25 @@
           "timestamp": 1793341145
         }
       ]
+    },
+    "0725": {
+      "frontendId": "725",
+      "title": "Split Linked List in Parts",
+      "titleSlug": "split-linked-list-in-parts",
+      "difficulty": "Medium",
+      "directory": "0725-split-linked-list-in-parts",
+      "submissions": [
+        {
+          "submissionId": "2187639908",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "44.2 MB",
+          "memoryPercentile": "96.67%",
+          "timestamp": 1793612351
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8593,6 +8631,8 @@
     "2185753626",
     "2185758941",
     "2186190283",
-    "2187247857"
+    "2187247857",
+    "2187639908",
+    "2187647936"
   ]
 }

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **303** | **187** | **107** | **8** | **2026-11-02 02:59:40 IST** |
+| **305** | **188** | **108** | **8** | **2026-11-02 19:44:15 IST** |
 
 ---
 
@@ -182,6 +182,7 @@
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](./0709-to-lower-case/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-09-18 |
 | 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Java](./0713-subarray-product-less-than-k/solution.java) | `🟡 Medium` | 2 ms | 48.7 MB | 2026-09-17 |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./0724-find-pivot-index/solution.java) | `🟢 Easy` | 1 ms | 47.3 MB | 2026-09-02 |
+| 0725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Java](./0725-split-linked-list-in-parts/solution.java) | `🟡 Medium` | 0 ms | 44.2 MB | 2026-11-02 |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./0728-self-dividing-numbers/solution.java) | `🟢 Easy` | 2 ms | 42.7 MB | 2026-09-11 |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./0747-largest-number-at-least-twice-of-others/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-01 |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./0771-jewels-and-stones/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-18 |
@@ -321,6 +322,7 @@
 | 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [Java](./4083-minimum-deletions-to-make-array-sharp/solution.java) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-10-18 |
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [Java](./4088-difference-between-peaks-and-valleys/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-10-24 |
 | 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | [Java](./4089-count-subarrays-with-loose-bounds/solution.java) | `🟡 Medium` | 7 ms | 196 MB | 2026-10-24 |
+| 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Java](./4097-minimum-value-of-merged-integers/solution.java) | `🟢 Easy` | 5 ms | 45.9 MB | 2026-11-02 |
 | 101210 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Java](./101210-three-fibonacci-sum/solution.java) | `Unknown` | 1 ms | 42.4 MB | 2026-10-11 |
 
 ---
