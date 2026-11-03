@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **305** | **188** | **108** | **8** | **2026-11-02 19:44:15 IST** |
+| **310** | **191** | **110** | **8** | **2026-11-04 04:12:23 IST** |
 
 ---
 
@@ -157,7 +157,9 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./0450-delete-node-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 47.4 MB | 2026-10-09 |
+| 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./0453-minimum-moves-to-equal-array-elements/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-11-03 |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./0455-assign-cookies/solution.java) | `🟢 Easy` | 17 ms | 51 MB | 2026-10-20 |
+| 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./0462-minimum-moves-to-equal-array-elements-ii/solution.java) | `🟡 Medium` | 9 ms | 46.6 MB | 2026-11-03 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
@@ -313,9 +315,12 @@
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Java](./3723-maximize-sum-of-squares-of-digits/solution.java) | `🟡 Medium` | 124 ms | 47.7 MB | 2026-10-14 |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Java](./3727-maximum-alternating-sum-of-squares/solution.java) | `🟡 Medium` | 33 ms | 138.1 MB | 2026-10-13 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Java](./3731-find-missing-elements/solution.java) | `🟢 Easy` | 2 ms | 46.8 MB | 2026-09-19 |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Java](./3736-minimum-moves-to-equal-array-elements-iii/solution.java) | `🟢 Easy` | 2 ms | 45.7 MB | 2026-11-03 |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Java](./3783-mirror-distance-of-an-integer/solution.java) | `🟢 Easy` | 1 ms | 42.6 MB | 2026-09-08 |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [Java](./3870-count-commas-in-range/solution.java) | `🟢 Easy` | 1 ms | 42.7 MB | 2026-09-08 |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | [Java](./3871-count-commas-in-range-ii/solution.java) | `🟡 Medium` | 1 ms | 42 MB | 2026-09-09 |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [Java](./3903-smallest-stable-index-i/solution.java) | `🟢 Easy` | 1 ms | 45.9 MB | 2026-11-03 |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Java](./3963-create-grid-with-exactly-one-path/solution.java) | `🟢 Easy` | 2 ms | 46.2 MB | 2026-11-03 |
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Java](./3979-maximum-valid-pair-sum/solution.java) | `🟡 Medium` | 2 ms | 118.6 MB | 2026-10-28 |
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [Java](./4061-minimum-queen-moves-to-reach-target/solution.java) | `🟢 Easy` | 1 ms | 44.2 MB | 2026-09-27 |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [Java](./4065-rearrange-array-by-removing-distinct-values/solution.java) | `🟢 Easy` | 9 ms | 47.8 MB | 2026-09-27 |

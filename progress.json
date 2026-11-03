@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-02T14:14:15.210Z",
-  "totalSolved": 305,
+  "lastSyncedAt": "2026-11-03T22:42:23.206Z",
+  "totalSolved": 310,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2802,6 +2802,25 @@
         }
       ]
     },
+    "3736": {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "titleSlug": "minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "directory": "3736-minimum-moves-to-equal-array-elements-iii",
+      "submissions": [
+        {
+          "submissionId": "2188618997",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "32.65%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "91.53%",
+          "timestamp": 1793713003
+        }
+      ]
+    },
     "3783": {
       "frontendId": "3783",
       "title": "Mirror Distance of an Integer",
@@ -2866,6 +2885,74 @@
           "memory": "42 MB",
           "memoryPercentile": "99.12%",
           "timestamp": 1788929425
+        }
+      ]
+    },
+    "3903": {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "titleSlug": "smallest-stable-index-i",
+      "difficulty": "Easy",
+      "directory": "3903-smallest-stable-index-i",
+      "submissions": [
+        {
+          "submissionId": "2188645637",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "8.06%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "84.84%",
+          "timestamp": 1793715153
+        },
+        {
+          "submissionId": "2188649893",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "8.06%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "98.80%",
+          "timestamp": 1793715488
+        },
+        {
+          "submissionId": "2188651929",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.39%",
+          "memory": "45.9 MB",
+          "memoryPercentile": "97.69%",
+          "timestamp": 1793715644
+        }
+      ]
+    },
+    "3963": {
+      "frontendId": "3963",
+      "title": "Create Grid With Exactly One Path",
+      "titleSlug": "create-grid-with-exactly-one-path",
+      "difficulty": "Easy",
+      "directory": "3963-create-grid-with-exactly-one-path",
+      "submissions": [
+        {
+          "submissionId": "2188638048",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "76.48%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "21.04%",
+          "timestamp": 1793714549
+        },
+        {
+          "submissionId": "2188638734",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.61%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "35.42%",
+          "timestamp": 1793714605
         }
       ]
     },
@@ -8096,6 +8183,54 @@
           "timestamp": 1793612351
         }
       ]
+    },
+    "0453": {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "titleSlug": "minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "directory": "0453-minimum-moves-to-equal-array-elements",
+      "submissions": [
+        {
+          "submissionId": "2188610151",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "96.51%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "74.90%",
+          "timestamp": 1793712262
+        }
+      ]
+    },
+    "0462": {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "directory": "0462-minimum-moves-to-equal-array-elements-ii",
+      "submissions": [
+        {
+          "submissionId": "2188614425",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "11 ms",
+          "runtimePercentile": "45.49%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "72.83%",
+          "timestamp": 1793712618
+        },
+        {
+          "submissionId": "2188615753",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "87.76%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "55.69%",
+          "timestamp": 1793712732
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8633,6 +8768,15 @@
     "2186190283",
     "2187247857",
     "2187639908",
-    "2187647936"
+    "2187647936",
+    "2188610151",
+    "2188614425",
+    "2188615753",
+    "2188618997",
+    "2188638048",
+    "2188638734",
+    "2188645637",
+    "2188649893",
+    "2188651929"
   ]
 }
