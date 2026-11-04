@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-03T22:42:23.206Z",
-  "totalSolved": 310,
+  "lastSyncedAt": "2026-11-04T13:29:08.527Z",
+  "totalSolved": 311,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -8231,6 +8231,25 @@
           "timestamp": 1793712732
         }
       ]
+    },
+    "0005": {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "directory": "0005-longest-palindromic-substring",
+      "submissions": [
+        {
+          "submissionId": "2189247374",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "149 ms",
+          "runtimePercentile": "22.28%",
+          "memory": "43.2 MB",
+          "memoryPercentile": "83.25%",
+          "timestamp": 1793785183
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8777,6 +8796,7 @@
     "2188638734",
     "2188645637",
     "2188649893",
-    "2188651929"
+    "2188651929",
+    "2189247374"
   ]
 }

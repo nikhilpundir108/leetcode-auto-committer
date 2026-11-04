@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **310** | **191** | **110** | **8** | **2026-11-04 04:12:23 IST** |
+| **311** | **191** | **111** | **8** | **2026-11-04 18:59:08 IST** |
 
 ---
 
@@ -23,6 +23,7 @@
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./0002-add-two-numbers/solution.java) | `🟡 Medium` | 2 ms | 46 MB | 2026-10-18 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./0003-longest-substring-without-repeating-characters/solution.java) | `🟡 Medium` | 65 ms | 47.7 MB | 2026-08-24 |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./0004-median-of-two-sorted-arrays/solution.java) | `🔴 Hard` | 7 ms | 48.7 MB | 2025-11-03 |
+| 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./0005-longest-palindromic-substring/solution.java) | `🟡 Medium` | 149 ms | 43.2 MB | 2026-11-04 |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./0007-reverse-integer/solution.java) | `🟡 Medium` | 1 ms | 42.8 MB | 2026-09-20 |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./0008-string-to-integer-atoi/solution.java) | `🟡 Medium` | 2 ms | 43.4 MB | 2026-10-21 |
