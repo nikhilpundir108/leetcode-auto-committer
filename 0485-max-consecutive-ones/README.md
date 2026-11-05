@@ -38,7 +38,7 @@ Output: 2
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 3 ms (Beats 58.71%)
-- **Memory:** 52.7 MB (Beats 26.60%)
-- **Submission Date:** 2026-08-03 17:26:00
+- **Runtime:** 3 ms (Beats 58.81%)
+- **Memory:** 52 MB (Beats 84.75%)
+- **Submission Date:** 2026-11-05 20:40:58 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/max-consecutive-ones/)

@@ -2,9 +2,9 @@
  * Problem: Max Consecutive Ones (LeetCode #485)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 3 ms (Beats 58.71%)
- * Memory: 52.7 MB (Beats 26.60%)
- * Solved At: 2026-08-03 17:26:00
+ * Runtime: 3 ms (Beats 58.81%)
+ * Memory: 52 MB (Beats 84.75%)
+ * Solved At: 2026-11-05 20:40:58 IST
  * Link: https://leetcode.com/problems/max-consecutive-ones/
  */
 

@@ -2,9 +2,9 @@
  * Problem: Concatenation of Array (LeetCode #1929)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 1 ms (Beats 97.71%)
- * Memory: 47.1 MB (Beats 76.07%)
- * Solved At: 2026-09-02 08:58:04
+ * Runtime: 1 ms (Beats 97.58%)
+ * Memory: 46.8 MB (Beats 80.12%)
+ * Solved At: 2026-11-05 20:39:48 IST
  * Link: https://leetcode.com/problems/concatenation-of-array/
  */
 

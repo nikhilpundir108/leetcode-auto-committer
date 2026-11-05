@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-04T13:29:08.527Z",
-  "totalSolved": 311,
+  "lastSyncedAt": "2026-11-05T23:01:52.521Z",
+  "totalSolved": 313,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -362,6 +362,16 @@
           "memory": "45.7 MB",
           "memoryPercentile": "19.18%",
           "timestamp": 1789449818
+        },
+        {
+          "submissionId": "2190152687",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "85.04%",
+          "memory": "44.6 MB",
+          "memoryPercentile": "99.50%",
+          "timestamp": 1793892057
         }
       ]
     },
@@ -381,6 +391,45 @@
           "memory": "47 MB",
           "memoryPercentile": "71.17%",
           "timestamp": 1788949429
+        }
+      ]
+    },
+    "1385": {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "titleSlug": "find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "directory": "1385-find-the-distance-value-between-two-arrays",
+      "submissions": [
+        {
+          "submissionId": "2190139646",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "75.57%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "81.73%",
+          "timestamp": 1793890842
+        },
+        {
+          "submissionId": "2190142472",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "4 ms",
+          "runtimePercentile": "75.57%",
+          "memory": "45.7 MB",
+          "memoryPercentile": "92.66%",
+          "timestamp": 1793891098
+        },
+        {
+          "submissionId": "2190143076",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.79%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "69.20%",
+          "timestamp": 1793891153
         }
       ]
     },
@@ -505,6 +554,16 @@
           "memory": "46.8 MB",
           "memoryPercentile": "7.40%",
           "timestamp": 1788258576
+        },
+        {
+          "submissionId": "2190145966",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46 MB",
+          "memoryPercentile": "85.91%",
+          "timestamp": 1793891427
         }
       ]
     },
@@ -1217,6 +1276,16 @@
           "memory": "47.1 MB",
           "memoryPercentile": "76.07%",
           "timestamp": 1788339484
+        },
+        {
+          "submissionId": "2190145533",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "97.58%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "80.12%",
+          "timestamp": 1793891388
         }
       ]
     },
@@ -3357,6 +3426,16 @@
           "memory": "73.8 MB",
           "memoryPercentile": "32.95%",
           "timestamp": 1789250019
+        },
+        {
+          "submissionId": "2190155698",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "21 ms",
+          "runtimePercentile": "21.72%",
+          "memory": "73.9 MB",
+          "memoryPercentile": "27.52%",
+          "timestamp": 1793892329
         }
       ]
     },
@@ -5065,6 +5144,16 @@
           "memory": "52.7 MB",
           "memoryPercentile": "26.60%",
           "timestamp": 1785777960
+        },
+        {
+          "submissionId": "2190146326",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "3 ms",
+          "runtimePercentile": "58.81%",
+          "memory": "52 MB",
+          "memoryPercentile": "84.75%",
+          "timestamp": 1793891458
         }
       ]
     },
@@ -8250,6 +8339,25 @@
           "timestamp": 1793785183
         }
       ]
+    },
+    "0645": {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "titleSlug": "set-mismatch",
+      "difficulty": "Easy",
+      "directory": "0645-set-mismatch",
+      "submissions": [
+        {
+          "submissionId": "2190151730",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "95.88%",
+          "memory": "47.3 MB",
+          "memoryPercentile": "71.48%",
+          "timestamp": 1793891967
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8797,6 +8905,15 @@
     "2188645637",
     "2188649893",
     "2188651929",
-    "2189247374"
+    "2189247374",
+    "2190139646",
+    "2190142472",
+    "2190143076",
+    "2190145533",
+    "2190145966",
+    "2190146326",
+    "2190151730",
+    "2190152687",
+    "2190155698"
   ]
 }

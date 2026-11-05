@@ -2,9 +2,9 @@
  * Problem: How Many Numbers Are Smaller Than the Current Number (LeetCode #1365)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 7 ms (Beats 83.53%)
- * Memory: 45.7 MB (Beats 19.18%)
- * Solved At: 2026-09-15 10:53:38 IST
+ * Runtime: 7 ms (Beats 85.04%)
+ * Memory: 44.6 MB (Beats 99.50%)
+ * Solved At: 2026-11-05 20:50:57 IST
  * Link: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
  */
 

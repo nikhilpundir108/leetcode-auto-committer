@@ -49,7 +49,7 @@ Explanation: The array ans is formed as follows:
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 97.71%)
-- **Memory:** 47.1 MB (Beats 76.07%)
-- **Submission Date:** 2026-09-02 08:58:04
+- **Runtime:** 1 ms (Beats 97.58%)
+- **Memory:** 46.8 MB (Beats 80.12%)
+- **Submission Date:** 2026-11-05 20:39:48 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/concatenation-of-array/)

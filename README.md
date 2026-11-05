@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **311** | **191** | **111** | **8** | **2026-11-04 18:59:08 IST** |
+| **313** | **193** | **111** | **8** | **2026-11-06 04:31:52 IST** |
 
 ---
 
@@ -156,12 +156,12 @@
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./0415-add-strings/solution.java) | `🟢 Easy` | 2 ms | 44 MB | 2026-09-20 |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./0438-find-all-anagrams-in-a-string/solution.java) | `🟡 Medium` | 63 ms | 48.1 MB | 2026-10-07 |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./0441-arranging-coins/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-20 |
-| 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 19 ms | 73.8 MB | 2026-09-13 |
+| 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./0448-find-all-numbers-disappeared-in-an-array/solution.java) | `🟢 Easy` | 21 ms | 73.9 MB | 2026-11-05 |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./0450-delete-node-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 47.4 MB | 2026-10-09 |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./0453-minimum-moves-to-equal-array-elements/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-11-03 |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./0455-assign-cookies/solution.java) | `🟢 Easy` | 17 ms | 51 MB | 2026-10-20 |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./0462-minimum-moves-to-equal-array-elements-ii/solution.java) | `🟡 Medium` | 9 ms | 46.6 MB | 2026-11-03 |
-| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52.7 MB | 2026-08-03 |
+| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52 MB | 2026-11-05 |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
 | 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./0498-diagonal-traverse/solution.java) | `🟡 Medium` | 14 ms | 48.3 MB | 2026-09-11 |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./0500-keyboard-row/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-30 |
@@ -175,6 +175,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./0567-permutation-in-string/solution.java) | `🟡 Medium` | 6 ms | 44 MB | 2026-09-19 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
+| 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./0645-set-mismatch/solution.java) | `🟢 Easy` | 2 ms | 47.3 MB | 2026-11-05 |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](./0661-image-smoother/solution.java) | `🟢 Easy` | 7 ms | 47.7 MB | 2026-09-10 |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Java](./0678-valid-parenthesis-string/solution.java) | `🟡 Medium` | 0 ms | 43 MB | 2026-10-04 |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./0700-search-in-a-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 46.6 MB | 2026-09-29 |
@@ -222,14 +223,15 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./1342-number-of-steps-to-reduce-a-number-to-zero/solution.java) | `🟢 Easy` | 0 ms | 42.6 MB | 2026-09-20 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) | `🟡 Medium` | 3 ms | 71.7 MB | 2026-09-19 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./1351-count-negative-numbers-in-a-sorted-matrix/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-15 |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 45.7 MB | 2026-09-15 |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 44.6 MB | 2026-11-05 |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Java](./1380-lucky-numbers-in-a-matrix/solution.java) | `🟢 Easy` | 3 ms | 47 MB | 2026-09-09 |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Java](./1385-find-the-distance-value-between-two-arrays/solution.java) | `🟢 Easy` | 2 ms | 46.1 MB | 2026-11-05 |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Java](./1399-count-largest-group/solution.java) | `🟢 Easy` | 8 ms | 43.2 MB | 2026-09-13 |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Java](./1401-circle-and-rectangle-overlapping/solution.java) | `🟡 Medium` | 0 ms | 42 MB | 2026-09-19 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./1431-kids-with-the-greatest-number-of-candies/solution.java) | `🟢 Easy` | 1 ms | 44 MB | 2026-09-11 |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](./1436-destination-city/solution.java) | `🟢 Easy` | 2 ms | 44.9 MB | 2026-09-11 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Java](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java) | `🟡 Medium` | 12 ms | 46.7 MB | 2026-09-19 |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46.8 MB | 2026-09-01 |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46 MB | 2026-11-05 |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Java](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) | `🟡 Medium` | 5 ms | 91.3 MB | 2026-09-29 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./1480-running-sum-of-1d-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-01 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Java](./1482-minimum-number-of-days-to-make-m-bouquets/solution.java) | `🟡 Medium` | 16 ms | 82.6 MB | 2026-09-03 |
@@ -257,7 +259,7 @@
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Java](./1848-minimum-distance-to-the-target-element/solution.java) | `🟢 Easy` | 1 ms | 45.1 MB | 2026-09-08 |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Java](./1903-largest-odd-number-in-string/solution.java) | `🟢 Easy` | 1 ms | 47 MB | 2026-09-10 |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Java](./1910-remove-all-occurrences-of-a-substring/solution.java) | `🟡 Medium` | 8 ms | 44.9 MB | 2025-10-05 |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./1929-concatenation-of-array/solution.java) | `🟢 Easy` | 1 ms | 47.1 MB | 2026-09-02 |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./1929-concatenation-of-array/solution.java) | `🟢 Easy` | 1 ms | 46.8 MB | 2026-11-05 |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Java](./1935-maximum-number-of-words-you-can-type/solution.java) | `🟢 Easy` | 3 ms | 43.4 MB | 2026-09-13 |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Java](./1979-find-greatest-common-divisor-of-array/solution.java) | `🟢 Easy` | 0 ms | 44.8 MB | 2026-09-03 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Java](./1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.java) | `🟢 Easy` | 8 ms | 47.1 MB | 2026-09-17 |

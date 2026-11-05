@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 0 ms (Beats 100.00%)
- * Memory: 46.8 MB (Beats 7.40%)
- * Solved At: 2026-09-01 10:29:36
+ * Memory: 46 MB (Beats 85.91%)
+ * Solved At: 2026-11-05 20:40:27 IST
  * Link: https://leetcode.com/problems/shuffle-the-array/
  */
 
