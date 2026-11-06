@@ -41,7 +41,7 @@ Explanation: There is no way to reorder the elements to obtain an arithmetic pro
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 5 ms (Beats 83.20%)
-- **Memory:** 44.1 MB (Beats 57.59%)
-- **Submission Date:** 2026-09-17 11:31:47 IST
+- **Runtime:** 5 ms (Beats 84.01%)
+- **Memory:** 43.3 MB (Beats 96.27%)
+- **Submission Date:** 2026-11-06 14:15:16 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)

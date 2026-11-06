@@ -2,9 +2,9 @@
  * Problem: Can Make Arithmetic Progression From Sequence (LeetCode #1502)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 5 ms (Beats 83.20%)
- * Memory: 44.1 MB (Beats 57.59%)
- * Solved At: 2026-09-17 11:31:47 IST
+ * Runtime: 5 ms (Beats 84.01%)
+ * Memory: 43.3 MB (Beats 96.27%)
+ * Solved At: 2026-11-06 14:15:16 IST
  * Link: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
  */
 

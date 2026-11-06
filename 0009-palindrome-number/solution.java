@@ -2,9 +2,9 @@
  * Problem: Palindrome Number (LeetCode #9)
  * Difficulty: Easy
  * Language: Java
- * Runtime: 6 ms (Beats 22.60%)
- * Memory: 46 MB (Beats 33.33%)
- * Solved At: 2026-09-20 02:50:07 IST
+ * Runtime: 15 ms (Beats 13.37%)
+ * Memory: 45.1 MB (Beats 97.88%)
+ * Solved At: 2026-11-06 14:18:22 IST
  * Link: https://leetcode.com/problems/palindrome-number/
  */
 

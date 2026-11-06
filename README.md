@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **313** | **193** | **111** | **8** | **2026-11-06 04:31:52 IST** |
+| **313** | **193** | **111** | **8** | **2026-11-06 18:57:22 IST** |
 
 ---
 
@@ -27,7 +27,7 @@
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./0006-zigzag-conversion/solution.java) | `🟡 Medium` | 8 ms | 47.2 MB | 2026-09-11 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./0007-reverse-integer/solution.java) | `🟡 Medium` | 1 ms | 42.8 MB | 2026-09-20 |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./0008-string-to-integer-atoi/solution.java) | `🟡 Medium` | 2 ms | 43.4 MB | 2026-10-21 |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./0009-palindrome-number/solution.java) | `🟢 Easy` | 6 ms | 46 MB | 2026-09-20 |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./0009-palindrome-number/solution.java) | `🟢 Easy` | 15 ms | 45.1 MB | 2026-11-06 |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./0011-container-with-most-water/solution.java) | `🟡 Medium` | 5 ms | 77.2 MB | 2026-08-19 |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./0014-longest-common-prefix/solution.java) | `🟢 Easy` | 1 ms | 43.1 MB | 2026-07-31 |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](./0015-3sum/solution.java) | `🟡 Medium` | 30 ms | 59.2 MB | 2026-09-05 |
@@ -235,7 +235,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Java](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) | `🟡 Medium` | 5 ms | 91.3 MB | 2026-09-29 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](./1480-running-sum-of-1d-array/solution.java) | `🟢 Easy` | 0 ms | 43.9 MB | 2026-09-01 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Java](./1482-minimum-number-of-days-to-make-m-bouquets/solution.java) | `🟡 Medium` | 16 ms | 82.6 MB | 2026-09-03 |
-| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](./1502-can-make-arithmetic-progression-from-sequence/solution.java) | `🟢 Easy` | 5 ms | 44.1 MB | 2026-09-17 |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Java](./1502-can-make-arithmetic-progression-from-sequence/solution.java) | `🟢 Easy` | 5 ms | 43.3 MB | 2026-11-06 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](./1512-number-of-good-pairs/solution.java) | `🟢 Easy` | 1 ms | 42.9 MB | 2026-09-07 |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](./1539-kth-missing-positive-number/solution.java) | `🟢 Easy` | 0 ms | 44.7 MB | 2026-04-09 |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Java](./1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) | `🟡 Medium` | 8 ms | 47.6 MB | 2026-10-09 |
