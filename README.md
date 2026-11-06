@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **313** | **193** | **111** | **8** | **2026-11-06 18:57:22 IST** |
+| **315** | **193** | **113** | **8** | **2026-11-07 04:01:59 IST** |
 
 ---
 
@@ -94,6 +94,7 @@
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./0143-reorder-list/solution.java) | `🟡 Medium` | 2 ms | 49.5 MB | 2026-07-28 |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./0144-binary-tree-preorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./0145-binary-tree-postorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./0146-lru-cache/solution.java) | `🟡 Medium` | 15 ms | 58 MB | 2026-11-06 |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](./0148-sort-list/solution.java) | `🟡 Medium` | 11 ms | 59.5 MB | 2026-07-24 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./0152-maximum-product-subarray/solution.java) | `🟡 Medium` | 2 ms | 47.1 MB | 2026-09-23 |
@@ -230,6 +231,7 @@
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Java](./1401-circle-and-rectangle-overlapping/solution.java) | `🟡 Medium` | 0 ms | 42 MB | 2026-09-19 |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./1431-kids-with-the-greatest-number-of-candies/solution.java) | `🟢 Easy` | 1 ms | 44 MB | 2026-09-11 |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Java](./1436-destination-city/solution.java) | `🟢 Easy` | 2 ms | 44.9 MB | 2026-09-11 |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Java](./1441-build-an-array-with-stack-operations/solution.java) | `🟡 Medium` | 0 ms | 42.9 MB | 2026-11-07 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Java](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.java) | `🟡 Medium` | 12 ms | 46.7 MB | 2026-09-19 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](./1470-shuffle-the-array/solution.java) | `🟢 Easy` | 0 ms | 46 MB | 2026-11-05 |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Java](./1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) | `🟡 Medium` | 5 ms | 91.3 MB | 2026-09-29 |

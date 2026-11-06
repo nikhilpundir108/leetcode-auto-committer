@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-06T13:27:22.218Z",
-  "totalSolved": 313,
+  "lastSyncedAt": "2026-11-06T22:31:59.476Z",
+  "totalSolved": 315,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -506,6 +506,25 @@
           "memory": "44.9 MB",
           "memoryPercentile": "62.12%",
           "timestamp": 1789107882
+        }
+      ]
+    },
+    "1441": {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "titleSlug": "build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "directory": "1441-build-an-array-with-stack-operations",
+      "submissions": [
+        {
+          "submissionId": "2190941862",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.9 MB",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1793995410
         }
       ]
     },
@@ -8378,6 +8397,25 @@
           "timestamp": 1793891967
         }
       ]
+    },
+    "0146": {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "titleSlug": "lru-cache",
+      "difficulty": "Medium",
+      "directory": "0146-lru-cache",
+      "submissions": [
+        {
+          "submissionId": "2190758823",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "52.98%",
+          "memory": "58 MB",
+          "memoryPercentile": "85.97%",
+          "timestamp": 1793976668
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8936,6 +8974,8 @@
     "2190152687",
     "2190155698",
     "2190592625",
-    "2190593970"
+    "2190593970",
+    "2190758823",
+    "2190941862"
   ]
 }
