@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **315** | **193** | **113** | **8** | **2026-11-07 04:01:59 IST** |
+| **316** | **193** | **114** | **8** | **2026-11-08 02:44:00 IST** |
 
 ---
 
@@ -96,6 +96,7 @@
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./0145-binary-tree-postorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./0146-lru-cache/solution.java) | `🟡 Medium` | 15 ms | 58 MB | 2026-11-06 |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](./0148-sort-list/solution.java) | `🟡 Medium` | 11 ms | 59.5 MB | 2026-07-24 |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./0150-evaluate-reverse-polish-notation/solution.java) | `🟡 Medium` | 7 ms | 44.6 MB | 2026-11-07 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./0152-maximum-product-subarray/solution.java) | `🟡 Medium` | 2 ms | 47.1 MB | 2026-09-23 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./0153-find-minimum-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-08-06 |

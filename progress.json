@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-06T22:31:59.476Z",
-  "totalSolved": 315,
+  "lastSyncedAt": "2026-11-07T21:14:00.772Z",
+  "totalSolved": 316,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -8416,6 +8416,25 @@
           "timestamp": 1793976668
         }
       ]
+    },
+    "0150": {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "titleSlug": "evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "directory": "0150-evaluate-reverse-polish-notation",
+      "submissions": [
+        {
+          "submissionId": "2191295005",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "7 ms",
+          "runtimePercentile": "46.62%",
+          "memory": "44.6 MB",
+          "memoryPercentile": "96.73%",
+          "timestamp": 1794059254
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -8976,6 +8995,7 @@
     "2190592625",
     "2190593970",
     "2190758823",
-    "2190941862"
+    "2190941862",
+    "2191295005"
   ]
 }
