@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **327** | **200** | **118** | **8** | **2026-11-08 17:57:52 IST** |
+| **330** | **203** | **118** | **8** | **2026-11-09 02:58:58 IST** |
 
 ---
 
@@ -298,6 +298,7 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Java](./2574-left-and-right-sum-differences/solution.java) | `🟢 Easy` | 2 ms | 45.9 MB | 2026-10-29 |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Java](./2586-count-the-number-of-vowel-strings-in-range/solution.java) | `🟢 Easy` | 1 ms | 46.5 MB | 2026-09-18 |
+| 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | [JavaScript](./2619-array-prototype-last/solution.js) | `🟢 Easy` | 44 ms | 53.9 MB | 2026-11-08 |
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./2620-counter/solution.js) | `🟢 Easy` | 49 ms | 54.4 MB | 2026-10-30 |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [JavaScript](./2621-sleep/solution.js) | `🟢 Easy` | 42 ms | 53.9 MB | 2026-11-08 |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](./2623-memoize/solution.js) | `🟡 Medium` | 231 ms | 94.6 MB | 2026-11-08 |
@@ -310,11 +311,13 @@
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | [JavaScript](./2665-counter-ii/solution.js) | `🟢 Easy` | 49 ms | 54.5 MB | 2026-10-30 |
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | [JavaScript](./2666-allow-one-function-call/solution.js) | `🟢 Easy` | 40 ms | 54.6 MB | 2026-11-08 |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | [JavaScript](./2667-create-hello-world-function/solution.js) | `🟢 Easy` | 50 ms | 54.4 MB | 2026-10-30 |
+| 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | [JavaScript](./2677-chunk-array/solution.js) | `🟢 Easy` | 51 ms | 57.8 MB | 2026-11-08 |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./2703-return-length-of-arguments-passed/solution.js) | `🟢 Easy` | 49 ms | 54.6 MB | 2026-11-08 |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 43 ms | 54.3 MB | 2026-10-30 |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [JavaScript](./2715-timeout-cancellation/solution.js) | `🟢 Easy` | 62 ms | 54.7 MB | 2026-11-08 |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [JavaScript](./2723-add-two-promises/solution.js) | `🟢 Easy` | 59 ms | 54.7 MB | 2026-11-08 |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [JavaScript](./2725-interval-cancellation/solution.js) | `🟢 Easy` | 54 ms | 55.2 MB | 2026-11-08 |
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [JavaScript](./2727-is-object-empty/solution.js) | `🟢 Easy` | 49 ms | 54.2 MB | 2026-11-08 |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Java](./2778-sum-of-squares-of-special-elements/solution.java) | `🟢 Easy` | 1 ms | 46.6 MB | 2026-10-11 |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Java](./2807-insert-greatest-common-divisors-in-linked-list/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-10-25 |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Java](./2816-double-a-number-represented-as-a-linked-list/solution.java) | `🟡 Medium` | 3 ms | 47.7 MB | 2026-10-23 |
