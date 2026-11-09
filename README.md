@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **330** | **203** | **118** | **8** | **2026-11-09 02:58:58 IST** |
+| **336** | **205** | **122** | **8** | **2026-11-09 20:12:26 IST** |
 
 ---
 
@@ -302,8 +302,10 @@
 | 2620 | [Counter](https://leetcode.com/problems/counter/) | [JavaScript](./2620-counter/solution.js) | `🟢 Easy` | 49 ms | 54.4 MB | 2026-10-30 |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [JavaScript](./2621-sleep/solution.js) | `🟢 Easy` | 42 ms | 53.9 MB | 2026-11-08 |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](./2623-memoize/solution.js) | `🟡 Medium` | 231 ms | 94.6 MB | 2026-11-08 |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | [JavaScript](./2625-flatten-deeply-nested-array/solution.js) | `🟡 Medium` | 155 ms | 90.9 MB | 2026-11-09 |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | [JavaScript](./2626-array-reduce-transformation/solution.js) | `🟢 Easy` | 51 ms | 55 MB | 2026-10-31 |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | [JavaScript](./2629-function-composition/solution.js) | `🟢 Easy` | 59 ms | 55.8 MB | 2026-11-08 |
+| 2631 | [Group By](https://leetcode.com/problems/group-by/) | [JavaScript](./2631-group-by/solution.js) | `🟡 Medium` | 103 ms | 77.8 MB | 2026-11-09 |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | [JavaScript](./2634-filter-elements-from-array/solution.js) | `🟢 Easy` | 48 ms | 54.2 MB | 2026-10-31 |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [JavaScript](./2635-apply-transform-over-each-element-in-array/solution.js) | `🟢 Easy` | 47 ms | 54.6 MB | 2026-10-31 |
 | 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [JavaScript](./2637-promise-time-limit/solution.js) | `🟡 Medium` | 0 ms | 55.1 MB | 2026-11-08 |
@@ -314,9 +316,13 @@
 | 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | [JavaScript](./2677-chunk-array/solution.js) | `🟢 Easy` | 51 ms | 57.8 MB | 2026-11-08 |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./2703-return-length-of-arguments-passed/solution.js) | `🟢 Easy` | 49 ms | 54.6 MB | 2026-11-08 |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [JavaScript](./2704-to-be-or-not-to-be/solution.js) | `🟢 Easy` | 43 ms | 54.3 MB | 2026-10-30 |
+| 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | [JavaScript](./2705-compact-object/solution.js) | `🟡 Medium` | 77 ms | 66.2 MB | 2026-11-09 |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | [JavaScript](./2715-timeout-cancellation/solution.js) | `🟢 Easy` | 62 ms | 54.7 MB | 2026-11-08 |
+| 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [JavaScript](./2722-join-two-arrays-by-id/solution.js) | `🟡 Medium` | 346 ms | 100.4 MB | 2026-11-09 |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | [JavaScript](./2723-add-two-promises/solution.js) | `🟢 Easy` | 59 ms | 54.7 MB | 2026-11-08 |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | [JavaScript](./2724-sort-by/solution.js) | `🟢 Easy` | 109 ms | 68.9 MB | 2026-11-09 |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | [JavaScript](./2725-interval-cancellation/solution.js) | `🟢 Easy` | 54 ms | 55.2 MB | 2026-11-08 |
+| 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [JavaScript](./2726-calculator-with-method-chaining/solution.js) | `🟢 Easy` | 49 ms | 54.2 MB | 2026-11-09 |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [JavaScript](./2727-is-object-empty/solution.js) | `🟢 Easy` | 49 ms | 54.2 MB | 2026-11-08 |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Java](./2778-sum-of-squares-of-special-elements/solution.java) | `🟢 Easy` | 1 ms | 46.6 MB | 2026-10-11 |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Java](./2807-insert-greatest-common-divisors-in-linked-list/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-10-25 |

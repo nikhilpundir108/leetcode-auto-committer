@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-08T21:28:58.937Z",
-  "totalSolved": 330,
+  "lastSyncedAt": "2026-11-09T14:42:26.821Z",
+  "totalSolved": 336,
   "solvedProblems": {
     "1004": {
       "frontendId": "1004",
@@ -2330,6 +2330,25 @@
         }
       ]
     },
+    "2625": {
+      "frontendId": "2625",
+      "title": "Flatten Deeply Nested Array",
+      "titleSlug": "flatten-deeply-nested-array",
+      "difficulty": "Medium",
+      "directory": "2625-flatten-deeply-nested-array",
+      "submissions": [
+        {
+          "submissionId": "2192437889",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "155 ms",
+          "runtimePercentile": "34.10%",
+          "memory": "90.9 MB",
+          "memoryPercentile": "33.74%",
+          "timestamp": 1794223455
+        }
+      ]
+    },
     "2626": {
       "frontendId": "2626",
       "title": "Array Reduce Transformation",
@@ -2375,6 +2394,25 @@
           "memory": "55.8 MB",
           "memoryPercentile": "27.54%",
           "timestamp": 1794130831
+        }
+      ]
+    },
+    "2631": {
+      "frontendId": "2631",
+      "title": "Group By",
+      "titleSlug": "group-by",
+      "difficulty": "Medium",
+      "directory": "2631-group-by",
+      "submissions": [
+        {
+          "submissionId": "2192422894",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "103 ms",
+          "runtimePercentile": "77.61%",
+          "memory": "77.8 MB",
+          "memoryPercentile": "77.86%",
+          "timestamp": 1794221548
         }
       ]
     },
@@ -2638,6 +2676,25 @@
         }
       ]
     },
+    "2705": {
+      "frontendId": "2705",
+      "title": "Compact Object",
+      "titleSlug": "compact-object",
+      "difficulty": "Medium",
+      "directory": "2705-compact-object",
+      "submissions": [
+        {
+          "submissionId": "2192446168",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "77 ms",
+          "runtimePercentile": "33.21%",
+          "memory": "66.2 MB",
+          "memoryPercentile": "38.01%",
+          "timestamp": 1794224532
+        }
+      ]
+    },
     "2715": {
       "frontendId": "2715",
       "title": "Timeout Cancellation",
@@ -2654,6 +2711,45 @@
           "memory": "54.7 MB",
           "memoryPercentile": "37.38%",
           "timestamp": 1794137402
+        }
+      ]
+    },
+    "2722": {
+      "frontendId": "2722",
+      "title": "Join Two Arrays by ID",
+      "titleSlug": "join-two-arrays-by-id",
+      "difficulty": "Medium",
+      "directory": "2722-join-two-arrays-by-id",
+      "submissions": [
+        {
+          "submissionId": "2192429990",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "322 ms",
+          "runtimePercentile": "37.37%",
+          "memory": "103.7 MB",
+          "memoryPercentile": "38.38%",
+          "timestamp": 1794222436
+        },
+        {
+          "submissionId": "2192430212",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "343 ms",
+          "runtimePercentile": "21.84%",
+          "memory": "101.6 MB",
+          "memoryPercentile": "62.53%",
+          "timestamp": 1794222466
+        },
+        {
+          "submissionId": "2192430675",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "346 ms",
+          "runtimePercentile": "20.24%",
+          "memory": "100.4 MB",
+          "memoryPercentile": "73.85%",
+          "timestamp": 1794222525
         }
       ]
     },
@@ -2696,6 +2792,25 @@
         }
       ]
     },
+    "2724": {
+      "frontendId": "2724",
+      "title": "Sort By",
+      "titleSlug": "sort-by",
+      "difficulty": "Easy",
+      "directory": "2724-sort-by",
+      "submissions": [
+        {
+          "submissionId": "2192417485",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "109 ms",
+          "runtimePercentile": "69.73%",
+          "memory": "68.9 MB",
+          "memoryPercentile": "85.11%",
+          "timestamp": 1794220866
+        }
+      ]
+    },
     "2725": {
       "frontendId": "2725",
       "title": "Interval Cancellation",
@@ -2712,6 +2827,35 @@
           "memory": "55.2 MB",
           "memoryPercentile": "16.78%",
           "timestamp": 1794137835
+        }
+      ]
+    },
+    "2726": {
+      "frontendId": "2726",
+      "title": "Calculator with Method Chaining",
+      "titleSlug": "calculator-with-method-chaining",
+      "difficulty": "Easy",
+      "directory": "2726-calculator-with-method-chaining",
+      "submissions": [
+        {
+          "submissionId": "2192481666",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "52 ms",
+          "runtimePercentile": "6.29%",
+          "memory": "54.6 MB",
+          "memoryPercentile": "18.87%",
+          "timestamp": 1794228842
+        },
+        {
+          "submissionId": "2192483246",
+          "language": "javascript",
+          "file": "solution.js",
+          "runtime": "49 ms",
+          "runtimePercentile": "16.92%",
+          "memory": "54.2 MB",
+          "memoryPercentile": "35.36%",
+          "timestamp": 1794229027
         }
       ]
     },
@@ -9342,6 +9486,15 @@
     "2191962980",
     "2191964576",
     "2191964812",
-    "2191969145"
+    "2191969145",
+    "2192417485",
+    "2192422894",
+    "2192429990",
+    "2192430212",
+    "2192430675",
+    "2192437889",
+    "2192446168",
+    "2192481666",
+    "2192483246"
   ]
 }
