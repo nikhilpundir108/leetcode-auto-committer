@@ -48,7 +48,7 @@ Output: [1,2]
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 14 ms (Beats 43.79%)
-- **Memory:** 53 MB (Beats 17.20%)
-- **Submission Date:** 2026-09-15 15:36:07 IST
+- **Runtime:** 15 ms (Beats 29.45%)
+- **Memory:** 52.7 MB (Beats 23.40%)
+- **Submission Date:** 2026-11-10 15:12:19 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/majority-element-ii/)
