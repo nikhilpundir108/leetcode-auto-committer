@@ -47,7 +47,7 @@ Explanation: 14 is not ugly since it includes the prime factor 7.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 99.11%)
-- **Memory:** 42.4 MB (Beats 84.69%)
-- **Submission Date:** 2026-09-20 11:15:42 IST
+- **Runtime:** 1 ms (Beats 99.45%)
+- **Memory:** 42.1 MB (Beats 80.78%)
+- **Submission Date:** 2026-11-13 19:57:03 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/ugly-number/)

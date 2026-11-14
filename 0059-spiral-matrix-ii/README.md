@@ -36,6 +36,6 @@ Output: [[1]]
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 42.8 MB (Beats 62.96%)
-- **Submission Date:** 2026-08-17 18:14:53
+- **Memory:** 42.3 MB (Beats 87.42%)
+- **Submission Date:** 2026-11-11 14:19:22 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/spiral-matrix-ii/)

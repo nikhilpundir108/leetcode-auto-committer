@@ -52,7 +52,7 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 10 ms (Beats 25.67%)
-- **Memory:** 41.7 MB (Beats 96.50%)
-- **Submission Date:** 2026-09-25 16:15:32 IST
+- **Runtime:** 10 ms (Beats 25.96%)
+- **Memory:** 41.8 MB (Beats 56.87%)
+- **Submission Date:** 2026-11-11 11:56:51 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/fibonacci-number/)

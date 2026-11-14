@@ -1,7 +1,26 @@
 {
-  "lastSyncedAt": "2026-11-10T13:57:50.385Z",
-  "totalSolved": 336,
+  "lastSyncedAt": "2026-11-14T19:22:44.704Z",
+  "totalSolved": 350,
   "solvedProblems": {
+    "1002": {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "titleSlug": "find-common-characters",
+      "difficulty": "Easy",
+      "directory": "1002-find-common-characters",
+      "submissions": [
+        {
+          "submissionId": "2196133502",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "20.61%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "12.17%",
+          "timestamp": 1794681507
+        }
+      ]
+    },
     "1004": {
       "frontendId": "1004",
       "title": "Max Consecutive Ones III",
@@ -66,6 +85,25 @@
           "memory": "49.9 MB",
           "memoryPercentile": "87.75%",
           "timestamp": 1775718283
+        }
+      ]
+    },
+    "1015": {
+      "frontendId": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "titleSlug": "smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "directory": "1015-smallest-integer-divisible-by-k",
+      "submissions": [
+        {
+          "submissionId": "2195349805",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.60%",
+          "memory": "41.8 MB",
+          "memoryPercentile": "68.72%",
+          "timestamp": 1794581211
         }
       ]
     },
@@ -210,6 +248,25 @@
           "memory": "43.6 MB",
           "memoryPercentile": "69.85%",
           "timestamp": 1789103409
+        }
+      ]
+    },
+    "1221": {
+      "frontendId": "1221",
+      "title": "Split a String in Balanced Strings",
+      "titleSlug": "split-a-string-in-balanced-strings",
+      "difficulty": "Easy",
+      "directory": "1221-split-a-string-in-balanced-strings",
+      "submissions": [
+        {
+          "submissionId": "2196135911",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "41.9 MB",
+          "memoryPercentile": "97.76%",
+          "timestamp": 1794681812
         }
       ]
     },
@@ -2099,6 +2156,25 @@
         }
       ]
     },
+    "2485": {
+      "frontendId": "2485",
+      "title": "Find the Pivot Integer",
+      "titleSlug": "find-the-pivot-integer",
+      "difficulty": "Easy",
+      "directory": "2485-find-the-pivot-integer",
+      "submissions": [
+        {
+          "submissionId": "2195216288",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "38 ms",
+          "runtimePercentile": "9.13%",
+          "memory": "41.8 MB",
+          "memoryPercentile": "79.57%",
+          "timestamp": 1794565680
+        }
+      ]
+    },
     "2520": {
       "frontendId": "2520",
       "title": "Count the Digits That Divide a Number",
@@ -3062,6 +3138,25 @@
         }
       ]
     },
+    "3105": {
+      "frontendId": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "titleSlug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "directory": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "submissions": [
+        {
+          "submissionId": "2194508468",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.95%",
+          "memory": "43.8 MB",
+          "memoryPercentile": "76.65%",
+          "timestamp": 1794476646
+        }
+      ]
+    },
     "3120": {
       "frontendId": "3120",
       "title": "Count the Number of Special Characters I",
@@ -3178,6 +3273,25 @@
         }
       ]
     },
+    "3364": {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "titleSlug": "minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "directory": "3364-minimum-positive-sum-subarray",
+      "submissions": [
+        {
+          "submissionId": "2195874991",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "37.76%",
+          "memory": "46 MB",
+          "memoryPercentile": "73.67%",
+          "timestamp": 1794653651
+        }
+      ]
+    },
     "3417": {
       "frontendId": "3417",
       "title": "Zigzag Grid Traversal With Skip",
@@ -3194,6 +3308,25 @@
           "memory": "47.6 MB",
           "memoryPercentile": "5.10%",
           "timestamp": 1790073229
+        }
+      ]
+    },
+    "3461": {
+      "frontendId": "3461",
+      "title": "Check If Digits Are Equal in String After Operations I",
+      "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+      "difficulty": "Easy",
+      "directory": "3461-check-if-digits-are-equal-in-string-after-operations-i",
+      "submissions": [
+        {
+          "submissionId": "2195518575",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "9 ms",
+          "runtimePercentile": "65.28%",
+          "memory": "46 MB",
+          "memoryPercentile": "59.95%",
+          "timestamp": 1794596706
         }
       ]
     },
@@ -3800,6 +3933,16 @@
           "memory": "42.7 MB",
           "memoryPercentile": "26.85%",
           "timestamp": 1789120291
+        },
+        {
+          "submissionId": "2195339001",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "99.11%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "56.93%",
+          "timestamp": 1794580120
         }
       ]
     },
@@ -5791,6 +5934,26 @@
           "memory": "42.8 MB",
           "memoryPercentile": "62.96%",
           "timestamp": 1786990493
+        },
+        {
+          "submissionId": "2193746471",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.6 MB",
+          "memoryPercentile": "70.94%",
+          "timestamp": 1794386944
+        },
+        {
+          "submissionId": "2193746608",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "87.42%",
+          "timestamp": 1794386962
         }
       ]
     },
@@ -7381,6 +7544,16 @@
           "memory": "42.4 MB",
           "memoryPercentile": "84.69%",
           "timestamp": 1789883142
+        },
+        {
+          "submissionId": "2195338082",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.45%",
+          "memory": "42.1 MB",
+          "memoryPercentile": "80.78%",
+          "timestamp": 1794580023
         }
       ]
     },
@@ -7753,6 +7926,26 @@
           "memory": "41.7 MB",
           "memoryPercentile": "96.50%",
           "timestamp": 1790333132
+        },
+        {
+          "submissionId": "2193651510",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "25.96%",
+          "memory": "41.4 MB",
+          "memoryPercentile": "88.66%",
+          "timestamp": 1794376960
+        },
+        {
+          "submissionId": "2193666872",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "25.96%",
+          "memory": "41.8 MB",
+          "memoryPercentile": "56.87%",
+          "timestamp": 1794378411
         }
       ]
     },
@@ -8935,6 +9128,199 @@
           "timestamp": 1794138354
         }
       ]
+    },
+    "0575": {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "titleSlug": "distribute-candies",
+      "difficulty": "Easy",
+      "directory": "0575-distribute-candies",
+      "submissions": [
+        {
+          "submissionId": "2193655992",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "31 ms",
+          "runtimePercentile": "66.96%",
+          "memory": "47.9 MB",
+          "memoryPercentile": "86.28%",
+          "timestamp": 1794377386
+        },
+        {
+          "submissionId": "2193666712",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "39 ms",
+          "runtimePercentile": "9.12%",
+          "memory": "48.2 MB",
+          "memoryPercentile": "69.97%",
+          "timestamp": 1794378397
+        }
+      ]
+    },
+    "0929": {
+      "frontendId": "929",
+      "title": "Unique Email Addresses",
+      "titleSlug": "unique-email-addresses",
+      "difficulty": "Easy",
+      "directory": "0929-unique-email-addresses",
+      "submissions": [
+        {
+          "submissionId": "2193679185",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "16 ms",
+          "runtimePercentile": "21.49%",
+          "memory": "46.8 MB",
+          "memoryPercentile": "28.21%",
+          "timestamp": 1794379594
+        }
+      ]
+    },
+    "0994": {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "titleSlug": "rotting-oranges",
+      "difficulty": "Medium",
+      "directory": "0994-rotting-oranges",
+      "submissions": [
+        {
+          "submissionId": "2193735077",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "91.05%",
+          "memory": "44 MB",
+          "memoryPercentile": "43.56%",
+          "timestamp": 1794385612
+        }
+      ]
+    },
+    "0290": {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "titleSlug": "word-pattern",
+      "difficulty": "Easy",
+      "directory": "0290-word-pattern",
+      "submissions": [
+        {
+          "submissionId": "2193773769",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "88.20%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "76.72%",
+          "timestamp": 1794389970
+        },
+        {
+          "submissionId": "2193782676",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "88.20%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "83.98%",
+          "timestamp": 1794390978
+        }
+      ]
+    },
+    "0530": {
+      "frontendId": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "titleSlug": "minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "directory": "0530-minimum-absolute-difference-in-bst",
+      "submissions": [
+        {
+          "submissionId": "2193783886",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "50.56%",
+          "memory": "46.6 MB",
+          "memoryPercentile": "62.93%",
+          "timestamp": 1794391120
+        },
+        {
+          "submissionId": "2193789104",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "18.33%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "95.89%",
+          "timestamp": 1794391695
+        },
+        {
+          "submissionId": "2193789322",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.2 MB",
+          "memoryPercentile": "92.71%",
+          "timestamp": 1794391717
+        }
+      ]
+    },
+    "0023": {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "titleSlug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "directory": "0023-merge-k-sorted-lists",
+      "submissions": [
+        {
+          "submissionId": "2194706658",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "10 ms",
+          "runtimePercentile": "16.83%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "98.66%",
+          "timestamp": 1794496942
+        },
+        {
+          "submissionId": "2194708730",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "84 ms",
+          "runtimePercentile": "12.07%",
+          "memory": "46.7 MB",
+          "memoryPercentile": "51.23%",
+          "timestamp": 1794497124
+        },
+        {
+          "submissionId": "2195209103",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "99.97%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "83.55%",
+          "timestamp": 1794564765
+        }
+      ]
+    },
+    "0637": {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "titleSlug": "average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "directory": "0637-average-of-levels-in-binary-tree",
+      "submissions": [
+        {
+          "submissionId": "2195883539",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "98.64%",
+          "memory": "48 MB",
+          "memoryPercentile": "76.45%",
+          "timestamp": 1794654748
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -9528,6 +9914,32 @@
     "2192483246",
     "2193067647",
     "2193070076",
-    "2193083706"
+    "2193083706",
+    "2193651510",
+    "2193655992",
+    "2193666712",
+    "2193666872",
+    "2193679185",
+    "2193735077",
+    "2193746471",
+    "2193746608",
+    "2193773769",
+    "2193782676",
+    "2193783886",
+    "2193789104",
+    "2193789322",
+    "2194508468",
+    "2194706658",
+    "2194708730",
+    "2195209103",
+    "2195216288",
+    "2195338082",
+    "2195339001",
+    "2195349805",
+    "2195518575",
+    "2195874991",
+    "2195883539",
+    "2196133502",
+    "2196135911"
   ]
 }
