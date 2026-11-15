@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **350** | **216** | **124** | **9** | **2026-11-15 24:52:44 IST** |
+| **351** | **216** | **124** | **9** | **2026-11-15 09:21:12 IST** |
 
 ---
 
@@ -369,6 +369,7 @@
 | 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | [Java](./4089-count-subarrays-with-loose-bounds/solution.java) | `🟡 Medium` | 7 ms | 196 MB | 2026-10-24 |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Java](./4097-minimum-value-of-merged-integers/solution.java) | `🟢 Easy` | 5 ms | 45.9 MB | 2026-11-02 |
 | 101210 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Java](./101210-three-fibonacci-sum/solution.java) | `Unknown` | 1 ms | 42.4 MB | 2026-10-11 |
+| 101228 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./101228-count-consistent-subarrays-i/solution.java) | `Unknown` | 2 ms | 46 MB | 2026-11-15 |
 
 ---
 
