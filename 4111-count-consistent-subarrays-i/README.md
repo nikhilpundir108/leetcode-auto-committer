@@ -105,6 +105,6 @@ The only subarray is `[0]`, whose bitwise AND and minimum value are both 0. Ther
 
 - **Language:** Java
 - **Runtime:** 2 ms (Beats 100.00%)
-- **Memory:** 45.7 MB (Beats 81.32%)
-- **Submission Date:** 2026-11-16 22:39:59 IST
+- **Memory:** 45.6 MB (Beats 93.70%)
+- **Submission Date:** 2026-11-17 19:18:59 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/count-consistent-subarrays-i/)
