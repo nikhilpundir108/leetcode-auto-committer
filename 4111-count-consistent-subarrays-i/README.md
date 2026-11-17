@@ -10,9 +10,7 @@ You are given an integer array `nums`.
 
 A subarray is called **consistent** if the **bitwise AND** of all its elements is equal to the **minimum** value of the subarray.
 
-Return the number of **consistent subarrays** in `nums`​​​​​​​.
-
-A **subarray** is a contiguous, non-empty sequence of elements within an array.
+Return the number of **consistent subarrays** in `nums`.
 
  
 
@@ -107,6 +105,6 @@ The only subarray is `[0]`, whose bitwise AND and minimum value are both 0. Ther
 
 - **Language:** Java
 - **Runtime:** 2 ms (Beats 100.00%)
-- **Memory:** 46 MB (Beats 23.19%)
-- **Submission Date:** 2026-11-15 09:30:43 IST
+- **Memory:** 45.7 MB (Beats 81.32%)
+- **Submission Date:** 2026-11-16 22:39:59 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/count-consistent-subarrays-i/)

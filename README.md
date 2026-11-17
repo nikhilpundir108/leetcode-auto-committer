@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **352** | **217** | **124** | **9** | **2026-11-15 18:40:14 IST** |
+| **352** | **217** | **124** | **9** | **2026-11-17 06:47:53 IST** |
 
 ---
 
@@ -368,7 +368,7 @@
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [Java](./4088-difference-between-peaks-and-valleys/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-10-24 |
 | 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | [Java](./4089-count-subarrays-with-loose-bounds/solution.java) | `🟡 Medium` | 7 ms | 196 MB | 2026-10-24 |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Java](./4097-minimum-value-of-merged-integers/solution.java) | `🟢 Easy` | 5 ms | 45.9 MB | 2026-11-02 |
-| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./4111-count-consistent-subarrays-i/solution.java) | `🟢 Easy` | 2 ms | 46 MB | 2026-11-15 |
+| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./4111-count-consistent-subarrays-i/solution.java) | `🟢 Easy` | 2 ms | 45.7 MB | 2026-11-16 |
 | 101210 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Java](./101210-three-fibonacci-sum/solution.java) | `Unknown` | 1 ms | 42.4 MB | 2026-10-11 |
 | 101228 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./101228-count-consistent-subarrays-i/solution.java) | `Unknown` | 2 ms | 46 MB | 2026-11-15 |
 
