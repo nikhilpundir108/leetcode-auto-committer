@@ -3,8 +3,8 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 2 ms (Beats 100.00%)
- * Memory: 45.6 MB (Beats 93.70%)
- * Solved At: 2026-11-17 19:18:59 IST
+ * Memory: 45.6 MB (Beats 81.59%)
+ * Solved At: 2026-11-18 20:24:46 IST
  * Link: https://leetcode.com/problems/count-consistent-subarrays-i/
  */
 
