@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-18T23:42:30.285Z",
-  "totalSolved": 352,
+  "lastSyncedAt": "2026-11-19T14:55:08.892Z",
+  "totalSolved": 353,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -2220,6 +2220,25 @@
           "memory": "47 MB",
           "memoryPercentile": "58.14%",
           "timestamp": 1788845977
+        }
+      ]
+    },
+    "2567": {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "titleSlug": "minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "directory": "2567-minimum-score-by-changing-two-elements",
+      "submissions": [
+        {
+          "submissionId": "2199408338",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "19 ms",
+          "runtimePercentile": "33.33%",
+          "memory": "59.5 MB",
+          "memoryPercentile": "46.87%",
+          "timestamp": 1795099860
         }
       ]
     },
@@ -10013,6 +10032,7 @@
     "2196372581",
     "2197473186",
     "2198028736",
-    "2198754487"
+    "2198754487",
+    "2199408338"
   ]
 }

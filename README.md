@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **352** | **217** | **124** | **9** | **2026-11-19 05:12:30 IST** |
+| **353** | **217** | **125** | **9** | **2026-11-19 20:25:08 IST** |
 
 ---
 
@@ -306,6 +306,7 @@
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Java](./2485-find-the-pivot-integer/solution.java) | `🟢 Easy` | 38 ms | 41.8 MB | 2026-11-13 |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Java](./2520-count-the-digits-that-divide-a-number/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Java](./2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-09-08 |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Java](./2567-minimum-score-by-changing-two-elements/solution.java) | `🟡 Medium` | 19 ms | 59.5 MB | 2026-11-19 |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Java](./2574-left-and-right-sum-differences/solution.java) | `🟢 Easy` | 2 ms | 45.9 MB | 2026-10-29 |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Java](./2586-count-the-number-of-vowel-strings-in-range/solution.java) | `🟢 Easy` | 1 ms | 46.5 MB | 2026-09-18 |
