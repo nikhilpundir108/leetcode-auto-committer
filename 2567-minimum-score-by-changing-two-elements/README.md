@@ -59,7 +59,7 @@ Return the **minimum score** after **changing two elements** of `nums`.
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 19 ms (Beats 33.33%)
-- **Memory:** 59.5 MB (Beats 46.87%)
-- **Submission Date:** 2026-11-19 20:21:00 IST
+- **Runtime:** 18 ms (Beats 71.34%)
+- **Memory:** 59.4 MB (Beats 39.71%)
+- **Submission Date:** 2026-11-20 23:07:25 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)

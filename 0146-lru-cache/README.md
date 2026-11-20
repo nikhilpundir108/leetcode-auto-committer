@@ -59,7 +59,7 @@ lRUCache.get(4);    // return 4
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 15 ms (Beats 52.98%)
-- **Memory:** 58 MB (Beats 85.97%)
-- **Submission Date:** 2026-11-06 20:21:08 IST
+- **Runtime:** 15 ms (Beats 54.71%)
+- **Memory:** 58.2 MB (Beats 66.14%)
+- **Submission Date:** 2026-11-20 23:10:04 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/lru-cache/)

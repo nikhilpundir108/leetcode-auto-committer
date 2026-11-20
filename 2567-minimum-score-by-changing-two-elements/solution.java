@@ -2,9 +2,9 @@
  * Problem: Minimum Score by Changing Two Elements (LeetCode #2567)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 19 ms (Beats 33.33%)
- * Memory: 59.5 MB (Beats 46.87%)
- * Solved At: 2026-11-19 20:21:00 IST
+ * Runtime: 18 ms (Beats 71.34%)
+ * Memory: 59.4 MB (Beats 39.71%)
+ * Solved At: 2026-11-20 23:07:25 IST
  * Link: https://leetcode.com/problems/minimum-score-by-changing-two-elements/
  */
 

@@ -2,9 +2,9 @@
  * Problem: LRU Cache (LeetCode #146)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 15 ms (Beats 52.98%)
- * Memory: 58 MB (Beats 85.97%)
- * Solved At: 2026-11-06 20:21:08 IST
+ * Runtime: 15 ms (Beats 54.71%)
+ * Memory: 58.2 MB (Beats 66.14%)
+ * Solved At: 2026-11-20 23:10:04 IST
  * Link: https://leetcode.com/problems/lru-cache/
  */
 

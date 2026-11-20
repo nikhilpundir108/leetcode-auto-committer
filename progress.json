@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-19T14:55:08.892Z",
-  "totalSolved": 353,
+  "lastSyncedAt": "2026-11-20T23:29:34.647Z",
+  "totalSolved": 354,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -2239,6 +2239,16 @@
           "memory": "59.5 MB",
           "memoryPercentile": "46.87%",
           "timestamp": 1795099860
+        },
+        {
+          "submissionId": "2200137893",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "18 ms",
+          "runtimePercentile": "71.34%",
+          "memory": "59.4 MB",
+          "memoryPercentile": "39.71%",
+          "timestamp": 1795196245
         }
       ]
     },
@@ -9175,6 +9185,16 @@
           "memory": "58 MB",
           "memoryPercentile": "85.97%",
           "timestamp": 1793976668
+        },
+        {
+          "submissionId": "2200139509",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "15 ms",
+          "runtimePercentile": "54.71%",
+          "memory": "58.2 MB",
+          "memoryPercentile": "66.14%",
+          "timestamp": 1795196404
         }
       ]
     },
@@ -9406,6 +9426,25 @@
           "memory": "48 MB",
           "memoryPercentile": "76.45%",
           "timestamp": 1794654748
+        }
+      ]
+    },
+    "0460": {
+      "frontendId": "460",
+      "title": "LFU Cache",
+      "titleSlug": "lfu-cache",
+      "difficulty": "Hard",
+      "directory": "0460-lfu-cache",
+      "submissions": [
+        {
+          "submissionId": "2200142788",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "69 ms",
+          "runtimePercentile": "31.70%",
+          "memory": "136 MB",
+          "memoryPercentile": "59.16%",
+          "timestamp": 1795196713
         }
       ]
     }
@@ -10033,6 +10072,9 @@
     "2197473186",
     "2198028736",
     "2198754487",
-    "2199408338"
+    "2199408338",
+    "2200137893",
+    "2200139509",
+    "2200142788"
   ]
 }

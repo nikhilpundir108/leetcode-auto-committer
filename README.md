@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **353** | **217** | **125** | **9** | **2026-11-19 20:25:08 IST** |
+| **354** | **217** | **125** | **10** | **2026-11-21 04:59:34 IST** |
 
 ---
 
@@ -95,7 +95,7 @@
 | 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./0143-reorder-list/solution.java) | `🟡 Medium` | 2 ms | 49.5 MB | 2026-07-28 |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./0144-binary-tree-preorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./0145-binary-tree-postorder-traversal/solution.java) | `🟢 Easy` | 0 ms | 43 MB | 2026-09-17 |
-| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./0146-lru-cache/solution.java) | `🟡 Medium` | 15 ms | 58 MB | 2026-11-06 |
+| 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./0146-lru-cache/solution.java) | `🟡 Medium` | 15 ms | 58.2 MB | 2026-11-20 |
 | 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Java](./0148-sort-list/solution.java) | `🟡 Medium` | 11 ms | 59.5 MB | 2026-07-24 |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./0150-evaluate-reverse-polish-notation/solution.java) | `🟡 Medium` | 7 ms | 44.6 MB | 2026-11-07 |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
@@ -165,6 +165,7 @@
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./0450-delete-node-in-a-bst/solution.java) | `🟡 Medium` | 0 ms | 47.4 MB | 2026-10-09 |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./0453-minimum-moves-to-equal-array-elements/solution.java) | `🟡 Medium` | 2 ms | 46.6 MB | 2026-11-03 |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./0455-assign-cookies/solution.java) | `🟢 Easy` | 17 ms | 51 MB | 2026-10-20 |
+| 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Java](./0460-lfu-cache/solution.java) | `🔴 Hard` | 69 ms | 136 MB | 2026-11-20 |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./0462-minimum-moves-to-equal-array-elements-ii/solution.java) | `🟡 Medium` | 9 ms | 46.6 MB | 2026-11-03 |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./0485-max-consecutive-ones/solution.java) | `🟢 Easy` | 3 ms | 52 MB | 2026-11-05 |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./0496-next-greater-element-i/solution.java) | `🟢 Easy` | 4 ms | 45.3 MB | 2026-09-30 |
@@ -306,7 +307,7 @@
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Java](./2485-find-the-pivot-integer/solution.java) | `🟢 Easy` | 38 ms | 41.8 MB | 2026-11-13 |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Java](./2520-count-the-digits-that-divide-a-number/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-09-07 |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Java](./2529-maximum-count-of-positive-integer-and-negative-integer/solution.java) | `🟢 Easy` | 0 ms | 47 MB | 2026-09-08 |
-| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Java](./2567-minimum-score-by-changing-two-elements/solution.java) | `🟡 Medium` | 19 ms | 59.5 MB | 2026-11-19 |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Java](./2567-minimum-score-by-changing-two-elements/solution.java) | `🟡 Medium` | 18 ms | 59.4 MB | 2026-11-20 |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Java](./2574-left-and-right-sum-differences/solution.java) | `🟢 Easy` | 2 ms | 45.9 MB | 2026-10-29 |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Java](./2578-split-with-minimum-sum/solution.java) | `🟢 Easy` | 2 ms | 42.2 MB | 2026-09-09 |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Java](./2586-count-the-number-of-vowel-strings-in-range/solution.java) | `🟢 Easy` | 1 ms | 46.5 MB | 2026-09-18 |
