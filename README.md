@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **361** | **221** | **128** | **10** | **2026-11-22 19:17:10 IST** |
+| **362** | **221** | **129** | **10** | **2026-11-23 04:28:17 IST** |
 
 ---
 
@@ -75,6 +75,7 @@
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./0102-binary-tree-level-order-traversal/solution.java) | `🟡 Medium` | 1 ms | 47 MB | 2026-09-17 |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./0103-binary-tree-zigzag-level-order-traversal/solution.java) | `🟡 Medium` | 0 ms | 43.5 MB | 2026-09-23 |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./0104-maximum-depth-of-binary-tree/solution.java) | `🟢 Easy` | 0 ms | 47.1 MB | 2026-09-18 |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.java) | `🟡 Medium` | 2 ms | 46.4 MB | 2026-11-22 |
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./0107-binary-tree-level-order-traversal-ii/solution.java) | `🟡 Medium` | 1 ms | 43.9 MB | 2026-09-25 |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./0108-convert-sorted-array-to-binary-search-tree/solution.java) | `🟢 Easy` | 0 ms | 45.1 MB | 2026-10-13 |
 | 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./0109-convert-sorted-list-to-binary-search-tree/solution.java) | `🟡 Medium` | 156 ms | 46.7 MB | 2026-10-22 |

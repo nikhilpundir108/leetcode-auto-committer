@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-22T13:47:10.885Z",
-  "totalSolved": 361,
+  "lastSyncedAt": "2026-11-22T22:58:17.277Z",
+  "totalSolved": 362,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -9640,6 +9640,25 @@
           "timestamp": 1795291106
         }
       ]
+    },
+    "0105": {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "directory": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "submissions": [
+        {
+          "submissionId": "2201316828",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "82.53%",
+          "memory": "46.4 MB",
+          "memoryPercentile": "26.80%",
+          "timestamp": 1795357371
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -10281,6 +10300,7 @@
     "2200809604",
     "2200948261",
     "2201125803",
-    "2201127514"
+    "2201127514",
+    "2201316828"
   ]
 }
