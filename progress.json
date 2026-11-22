@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-21T22:35:41.147Z",
-  "totalSolved": 359,
+  "lastSyncedAt": "2026-11-22T04:05:15.256Z",
+  "totalSolved": 360,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -3914,6 +3914,25 @@
           "memory": "42.2 MB",
           "memoryPercentile": "100.00%",
           "timestamp": 1795273376
+        }
+      ]
+    },
+    "4120": {
+      "frontendId": "4120",
+      "title": "Count Dominant Elements",
+      "titleSlug": "count-dominant-elements",
+      "difficulty": "Easy",
+      "directory": "4120-count-dominant-elements",
+      "submissions": [
+        {
+          "submissionId": "2200948261",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "46.1 MB",
+          "memoryPercentile": "32.89%",
+          "timestamp": 1795316849
         }
       ]
     },
@@ -10230,6 +10249,7 @@
     "2200632592",
     "2200807938",
     "2200809526",
-    "2200809604"
+    "2200809604",
+    "2200948261"
   ]
 }

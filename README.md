@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **359** | **219** | **128** | **10** | **2026-11-22 04:05:41 IST** |
+| **360** | **220** | **128** | **10** | **2026-11-22 09:35:15 IST** |
 
 ---
 
@@ -376,6 +376,7 @@
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./4111-count-consistent-subarrays-i/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-11-18 |
 | 4116 | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | [Java](./4116-assign-umbrella-on-rainy-days/solution.java) | `🟢 Easy` | 2 ms | 47 MB | 2026-11-21 |
 | 4117 | [Minimum Range After Sum Operations](https://leetcode.com/problems/minimum-range-after-sum-operations/) | [Java](./4117-minimum-range-after-sum-operations/solution.java) | `🟡 Medium` | 2 ms | 42.2 MB | 2026-11-21 |
+| 4120 | [Count Dominant Elements](https://leetcode.com/problems/count-dominant-elements/) | [Java](./4120-count-dominant-elements/solution.java) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-11-22 |
 | 101210 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Java](./101210-three-fibonacci-sum/solution.java) | `Unknown` | 1 ms | 42.4 MB | 2026-10-11 |
 | 101228 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./101228-count-consistent-subarrays-i/solution.java) | `Unknown` | 2 ms | 46 MB | 2026-11-15 |
 
