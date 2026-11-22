@@ -53,6 +53,6 @@ Output: [-1,-1]
 
 - **Language:** Java
 - **Runtime:** 0 ms (Beats 100.00%)
-- **Memory:** 47.9 MB (Beats 87.17%)
-- **Submission Date:** 2026-04-01 16:55:17
+- **Memory:** 47.7 MB (Beats 74.83%)
+- **Submission Date:** 2026-11-22 13:11:15 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)

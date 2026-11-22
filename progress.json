@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-22T04:05:15.256Z",
-  "totalSolved": 360,
+  "lastSyncedAt": "2026-11-22T13:47:10.885Z",
+  "totalSolved": 361,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -1661,6 +1661,25 @@
           "memory": "42 MB",
           "memoryPercentile": "81.38%",
           "timestamp": 1788929938
+        }
+      ]
+    },
+    "2124": {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "titleSlug": "check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "directory": "2124-check-if-all-as-appears-before-all-bs",
+      "submissions": [
+        {
+          "submissionId": "2201127514",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "42.3 MB",
+          "memoryPercentile": "83.01%",
+          "timestamp": 1795333498
         }
       ]
     },
@@ -5159,6 +5178,16 @@
           "memory": "47.9 MB",
           "memoryPercentile": "87.17%",
           "timestamp": 1775062517
+        },
+        {
+          "submissionId": "2201125803",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "47.7 MB",
+          "memoryPercentile": "74.83%",
+          "timestamp": 1795333275
         }
       ]
     },
@@ -10250,6 +10279,8 @@
     "2200807938",
     "2200809526",
     "2200809604",
-    "2200948261"
+    "2200948261",
+    "2201125803",
+    "2201127514"
   ]
 }

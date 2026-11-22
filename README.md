@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **360** | **220** | **128** | **10** | **2026-11-22 09:35:15 IST** |
+| **361** | **221** | **128** | **10** | **2026-11-22 19:17:10 IST** |
 
 ---
 
@@ -43,7 +43,7 @@
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](./0031-next-permutation/solution.java) | `🟡 Medium` | 0 ms | 44.9 MB | 2026-03-17 |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](./0032-longest-valid-parentheses/solution.java) | `🔴 Hard` | 5 ms | 46.4 MB | 2026-10-03 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./0033-search-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.7 MB | 2026-03-25 |
-| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./0034-find-first-and-last-position-of-element-in-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 47.9 MB | 2026-04-01 |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./0034-find-first-and-last-position-of-element-in-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 47.7 MB | 2026-11-22 |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./0035-search-insert-position/solution.java) | `🟢 Easy` | 0 ms | 45 MB | 2026-08-19 |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./0042-trapping-rain-water/solution.java) | `🔴 Hard` | 1 ms | 48.9 MB | 2026-09-11 |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./0048-rotate-image/solution.java) | `🟡 Medium` | 0 ms | 43.6 MB | 2026-09-09 |
@@ -289,6 +289,7 @@
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](./2095-delete-the-middle-node-of-a-linked-list/solution.java) | `🟡 Medium` | 3 ms | 202.9 MB | 2026-07-23 |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Java](./2108-find-first-palindromic-string-in-the-array/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-08 |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Java](./2119-a-number-after-a-double-reversal/solution.java) | `🟢 Easy` | 0 ms | 42 MB | 2026-09-09 |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Java](./2124-check-if-all-as-appears-before-all-bs/solution.java) | `🟢 Easy` | 0 ms | 42.3 MB | 2026-11-22 |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Java](./2149-rearrange-array-elements-by-sign/solution.java) | `🟡 Medium` | 4 ms | 175.3 MB | 2026-08-04 |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Java](./2160-minimum-sum-of-four-digit-number-after-splitting-digits/solution.java) | `🟢 Easy` | 1 ms | 42.5 MB | 2026-09-09 |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Java](./2180-count-integers-with-even-digit-sum/solution.java) | `🟢 Easy` | 1 ms | 42.2 MB | 2026-09-08 |
