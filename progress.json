@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-22T22:58:17.277Z",
-  "totalSolved": 362,
+  "lastSyncedAt": "2026-11-23T16:51:43.751Z",
+  "totalSolved": 363,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -419,6 +419,25 @@
           "memory": "46.9 MB",
           "memoryPercentile": "43.53%",
           "timestamp": 1789453101
+        }
+      ]
+    },
+    "1352": {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "titleSlug": "product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "directory": "1352-product-of-the-last-k-numbers",
+      "submissions": [
+        {
+          "submissionId": "2201898366",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "17 ms",
+          "runtimePercentile": "94.46%",
+          "memory": "84.4 MB",
+          "memoryPercentile": "42.73%",
+          "timestamp": 1795435874
         }
       ]
     },
@@ -10301,6 +10320,7 @@
     "2200948261",
     "2201125803",
     "2201127514",
-    "2201316828"
+    "2201316828",
+    "2201898366"
   ]
 }
