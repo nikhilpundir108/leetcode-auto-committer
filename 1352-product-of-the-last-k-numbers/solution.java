@@ -2,9 +2,9 @@
  * Problem: Product of the Last K Numbers (LeetCode #1352)
  * Difficulty: Medium
  * Language: Java
- * Runtime: 17 ms (Beats 94.46%)
- * Memory: 84.4 MB (Beats 42.73%)
- * Solved At: 2026-11-23 17:41:14 IST
+ * Runtime: 20 ms (Beats 30.49%)
+ * Memory: 95.9 MB (Beats 5.10%)
+ * Solved At: 2026-11-24 23:57:12 IST
  * Link: https://leetcode.com/problems/product-of-the-last-k-numbers/
  */
 

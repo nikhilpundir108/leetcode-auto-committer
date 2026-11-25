@@ -65,7 +65,7 @@ productOfNumbers.getProduct(2); // return 32. The product of the last 2 numbers 
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 17 ms (Beats 94.46%)
-- **Memory:** 84.4 MB (Beats 42.73%)
-- **Submission Date:** 2026-11-23 17:41:14 IST
+- **Runtime:** 20 ms (Beats 30.49%)
+- **Memory:** 95.9 MB (Beats 5.10%)
+- **Submission Date:** 2026-11-24 23:57:12 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/product-of-the-last-k-numbers/)

@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **363** | **221** | **130** | **10** | **2026-11-23 22:21:43 IST** |
+| **366** | **223** | **131** | **10** | **2026-11-25 19:10:13 IST** |
 
 ---
 
@@ -35,7 +35,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./0020-valid-parentheses/solution.java) | `🟢 Easy` | 3 ms | 43.2 MB | 2026-10-01 |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./0021-merge-two-sorted-lists/solution.java) | `🟢 Easy` | 0 ms | 44.4 MB | 2026-07-28 |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./0022-generate-parentheses/solution.java) | `🟡 Medium` | 2 ms | 45 MB | 2026-10-02 |
-| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./0023-merge-k-sorted-lists/solution.java) | `🔴 Hard` | 1 ms | 46.3 MB | 2026-11-13 |
+| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](./0023-merge-k-sorted-lists/solution.java) | `🔴 Hard` | 6 ms | 46.3 MB | 2026-11-25 |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./0024-swap-nodes-in-pairs/solution.java) | `🟡 Medium` | 0 ms | 43.2 MB | 2026-10-13 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./0026-remove-duplicates-from-sorted-array/solution.java), [JavaScript](./0026-remove-duplicates-from-sorted-array/solution.js) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-11-02 |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./0027-remove-element/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-02 |
@@ -102,6 +102,7 @@
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./0151-reverse-words-in-a-string/solution.java) | `🟡 Medium` | 7 ms | 43.8 MB | 2026-07-31 |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./0152-maximum-product-subarray/solution.java) | `🟡 Medium` | 2 ms | 47.1 MB | 2026-09-23 |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./0153-find-minimum-in-rotated-sorted-array/solution.java) | `🟡 Medium` | 0 ms | 43.9 MB | 2026-08-06 |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./0155-min-stack/solution.java) | `🟡 Medium` | 36 ms | 99.3 MB | 2026-11-25 |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./0160-intersection-of-two-linked-lists/solution.java) | `🟢 Easy` | 2 ms | 53 MB | 2026-07-24 |
 | 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./0162-find-peak-element/solution.java) | `🟡 Medium` | 0 ms | 44.3 MB | 2026-09-23 |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./0167-two-sum-ii-input-array-is-sorted/solution.java) | `🟡 Medium` | 2 ms | 47.9 MB | 2026-07-21 |
@@ -201,6 +202,7 @@
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./0724-find-pivot-index/solution.java) | `🟢 Easy` | 1 ms | 47.3 MB | 2026-09-02 |
 | 0725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Java](./0725-split-linked-list-in-parts/solution.java) | `🟡 Medium` | 0 ms | 44.2 MB | 2026-11-02 |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Java](./0728-self-dividing-numbers/solution.java) | `🟢 Easy` | 2 ms | 42.4 MB | 2026-11-13 |
+| 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Java](./0744-find-smallest-letter-greater-than-target/solution.java) | `🟢 Easy` | 0 ms | 45.8 MB | 2026-11-25 |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./0747-largest-number-at-least-twice-of-others/solution.java) | `🟢 Easy` | 0 ms | 43.1 MB | 2026-09-01 |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./0771-jewels-and-stones/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-18 |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Java](./0796-rotate-string/solution.java) | `🟢 Easy` | 2 ms | 43 MB | 2026-11-10 |
@@ -239,10 +241,11 @@
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Java](./1283-find-the-smallest-divisor-given-a-threshold/solution.java) | `🟡 Medium` | 6 ms | 51.1 MB | 2026-04-09 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](./1295-find-numbers-with-even-number-of-digits/solution.java) | `🟢 Easy` | 1 ms | 44.8 MB | 2026-09-01 |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Java](./1299-replace-elements-with-greatest-element-on-right-side/solution.java) | `🟢 Easy` | 3 ms | 48.5 MB | 2026-10-29 |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Java](./1331-rank-transform-of-an-array/solution.java) | `🟢 Easy` | 31 ms | 76.2 MB | 2026-11-25 |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./1342-number-of-steps-to-reduce-a-number-to-zero/solution.java) | `🟢 Easy` | 0 ms | 42.6 MB | 2026-09-20 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.java) | `🟡 Medium` | 3 ms | 71.7 MB | 2026-09-19 |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Java](./1351-count-negative-numbers-in-a-sorted-matrix/solution.java) | `🟢 Easy` | 1 ms | 46.9 MB | 2026-09-15 |
-| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Java](./1352-product-of-the-last-k-numbers/solution.java) | `🟡 Medium` | 17 ms | 84.4 MB | 2026-11-23 |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Java](./1352-product-of-the-last-k-numbers/solution.java) | `🟡 Medium` | 20 ms | 95.9 MB | 2026-11-24 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](./1365-how-many-numbers-are-smaller-than-the-current-number/solution.java) | `🟢 Easy` | 7 ms | 44.6 MB | 2026-11-05 |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Java](./1380-lucky-numbers-in-a-matrix/solution.java) | `🟢 Easy` | 3 ms | 47 MB | 2026-09-09 |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Java](./1385-find-the-distance-value-between-two-arrays/solution.java) | `🟢 Easy` | 2 ms | 46.1 MB | 2026-11-05 |

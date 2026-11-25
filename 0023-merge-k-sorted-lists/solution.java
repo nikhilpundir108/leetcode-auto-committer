@@ -2,64 +2,35 @@
  * Problem: Merge k Sorted Lists (LeetCode #23)
  * Difficulty: Hard
  * Language: Java
- * Runtime: 1 ms (Beats 99.97%)
- * Memory: 46.3 MB (Beats 83.55%)
- * Solved At: 2026-11-13 15:42:45 IST
+ * Runtime: 6 ms (Beats 27.06%)
+ * Memory: 46.3 MB (Beats 77.44%)
+ * Solved At: 2026-11-25 12:11:27 IST
  * Link: https://leetcode.com/problems/merge-k-sorted-lists/
  */
 
-
 class Solution {
-
     public ListNode mergeKLists(ListNode[] lists) {
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
 
-        if (lists == null || lists.length == 0) {
-            return null;
+        for (ListNode list : lists) {
+            if (list != null) {
+                pq.offer(list);
+            }
         }
-
-        return divide(lists, 0, lists.length - 1);
-    }
-
-    public ListNode divide(ListNode[] lists, int left, int right) {
-
-        if (left == right) {
-            return lists[left];
-        }
-
-        int mid = left + (right - left) / 2;
-
-        ListNode first = divide(lists, left, mid);
-        ListNode second = divide(lists, mid + 1, right);
-
-        return mergeTwoLists(first, second);
-    }
-
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 
         ListNode dummy = new ListNode(-1);
-        ListNode curr = dummy;
+        ListNode temp = dummy;
 
-        while (l1 != null && l2 != null) {
+        while (!pq.isEmpty()) {
+            ListNode curr = pq.poll();
+            temp.next = curr;
+            temp = temp.next;
 
-            if (l1.val <= l2.val) {
-                curr.next = l1;
-                l1 = l1.next;
-            } else {
-                curr.next = l2;
-                l2 = l2.next;
+            if (curr.next != null) {
+                pq.offer(curr.next);
             }
-
-            curr = curr.next;
         }
-
-        if (l1 != null) {
-            curr.next = l1;
-        }
-
-        if (l2 != null) {
-            curr.next = l2;
-        }
-
+        temp.next = null;
         return dummy.next;
     }
 }

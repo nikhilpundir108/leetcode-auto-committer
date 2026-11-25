@@ -62,7 +62,7 @@ Output: []
 ## 📈 Submission Details
 
 - **Language:** Java
-- **Runtime:** 1 ms (Beats 99.97%)
-- **Memory:** 46.3 MB (Beats 83.55%)
-- **Submission Date:** 2026-11-13 15:42:45 IST
+- **Runtime:** 6 ms (Beats 27.06%)
+- **Memory:** 46.3 MB (Beats 77.44%)
+- **Submission Date:** 2026-11-25 12:11:27 IST
 - **LeetCode Link:** [View Problem](https://leetcode.com/problems/merge-k-sorted-lists/)

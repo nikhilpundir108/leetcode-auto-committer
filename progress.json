@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-23T16:51:43.751Z",
-  "totalSolved": 363,
+  "lastSyncedAt": "2026-11-25T13:40:13.460Z",
+  "totalSolved": 366,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -365,6 +365,35 @@
         }
       ]
     },
+    "1331": {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "titleSlug": "rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "directory": "1331-rank-transform-of-an-array",
+      "submissions": [
+        {
+          "submissionId": "2203055447",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "63 ms",
+          "runtimePercentile": "9.48%",
+          "memory": "76.6 MB",
+          "memoryPercentile": "27.77%",
+          "timestamp": 1795589665
+        },
+        {
+          "submissionId": "2203056464",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "31 ms",
+          "runtimePercentile": "61.64%",
+          "memory": "76.2 MB",
+          "memoryPercentile": "42.86%",
+          "timestamp": 1795589768
+        }
+      ]
+    },
     "1342": {
       "frontendId": "1342",
       "title": "Number of Steps to Reduce a Number to Zero",
@@ -438,6 +467,16 @@
           "memory": "84.4 MB",
           "memoryPercentile": "42.73%",
           "timestamp": 1795435874
+        },
+        {
+          "submissionId": "2202793830",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "20 ms",
+          "runtimePercentile": "30.49%",
+          "memory": "95.9 MB",
+          "memoryPercentile": "5.10%",
+          "timestamp": 1795544832
         }
       ]
     },
@@ -9512,6 +9551,16 @@
           "memory": "46.3 MB",
           "memoryPercentile": "83.55%",
           "timestamp": 1794564765
+        },
+        {
+          "submissionId": "2203047862",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "6 ms",
+          "runtimePercentile": "27.06%",
+          "memory": "46.3 MB",
+          "memoryPercentile": "77.44%",
+          "timestamp": 1795588887
         }
       ]
     },
@@ -9676,6 +9725,54 @@
           "memory": "46.4 MB",
           "memoryPercentile": "26.80%",
           "timestamp": 1795357371
+        }
+      ]
+    },
+    "0744": {
+      "frontendId": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "titleSlug": "find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "directory": "0744-find-smallest-letter-greater-than-target",
+      "submissions": [
+        {
+          "submissionId": "2202819211",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "0 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "45.8 MB",
+          "memoryPercentile": "70.92%",
+          "timestamp": 1795547904
+        }
+      ]
+    },
+    "0155": {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "titleSlug": "min-stack",
+      "difficulty": "Medium",
+      "directory": "0155-min-stack",
+      "submissions": [
+        {
+          "submissionId": "2202823737",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "37 ms",
+          "runtimePercentile": "16.77%",
+          "memory": "99.1 MB",
+          "memoryPercentile": "92.33%",
+          "timestamp": 1795548580
+        },
+        {
+          "submissionId": "2202823903",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "36 ms",
+          "runtimePercentile": "26.72%",
+          "memory": "99.3 MB",
+          "memoryPercentile": "81.50%",
+          "timestamp": 1795548602
         }
       ]
     }
@@ -10321,6 +10418,13 @@
     "2201125803",
     "2201127514",
     "2201316828",
-    "2201898366"
+    "2201898366",
+    "2202793830",
+    "2202819211",
+    "2202823737",
+    "2202823903",
+    "2203047862",
+    "2203055447",
+    "2203056464"
   ]
 }
