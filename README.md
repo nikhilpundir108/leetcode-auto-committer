@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **366** | **223** | **131** | **10** | **2026-11-25 19:10:13 IST** |
+| **368** | **225** | **131** | **10** | **2026-11-26 06:49:20 IST** |
 
 ---
 
@@ -186,6 +186,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./0567-permutation-in-string/solution.java) | `🟡 Medium` | 6 ms | 44 MB | 2026-09-19 |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./0575-distribute-candies/solution.java) | `🟢 Easy` | 39 ms | 48.2 MB | 2026-11-11 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./0605-can-place-flowers/solution.java) | `🟢 Easy` | 1 ms | 47.7 MB | 2026-11-25 |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./0637-average-of-levels-in-binary-tree/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-11-14 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./0645-set-mismatch/solution.java) | `🟢 Easy` | 2 ms | 47.3 MB | 2026-11-05 |
@@ -274,6 +275,7 @@
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](./1748-sum-of-unique-elements/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-11 |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Java](./1752-check-if-array-is-sorted-and-rotated/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-03-29 |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Java](./1763-longest-nice-substring/solution.java) | `🟢 Easy` | 26 ms | 46.5 MB | 2026-09-16 |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Java](./1768-merge-strings-alternately/solution.java) | `🟢 Easy` | 1 ms | 42.7 MB | 2026-11-25 |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./1773-count-items-matching-a-rule/solution.java) | `🟢 Easy` | 4 ms | 49.9 MB | 2026-09-10 |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Java](./1781-sum-of-beauty-of-all-substrings/solution.java) | `🟡 Medium` | 70 ms | 44.7 MB | 2026-10-06 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Java](./1807-evaluate-the-bracket-pairs-of-a-string/solution.java) | `🟡 Medium` | 34 ms | 94 MB | 2026-09-26 |
