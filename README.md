@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **368** | **225** | **131** | **10** | **2026-11-26 06:49:20 IST** |
+| **370** | **226** | **132** | **10** | **2026-11-26 21:31:38 IST** |
 
 ---
 
@@ -359,6 +359,7 @@
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Java](./3121-count-the-number-of-special-characters-ii/solution.java) | `🟡 Medium` | 9 ms | 47.4 MB | 2026-10-19 |
 | 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Java](./3206-alternating-groups-i/solution.java) | `🟢 Easy` | 1 ms | 45 MB | 2026-09-17 |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Java](./3232-find-if-digit-game-can-be-won/solution.java) | `🟢 Easy` | 1 ms | 45.5 MB | 2026-09-03 |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [Java](./3360-stone-removal-game/solution.java) | `🟢 Easy` | 0 ms | 41.4 MB | 2026-11-26 |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Java](./3364-minimum-positive-sum-subarray/solution.java) | `🟢 Easy` | 6 ms | 46 MB | 2026-11-14 |
 | 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Java](./3417-zigzag-grid-traversal-with-skip/solution.java) | `🟢 Easy` | 1 ms | 47.6 MB | 2026-09-22 |
 | 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [Java](./3461-check-if-digits-are-equal-in-string-after-operations-i/solution.java) | `🟢 Easy` | 9 ms | 46 MB | 2026-11-14 |
@@ -381,6 +382,7 @@
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [Java](./4088-difference-between-peaks-and-valleys/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-10-24 |
 | 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | [Java](./4089-count-subarrays-with-loose-bounds/solution.java) | `🟡 Medium` | 7 ms | 196 MB | 2026-10-24 |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Java](./4097-minimum-value-of-merged-integers/solution.java) | `🟢 Easy` | 5 ms | 45.9 MB | 2026-11-02 |
+| 4102 | [Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | [Java](./4102-count-valid-substrings-i/solution.java) | `🟡 Medium` | 12 ms | 47.2 MB | 2026-11-26 |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./4111-count-consistent-subarrays-i/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-11-18 |
 | 4116 | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | [Java](./4116-assign-umbrella-on-rainy-days/solution.java) | `🟢 Easy` | 2 ms | 47 MB | 2026-11-21 |
 | 4117 | [Minimum Range After Sum Operations](https://leetcode.com/problems/minimum-range-after-sum-operations/) | [Java](./4117-minimum-range-after-sum-operations/solution.java) | `🟡 Medium` | 2 ms | 42.2 MB | 2026-11-21 |
