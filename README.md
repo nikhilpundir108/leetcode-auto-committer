@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **371** | **227** | **132** | **10** | **2026-11-27 06:47:21 IST** |
+| **376** | **232** | **132** | **10** | **2026-11-27 21:20:36 IST** |
 
 ---
 
@@ -185,7 +185,9 @@
 | 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Java](./0563-binary-tree-tilt/solution.java) | `🟢 Easy` | 0 ms | 46.2 MB | 2026-10-22 |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./0567-permutation-in-string/solution.java) | `🟡 Medium` | 6 ms | 44 MB | 2026-09-19 |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./0575-distribute-candies/solution.java) | `🟢 Easy` | 39 ms | 48.2 MB | 2026-11-11 |
+| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](./0584-find-customer-referee/solution.sql) | `🟢 Easy` | 434 ms | 0B | 2026-11-27 |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./0594-longest-harmonious-subsequence/solution.java) | `🟢 Easy` | 15 ms | 48.4 MB | 2026-09-16 |
+| 0595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./0595-big-countries/solution.sql) | `🟢 Easy` | 266 ms | 0B | 2026-11-27 |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./0605-can-place-flowers/solution.java) | `🟢 Easy` | 1 ms | 47.7 MB | 2026-11-25 |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./0637-average-of-levels-in-binary-tree/solution.java) | `🟢 Easy` | 2 ms | 48 MB | 2026-11-14 |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./0643-maximum-average-subarray-i/solution.java) | `🟢 Easy` | 5 ms | 69.4 MB | 2026-07-11 |
@@ -234,6 +236,7 @@
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./1047-remove-all-adjacent-duplicates-in-string/solution.java) | `🟢 Easy` | 35 ms | 47 MB | 2026-09-30 |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./1108-defanging-an-ip-address/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-09-07 |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Java](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) | `🟡 Medium` | 1 ms | 45.5 MB | 2026-09-30 |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [MySQL](./1148-article-views-i/solution.sql) | `🟢 Easy` | 635 ms | 0B | 2026-11-27 |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Java](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) | `🟡 Medium` | 3 ms | 42.7 MB | 2026-09-27 |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Java](./1207-unique-number-of-occurrences/solution.java) | `🟢 Easy` | 2 ms | 43.6 MB | 2026-09-11 |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./1221-split-a-string-in-balanced-strings/solution.java) | `🟢 Easy` | 0 ms | 41.9 MB | 2026-11-15 |
@@ -269,11 +272,13 @@
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](./1614-maximum-nesting-depth-of-the-parentheses/solution.java) | `🟢 Easy` | 0 ms | 42.9 MB | 2026-09-28 |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Java](./1652-defuse-the-bomb/solution.java) | `🟢 Easy` | 0 ms | 43.5 MB | 2026-09-17 |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](./1672-richest-customer-wealth/solution.java) | `🟢 Easy` | 0 ms | 44.3 MB | 2026-09-01 |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL](./1683-invalid-tweets/solution.sql) | `🟢 Easy` | 535 ms | 0B | 2026-11-27 |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Java](./1700-number-of-students-unable-to-eat-lunch/solution.java) | `🟢 Easy` | 0 ms | 42.5 MB | 2026-10-29 |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Java](./1721-swapping-nodes-in-a-linked-list/solution.java) | `🟡 Medium` | 1 ms | 118 MB | 2026-10-22 |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](./1742-maximum-number-of-balls-in-a-box/solution.java) | `🟢 Easy` | 16 ms | 42.1 MB | 2026-09-09 |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](./1748-sum-of-unique-elements/solution.java) | `🟢 Easy` | 1 ms | 43.2 MB | 2026-09-11 |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Java](./1752-check-if-array-is-sorted-and-rotated/solution.java) | `🟢 Easy` | 0 ms | 42.8 MB | 2026-03-29 |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [MySQL](./1757-recyclable-and-low-fat-products/solution.sql) | `🟢 Easy` | 553 ms | 0B | 2026-11-27 |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Java](./1763-longest-nice-substring/solution.java) | `🟢 Easy` | 26 ms | 46.5 MB | 2026-09-16 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Java](./1768-merge-strings-alternately/solution.java) | `🟢 Easy` | 1 ms | 42.7 MB | 2026-11-25 |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Java](./1773-count-items-matching-a-rule/solution.java) | `🟢 Easy` | 4 ms | 49.9 MB | 2026-09-10 |

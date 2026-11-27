@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-27T01:17:21.651Z",
-  "totalSolved": 371,
+  "lastSyncedAt": "2026-11-27T15:50:36.270Z",
+  "totalSolved": 376,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -180,6 +180,25 @@
           "memory": "45.5 MB",
           "memoryPercentile": "53.97%",
           "timestamp": 1790790046
+        }
+      ]
+    },
+    "1148": {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "titleSlug": "article-views-i",
+      "difficulty": "Easy",
+      "directory": "1148-article-views-i",
+      "submissions": [
+        {
+          "submissionId": "2204603198",
+          "language": "mysql",
+          "file": "solution.sql",
+          "runtime": "635 ms",
+          "runtimePercentile": "11.49%",
+          "memory": "0B",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1795789726
         }
       ]
     },
@@ -1058,6 +1077,25 @@
         }
       ]
     },
+    "1683": {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "titleSlug": "invalid-tweets",
+      "difficulty": "Easy",
+      "directory": "1683-invalid-tweets",
+      "submissions": [
+        {
+          "submissionId": "2204607656",
+          "language": "mysql",
+          "file": "solution.sql",
+          "runtime": "535 ms",
+          "runtimePercentile": "92.95%",
+          "memory": "0B",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1795790244
+        }
+      ]
+    },
     "1700": {
       "frontendId": "1700",
       "title": "Number of Students Unable to Eat Lunch",
@@ -1180,6 +1218,25 @@
           "memory": "42.8 MB",
           "memoryPercentile": "81.53%",
           "timestamp": 1774796865
+        }
+      ]
+    },
+    "1757": {
+      "frontendId": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "titleSlug": "recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "directory": "1757-recyclable-and-low-fat-products",
+      "submissions": [
+        {
+          "submissionId": "2204597173",
+          "language": "mysql",
+          "file": "solution.sql",
+          "runtime": "553 ms",
+          "runtimePercentile": "69.95%",
+          "memory": "0B",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1795789016
         }
       ]
     },
@@ -9880,6 +9937,44 @@
           "timestamp": 1795630494
         }
       ]
+    },
+    "0584": {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "titleSlug": "find-customer-referee",
+      "difficulty": "Easy",
+      "directory": "0584-find-customer-referee",
+      "submissions": [
+        {
+          "submissionId": "2204599899",
+          "language": "mysql",
+          "file": "solution.sql",
+          "runtime": "434 ms",
+          "runtimePercentile": "92.89%",
+          "memory": "0B",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1795789338
+        }
+      ]
+    },
+    "0595": {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "titleSlug": "big-countries",
+      "difficulty": "Easy",
+      "directory": "0595-big-countries",
+      "submissions": [
+        {
+          "submissionId": "2204601174",
+          "language": "mysql",
+          "file": "solution.sql",
+          "runtime": "266 ms",
+          "runtimePercentile": "93.84%",
+          "memory": "0B",
+          "memoryPercentile": "100.00%",
+          "timestamp": 1795789489
+        }
+      ]
     }
   },
   "syncedSubmissionIds": [
@@ -10536,6 +10631,11 @@
     "2203712728",
     "2203727340",
     "2204126576",
-    "2204127877"
+    "2204127877",
+    "2204597173",
+    "2204599899",
+    "2204601174",
+    "2204603198",
+    "2204607656"
   ]
 }
