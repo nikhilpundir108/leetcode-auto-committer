@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": "2026-11-26T16:01:38.413Z",
-  "totalSolved": 370,
+  "lastSyncedAt": "2026-11-27T01:17:21.651Z",
+  "totalSolved": 371,
   "solvedProblems": {
     "1002": {
       "frontendId": "1002",
@@ -3923,6 +3923,35 @@
           "memory": "196 MB",
           "memoryPercentile": "78.00%",
           "timestamp": 1792852867
+        }
+      ]
+    },
+    "4092": {
+      "frontendId": "4092",
+      "title": "Binary Digit Score",
+      "titleSlug": "binary-digit-score",
+      "difficulty": "Easy",
+      "directory": "4092-binary-digit-score",
+      "submissions": [
+        {
+          "submissionId": "2204126576",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "2 ms",
+          "runtimePercentile": "40.50%",
+          "memory": "42.4 MB",
+          "memoryPercentile": "7.04%",
+          "timestamp": 1795718412
+        },
+        {
+          "submissionId": "2204127877",
+          "language": "java",
+          "file": "solution.java",
+          "runtime": "1 ms",
+          "runtimePercentile": "100.00%",
+          "memory": "41.9 MB",
+          "memoryPercentile": "85.27%",
+          "timestamp": 1795718556
         }
       ]
     },
@@ -10505,6 +10534,8 @@
     "2203414386",
     "2203428936",
     "2203712728",
-    "2203727340"
+    "2203727340",
+    "2204126576",
+    "2204127877"
   ]
 }

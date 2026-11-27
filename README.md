@@ -11,7 +11,7 @@
 
 | 🎯 Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🕒 Last Synced |
 |:---:|:---:|:---:|:---:|:---:|
-| **370** | **226** | **132** | **10** | **2026-11-26 21:31:38 IST** |
+| **371** | **227** | **132** | **10** | **2026-11-27 06:47:21 IST** |
 
 ---
 
@@ -381,6 +381,7 @@
 | 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [Java](./4083-minimum-deletions-to-make-array-sharp/solution.java) | `🟢 Easy` | 1 ms | 46.1 MB | 2026-10-18 |
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [Java](./4088-difference-between-peaks-and-valleys/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-10-24 |
 | 4089 | [Count Subarrays With Loose Bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) | [Java](./4089-count-subarrays-with-loose-bounds/solution.java) | `🟡 Medium` | 7 ms | 196 MB | 2026-10-24 |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [Java](./4092-binary-digit-score/solution.java) | `🟢 Easy` | 1 ms | 41.9 MB | 2026-11-27 |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Java](./4097-minimum-value-of-merged-integers/solution.java) | `🟢 Easy` | 5 ms | 45.9 MB | 2026-11-02 |
 | 4102 | [Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | [Java](./4102-count-valid-substrings-i/solution.java) | `🟡 Medium` | 12 ms | 47.2 MB | 2026-11-26 |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [Java](./4111-count-consistent-subarrays-i/solution.java) | `🟢 Easy` | 2 ms | 45.6 MB | 2026-11-18 |
